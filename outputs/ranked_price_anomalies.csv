@@ -1,0 +1,39 @@
+date,product,category,platform,price,price_48h_ago,change_pct
+2026-11-07,Rice 5kg,Staples,Retailer_C,639.61,328.44,94.74
+2026-11-07,Coffee 200g,Beverages,Retailer_A,247.185,127.31,94.16
+2026-11-08,Coffee 200g,Beverages,Retailer_A,316.98,177.39,78.69
+2026-11-08,Wheat Flour 5kg,Staples,Retailer_B,454.77,264.28,72.08
+2026-11-07,Chocolates Box,Festive Goods,Retailer_C,426.06,255.51,66.75
+2026-11-08,Sugar 1kg,Staples,Retailer_C,72.09,43.31,66.45
+2026-11-08,Coffee 200g,Beverages,Retailer_B,305.15,184.39,65.49
+2026-11-07,Coffee 200g,Beverages,Retailer_B,235.84,147.79,59.58
+2026-11-08,Coffee 200g,Beverages,Retailer_C,234.83,164.83,42.47
+2026-11-07,Wheat Flour 5kg,Staples,Retailer_C,309.44,218.04,41.92
+2026-11-09,Coffee 200g,Beverages,Retailer_C,234.88,166.02,41.48
+2026-11-06,Coffee 200g,Beverages,Retailer_A,177.39,125.94,40.85
+2026-11-07,Wheat Flour 5kg,Staples,Retailer_B,364.89,259.91,40.39
+2026-11-08,Wheat Flour 5kg,Staples,Retailer_C,305.99,218.85,39.82
+2026-11-06,Rice 5kg,Staples,Retailer_C,457.42,331.48,37.99
+2026-11-08,Rice 5kg,Staples,Retailer_C,631.09,457.42,37.97
+2026-11-07,Sugar 1kg,Staples,Retailer_A,55.49,40.44,37.22
+2026-11-06,Sugar 1kg,Staples,Retailer_A,55.28,40.65,35.99
+2026-11-08,Wheat Flour 5kg,Staples,Retailer_A,245.47,181.29,35.4
+2026-11-08,Tea 500g,Beverages,Retailer_A,254.61,189.46,34.39
+2026-11-09,Tea 500g,Beverages,Retailer_A,255.32,190.6,33.96
+2026-11-06,Chocolates Box,Festive Goods,Retailer_C,342.53,257.1,33.23
+2026-11-09,Sugar 1kg,Staples,Retailer_C,72.94,55.3,31.9
+2026-11-07,Wheat Flour 5kg,Staples,Retailer_A,242.65,184.58,31.46
+2026-11-07,Sugar 1kg,Staples,Retailer_C,55.3,42.5,30.12
+2026-11-08,Tea 500g,Beverages,Retailer_C,204.14,158.62,28.7
+2026-11-09,Coffee 200g,Beverages,Retailer_A,316.08,247.185,27.87
+2026-11-07,Tea 500g,Beverages,Retailer_C,203.18,159.85,27.11
+2026-11-07,Dry Fruits 500g,Festive Goods,Retailer_C,497.35,391.5,27.04
+2026-11-07,Rice 5kg,Staples,Retailer_A,384.06,303.59,26.51
+2026-11-06,Rice 5kg,Staples,Retailer_A,386.04,308.31,25.21
+2026-11-09,Wheat Flour 5kg,Staples,Retailer_B,456.06,364.89,24.99
+2026-11-08,Dry Fruits 500g,Festive Goods,Retailer_B,543.33,437.72,24.13
+2026-11-07,Dry Fruits 500g,Festive Goods,Retailer_B,546.09,443.105,23.24
+2026-11-08,Chocolates Box,Festive Goods,Retailer_C,421.04,342.53,22.92
+2026-11-08,Dry Fruits 500g,Festive Goods,Retailer_C,489.9,399.09,22.75
+2026-11-08,Sugar 1kg,Staples,Retailer_A,66.83,55.28,20.89
+2026-11-06,Coffee 200g,Beverages,Retailer_B,184.39,153.11,20.43

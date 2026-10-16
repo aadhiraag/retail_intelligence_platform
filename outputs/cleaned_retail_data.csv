@@ -1,0 +1,1837 @@
+transaction_id,date,platform,product,category,price,currency,price_was_missing
+T001684,2026-10-01,Retailer_A,Biscuits Family Pack,Packaged Food,85.74,INR,0
+T001685,2026-10-02,Retailer_A,Biscuits Family Pack,Packaged Food,84.87,INR,0
+T001686,2026-10-03,Retailer_A,Biscuits Family Pack,Packaged Food,83.91,INR,0
+T001687,2026-10-04,Retailer_A,Biscuits Family Pack,Packaged Food,84.69,INR,0
+T001688,2026-10-05,Retailer_A,Biscuits Family Pack,Packaged Food,83.25,INR,0
+T001689,2026-10-06,Retailer_A,Biscuits Family Pack,Packaged Food,81.87,INR,0
+T001690,2026-10-07,Retailer_A,Biscuits Family Pack,Packaged Food,83.9,INR,0
+T001691,2026-10-08,Retailer_A,Biscuits Family Pack,Packaged Food,81.99,INR,0
+T001692,2026-10-09,Retailer_A,Biscuits Family Pack,Packaged Food,82.91,INR,0
+T001693,2026-10-10,Retailer_A,Biscuits Family Pack,Packaged Food,82.61,INR,0
+T001694,2026-10-11,Retailer_A,Biscuits Family Pack,Packaged Food,83.16,INR,0
+T001695,2026-10-12,Retailer_A,Biscuits Family Pack,Packaged Food,83.77,INR,0
+T001696,2026-10-13,Retailer_A,Biscuits Family Pack,Packaged Food,83.55,INR,0
+T001697,2026-10-14,Retailer_A,Biscuits Family Pack,Packaged Food,83.57,INR,0
+T001698,2026-10-15,Retailer_A,Biscuits Family Pack,Packaged Food,84.68,INR,1
+T001699,2026-10-16,Retailer_A,Biscuits Family Pack,Packaged Food,85.79,INR,0
+T001700,2026-10-17,Retailer_A,Biscuits Family Pack,Packaged Food,86.9,INR,0
+T001701,2026-10-18,Retailer_A,Biscuits Family Pack,Packaged Food,87.18,INR,0
+T001702,2026-10-19,Retailer_A,Biscuits Family Pack,Packaged Food,86.93,INR,0
+T001703,2026-10-20,Retailer_A,Biscuits Family Pack,Packaged Food,85.93,INR,0
+T001704,2026-10-21,Retailer_A,Biscuits Family Pack,Packaged Food,86.18,INR,0
+T001705,2026-10-22,Retailer_A,Biscuits Family Pack,Packaged Food,86.14,INR,0
+T001706,2026-10-23,Retailer_A,Biscuits Family Pack,Packaged Food,87.26,INR,0
+T001707,2026-10-24,Retailer_A,Biscuits Family Pack,Packaged Food,87.88,INR,0
+T001708,2026-10-25,Retailer_A,Biscuits Family Pack,Packaged Food,89.27,INR,0
+T001709,2026-10-26,Retailer_A,Biscuits Family Pack,Packaged Food,87.99,INR,0
+T001710,2026-10-27,Retailer_A,Biscuits Family Pack,Packaged Food,89.73,INR,0
+T001711,2026-10-28,Retailer_A,Biscuits Family Pack,Packaged Food,90.21,INR,0
+T001712,2026-10-29,Retailer_A,Biscuits Family Pack,Packaged Food,89.09,INR,0
+T001713,2026-10-30,Retailer_A,Biscuits Family Pack,Packaged Food,87.6,INR,0
+T001714,2026-10-31,Retailer_A,Biscuits Family Pack,Packaged Food,88.73,INR,0
+T001715,2026-11-01,Retailer_A,Biscuits Family Pack,Packaged Food,88.59,INR,0
+T001716,2026-11-02,Retailer_A,Biscuits Family Pack,Packaged Food,88.27,INR,0
+T001717,2026-11-03,Retailer_A,Biscuits Family Pack,Packaged Food,88.21,INR,0
+T001718,2026-11-04,Retailer_A,Biscuits Family Pack,Packaged Food,88.91,INR,0
+T001719,2026-11-05,Retailer_A,Biscuits Family Pack,Packaged Food,88.95,INR,0
+T001720,2026-11-06,Retailer_A,Biscuits Family Pack,Packaged Food,87.26,INR,0
+T001721,2026-11-07,Retailer_A,Biscuits Family Pack,Packaged Food,88.9,INR,0
+T001722,2026-11-08,Retailer_A,Biscuits Family Pack,Packaged Food,88.135,INR,1
+T001723,2026-11-09,Retailer_A,Biscuits Family Pack,Packaged Food,87.37,INR,0
+T001724,2026-11-10,Retailer_A,Biscuits Family Pack,Packaged Food,87.17,INR,0
+T001725,2026-11-11,Retailer_A,Biscuits Family Pack,Packaged Food,87.54,INR,0
+T001726,2026-11-12,Retailer_A,Biscuits Family Pack,Packaged Food,86.14,INR,0
+T001727,2026-11-13,Retailer_A,Biscuits Family Pack,Packaged Food,85.79,INR,0
+T001728,2026-11-14,Retailer_A,Biscuits Family Pack,Packaged Food,84.95,INR,0
+T001729,2026-11-15,Retailer_A,Biscuits Family Pack,Packaged Food,85.31,INR,0
+T001730,2026-11-16,Retailer_A,Biscuits Family Pack,Packaged Food,85.72,INR,0
+T001731,2026-11-17,Retailer_A,Biscuits Family Pack,Packaged Food,85.05,INR,0
+T001732,2026-11-18,Retailer_A,Biscuits Family Pack,Packaged Food,86.12,INR,0
+T001733,2026-11-19,Retailer_A,Biscuits Family Pack,Packaged Food,86.71,INR,0
+T001734,2026-11-20,Retailer_A,Biscuits Family Pack,Packaged Food,85.48,INR,0
+T001225,2026-10-01,Retailer_A,Chocolates Box,Festive Goods,251.7,INR,1
+T001226,2026-10-02,Retailer_A,Chocolates Box,Festive Goods,251.7,INR,0
+T001227,2026-10-03,Retailer_A,Chocolates Box,Festive Goods,251.05,INR,0
+T001228,2026-10-04,Retailer_A,Chocolates Box,Festive Goods,250.41,INR,0
+T001229,2026-10-05,Retailer_A,Chocolates Box,Festive Goods,256.1,INR,0
+T001230,2026-10-06,Retailer_A,Chocolates Box,Festive Goods,255.88,INR,0
+T001231,2026-10-07,Retailer_A,Chocolates Box,Festive Goods,259.2,INR,0
+T001232,2026-10-08,Retailer_A,Chocolates Box,Festive Goods,262.77,INR,0
+T001233,2026-10-09,Retailer_A,Chocolates Box,Festive Goods,263.54,INR,0
+T001234,2026-10-10,Retailer_A,Chocolates Box,Festive Goods,262.99,INR,0
+T001235,2026-10-11,Retailer_A,Chocolates Box,Festive Goods,260.24,INR,0
+T001236,2026-10-12,Retailer_A,Chocolates Box,Festive Goods,255.17,INR,0
+T001237,2026-10-13,Retailer_A,Chocolates Box,Festive Goods,257.1,INR,0
+T001238,2026-10-14,Retailer_A,Chocolates Box,Festive Goods,258.95000000000005,INR,1
+T001239,2026-10-15,Retailer_A,Chocolates Box,Festive Goods,260.8,INR,0
+T001240,2026-10-16,Retailer_A,Chocolates Box,Festive Goods,259.28,INR,0
+T001241,2026-10-17,Retailer_A,Chocolates Box,Festive Goods,265.57,INR,0
+T001242,2026-10-18,Retailer_A,Chocolates Box,Festive Goods,267.16,INR,0
+T001243,2026-10-19,Retailer_A,Chocolates Box,Festive Goods,266.81,INR,0
+T001244,2026-10-20,Retailer_A,Chocolates Box,Festive Goods,260.13,INR,0
+T001245,2026-10-21,Retailer_A,Chocolates Box,Festive Goods,258.94,INR,0
+T001246,2026-10-22,Retailer_A,Chocolates Box,Festive Goods,261.55,INR,0
+T001247,2026-10-23,Retailer_A,Chocolates Box,Festive Goods,266.23,INR,0
+T001248,2026-10-24,Retailer_A,Chocolates Box,Festive Goods,266.38,INR,0
+T001249,2026-10-25,Retailer_A,Chocolates Box,Festive Goods,271.76,INR,0
+T001250,2026-10-26,Retailer_A,Chocolates Box,Festive Goods,268.69,INR,0
+T001251,2026-10-27,Retailer_A,Chocolates Box,Festive Goods,270.11,INR,0
+T001252,2026-10-28,Retailer_A,Chocolates Box,Festive Goods,271.63,INR,0
+T001253,2026-10-29,Retailer_A,Chocolates Box,Festive Goods,273.72,INR,0
+T001254,2026-10-30,Retailer_A,Chocolates Box,Festive Goods,274.32,INR,0
+T001255,2026-10-31,Retailer_A,Chocolates Box,Festive Goods,275.58,INR,0
+T001256,2026-11-01,Retailer_A,Chocolates Box,Festive Goods,272.39,INR,0
+T001257,2026-11-02,Retailer_A,Chocolates Box,Festive Goods,276.88,INR,0
+T001258,2026-11-03,Retailer_A,Chocolates Box,Festive Goods,280.1,INR,0
+T001259,2026-11-04,Retailer_A,Chocolates Box,Festive Goods,281.24,INR,0
+T001260,2026-11-05,Retailer_A,Chocolates Box,Festive Goods,284.6,INR,0
+T001261,2026-11-06,Retailer_A,Chocolates Box,Festive Goods,289.42,INR,0
+T001262,2026-11-07,Retailer_A,Chocolates Box,Festive Goods,286.53,INR,0
+T001263,2026-11-08,Retailer_A,Chocolates Box,Festive Goods,288.98,INR,0
+T001264,2026-11-09,Retailer_A,Chocolates Box,Festive Goods,293.27,INR,0
+T001265,2026-11-10,Retailer_A,Chocolates Box,Festive Goods,286.53,INR,0
+T001266,2026-11-11,Retailer_A,Chocolates Box,Festive Goods,284.66,INR,0
+T001267,2026-11-12,Retailer_A,Chocolates Box,Festive Goods,284.36,INR,0
+T001268,2026-11-13,Retailer_A,Chocolates Box,Festive Goods,288.38,INR,0
+T001269,2026-11-14,Retailer_A,Chocolates Box,Festive Goods,284.94,INR,0
+T001270,2026-11-15,Retailer_A,Chocolates Box,Festive Goods,287.77,INR,0
+T001271,2026-11-16,Retailer_A,Chocolates Box,Festive Goods,283.87,INR,1
+T001272,2026-11-17,Retailer_A,Chocolates Box,Festive Goods,279.97,INR,0
+T001273,2026-11-18,Retailer_A,Chocolates Box,Festive Goods,273.73,INR,0
+T001274,2026-11-19,Retailer_A,Chocolates Box,Festive Goods,273.71,INR,0
+T001275,2026-11-20,Retailer_A,Chocolates Box,Festive Goods,271.18,INR,0
+T000919,2026-10-01,Retailer_A,Coffee 200g,Beverages,165.53,INR,0
+T000920,2026-10-02,Retailer_A,Coffee 200g,Beverages,165.93,INR,0
+T000921,2026-10-03,Retailer_A,Coffee 200g,Beverages,167.01,INR,0
+T000922,2026-10-04,Retailer_A,Coffee 200g,Beverages,165.44,INR,0
+T000923,2026-10-05,Retailer_A,Coffee 200g,Beverages,161.16,INR,0
+T000924,2026-10-06,Retailer_A,Coffee 200g,Beverages,160.04,INR,0
+T000925,2026-10-07,Retailer_A,Coffee 200g,Beverages,160.91,INR,0
+T000926,2026-10-08,Retailer_A,Coffee 200g,Beverages,158.83,INR,0
+T000927,2026-10-09,Retailer_A,Coffee 200g,Beverages,160.87,INR,0
+T000928,2026-10-10,Retailer_A,Coffee 200g,Beverages,160.62,INR,0
+T000929,2026-10-11,Retailer_A,Coffee 200g,Beverages,149.04,INR,0
+T000930,2026-10-12,Retailer_A,Coffee 200g,Beverages,147.925,INR,1
+T000931,2026-10-13,Retailer_A,Coffee 200g,Beverages,146.81,INR,0
+T000932,2026-10-14,Retailer_A,Coffee 200g,Beverages,147.78,INR,0
+T000933,2026-10-15,Retailer_A,Coffee 200g,Beverages,149.89,INR,0
+T000934,2026-10-16,Retailer_A,Coffee 200g,Beverages,148.78,INR,0
+T000935,2026-10-17,Retailer_A,Coffee 200g,Beverages,148.21,INR,0
+T000936,2026-10-18,Retailer_A,Coffee 200g,Beverages,146.26,INR,0
+T000937,2026-10-19,Retailer_A,Coffee 200g,Beverages,142.89,INR,0
+T000938,2026-10-20,Retailer_A,Coffee 200g,Beverages,142.8,INR,0
+T000939,2026-10-21,Retailer_A,Coffee 200g,Beverages,141.8,INR,0
+T000940,2026-10-22,Retailer_A,Coffee 200g,Beverages,143.27,INR,0
+T000941,2026-10-23,Retailer_A,Coffee 200g,Beverages,140.31,INR,0
+T000942,2026-10-24,Retailer_A,Coffee 200g,Beverages,138.86,INR,0
+T000943,2026-10-25,Retailer_A,Coffee 200g,Beverages,136.61,INR,0
+T000944,2026-10-26,Retailer_A,Coffee 200g,Beverages,136.56,INR,0
+T000945,2026-10-27,Retailer_A,Coffee 200g,Beverages,135.45,INR,0
+T000946,2026-10-28,Retailer_A,Coffee 200g,Beverages,133.38,INR,0
+T000947,2026-10-29,Retailer_A,Coffee 200g,Beverages,131.41,INR,0
+T000948,2026-10-30,Retailer_A,Coffee 200g,Beverages,130.81,INR,0
+T000949,2026-10-31,Retailer_A,Coffee 200g,Beverages,129.63,INR,0
+T000950,2026-11-01,Retailer_A,Coffee 200g,Beverages,128.27,INR,0
+T000951,2026-11-02,Retailer_A,Coffee 200g,Beverages,128.36,INR,0
+T000952,2026-11-03,Retailer_A,Coffee 200g,Beverages,125.62,INR,0
+T000953,2026-11-04,Retailer_A,Coffee 200g,Beverages,125.94,INR,0
+T000954,2026-11-05,Retailer_A,Coffee 200g,Beverages,127.31,INR,0
+T000955,2026-11-06,Retailer_A,Coffee 200g,Beverages,177.39,INR,0
+T000956,2026-11-07,Retailer_A,Coffee 200g,Beverages,247.185,INR,1
+T000957,2026-11-08,Retailer_A,Coffee 200g,Beverages,316.98,INR,0
+T000958,2026-11-09,Retailer_A,Coffee 200g,Beverages,316.08,INR,0
+T000959,2026-11-10,Retailer_A,Coffee 200g,Beverages,316.48,INR,0
+T000960,2026-11-11,Retailer_A,Coffee 200g,Beverages,311.39,INR,0
+T000961,2026-11-12,Retailer_A,Coffee 200g,Beverages,273.84,INR,0
+T000962,2026-11-13,Retailer_A,Coffee 200g,Beverages,275.45,INR,0
+T000963,2026-11-14,Retailer_A,Coffee 200g,Beverages,273.6,INR,0
+T000964,2026-11-15,Retailer_A,Coffee 200g,Beverages,272.77,INR,0
+T000965,2026-11-16,Retailer_A,Coffee 200g,Beverages,271.82,INR,0
+T000966,2026-11-17,Retailer_A,Coffee 200g,Beverages,269.32,INR,0
+T000967,2026-11-18,Retailer_A,Coffee 200g,Beverages,264.92,INR,0
+T000968,2026-11-19,Retailer_A,Coffee 200g,Beverages,247.48,INR,0
+T000969,2026-11-20,Retailer_A,Coffee 200g,Beverages,247.74,INR,0
+T001531,2026-10-01,Retailer_A,Detergent 1kg,Home Care,136.35,INR,0
+T001532,2026-10-02,Retailer_A,Detergent 1kg,Home Care,139.26,INR,0
+T001533,2026-10-03,Retailer_A,Detergent 1kg,Home Care,139.71,INR,0
+T001534,2026-10-04,Retailer_A,Detergent 1kg,Home Care,139.55,INR,1
+T001535,2026-10-05,Retailer_A,Detergent 1kg,Home Care,139.39,INR,0
+T001536,2026-10-06,Retailer_A,Detergent 1kg,Home Care,143.86,INR,0
+T001537,2026-10-07,Retailer_A,Detergent 1kg,Home Care,141.34,INR,0
+T001538,2026-10-08,Retailer_A,Detergent 1kg,Home Care,141.25,INR,0
+T001539,2026-10-09,Retailer_A,Detergent 1kg,Home Care,142.19,INR,0
+T001540,2026-10-10,Retailer_A,Detergent 1kg,Home Care,141.09,INR,0
+T001541,2026-10-11,Retailer_A,Detergent 1kg,Home Care,139.61,INR,0
+T001542,2026-10-12,Retailer_A,Detergent 1kg,Home Care,138.07,INR,0
+T001543,2026-10-13,Retailer_A,Detergent 1kg,Home Care,139.83,INR,0
+T001544,2026-10-14,Retailer_A,Detergent 1kg,Home Care,141.47,INR,0
+T001545,2026-10-15,Retailer_A,Detergent 1kg,Home Care,142.79,INR,0
+T001546,2026-10-16,Retailer_A,Detergent 1kg,Home Care,144.27,INR,0
+T001547,2026-10-17,Retailer_A,Detergent 1kg,Home Care,145.36,INR,0
+T001548,2026-10-18,Retailer_A,Detergent 1kg,Home Care,143.64,INR,0
+T001549,2026-10-19,Retailer_A,Detergent 1kg,Home Care,142.41,INR,0
+T001550,2026-10-20,Retailer_A,Detergent 1kg,Home Care,143.59,INR,0
+T001551,2026-10-21,Retailer_A,Detergent 1kg,Home Care,141.9,INR,0
+T001552,2026-10-22,Retailer_A,Detergent 1kg,Home Care,141.29,INR,0
+T001553,2026-10-23,Retailer_A,Detergent 1kg,Home Care,138.88,INR,0
+T001554,2026-10-24,Retailer_A,Detergent 1kg,Home Care,139.02,INR,0
+T001555,2026-10-25,Retailer_A,Detergent 1kg,Home Care,138.83,INR,0
+T001556,2026-10-26,Retailer_A,Detergent 1kg,Home Care,136.66,INR,0
+T001557,2026-10-27,Retailer_A,Detergent 1kg,Home Care,138.34,INR,0
+T001558,2026-10-28,Retailer_A,Detergent 1kg,Home Care,137.39,INR,0
+T001559,2026-10-29,Retailer_A,Detergent 1kg,Home Care,136.89,INR,0
+T001560,2026-10-30,Retailer_A,Detergent 1kg,Home Care,137.59,INR,0
+T001561,2026-10-31,Retailer_A,Detergent 1kg,Home Care,138.38,INR,0
+T001562,2026-11-01,Retailer_A,Detergent 1kg,Home Care,140.08,INR,0
+T001563,2026-11-02,Retailer_A,Detergent 1kg,Home Care,140.15,INR,0
+T001564,2026-11-03,Retailer_A,Detergent 1kg,Home Care,141.33,INR,0
+T001565,2026-11-04,Retailer_A,Detergent 1kg,Home Care,143.05,INR,0
+T001566,2026-11-05,Retailer_A,Detergent 1kg,Home Care,140.79,INR,0
+T001567,2026-11-06,Retailer_A,Detergent 1kg,Home Care,144.56,INR,0
+T001568,2026-11-07,Retailer_A,Detergent 1kg,Home Care,147.04,INR,0
+T001569,2026-11-08,Retailer_A,Detergent 1kg,Home Care,144.11,INR,0
+T001570,2026-11-09,Retailer_A,Detergent 1kg,Home Care,144.55,INR,0
+T001571,2026-11-10,Retailer_A,Detergent 1kg,Home Care,142.96,INR,0
+T001572,2026-11-11,Retailer_A,Detergent 1kg,Home Care,144.02,INR,0
+T001573,2026-11-12,Retailer_A,Detergent 1kg,Home Care,143.24,INR,0
+T001574,2026-11-13,Retailer_A,Detergent 1kg,Home Care,141.39,INR,0
+T001575,2026-11-14,Retailer_A,Detergent 1kg,Home Care,140.57,INR,0
+T001576,2026-11-15,Retailer_A,Detergent 1kg,Home Care,142.42,INR,0
+T001577,2026-11-16,Retailer_A,Detergent 1kg,Home Care,143.97,INR,0
+T001578,2026-11-17,Retailer_A,Detergent 1kg,Home Care,145.89,INR,0
+T001579,2026-11-18,Retailer_A,Detergent 1kg,Home Care,133.86,INR,0
+T001580,2026-11-19,Retailer_A,Detergent 1kg,Home Care,134.4,INR,0
+T001581,2026-11-20,Retailer_A,Detergent 1kg,Home Care,132.22,INR,0
+T001378,2026-10-01,Retailer_A,Dry Fruits 500g,Festive Goods,424.94,INR,0
+T001379,2026-10-02,Retailer_A,Dry Fruits 500g,Festive Goods,419.86,INR,0
+T001380,2026-10-03,Retailer_A,Dry Fruits 500g,Festive Goods,419.32,INR,0
+T001381,2026-10-04,Retailer_A,Dry Fruits 500g,Festive Goods,420.48,INR,0
+T001382,2026-10-05,Retailer_A,Dry Fruits 500g,Festive Goods,420.86,INR,0
+T001383,2026-10-06,Retailer_A,Dry Fruits 500g,Festive Goods,426.4,INR,0
+T001384,2026-10-07,Retailer_A,Dry Fruits 500g,Festive Goods,430.14,INR,0
+T001385,2026-10-08,Retailer_A,Dry Fruits 500g,Festive Goods,424.74,INR,0
+T001386,2026-10-09,Retailer_A,Dry Fruits 500g,Festive Goods,421.58,INR,0
+T001387,2026-10-10,Retailer_A,Dry Fruits 500g,Festive Goods,426.52,INR,0
+T001388,2026-10-11,Retailer_A,Dry Fruits 500g,Festive Goods,433.84,INR,0
+T001389,2026-10-12,Retailer_A,Dry Fruits 500g,Festive Goods,435.11,INR,0
+T001390,2026-10-13,Retailer_A,Dry Fruits 500g,Festive Goods,395.85,INR,0
+T001391,2026-10-14,Retailer_A,Dry Fruits 500g,Festive Goods,394.24,INR,0
+T001392,2026-10-15,Retailer_A,Dry Fruits 500g,Festive Goods,387.29,INR,0
+T001393,2026-10-16,Retailer_A,Dry Fruits 500g,Festive Goods,383.65,INR,0
+T001394,2026-10-17,Retailer_A,Dry Fruits 500g,Festive Goods,378.65,INR,0
+T001395,2026-10-18,Retailer_A,Dry Fruits 500g,Festive Goods,380.97,INR,0
+T001396,2026-10-19,Retailer_A,Dry Fruits 500g,Festive Goods,381.27,INR,0
+T001397,2026-10-20,Retailer_A,Dry Fruits 500g,Festive Goods,372.84,INR,0
+T001398,2026-10-21,Retailer_A,Dry Fruits 500g,Festive Goods,368.04,INR,0
+T001399,2026-10-22,Retailer_A,Dry Fruits 500g,Festive Goods,368.56,INR,0
+T001400,2026-10-23,Retailer_A,Dry Fruits 500g,Festive Goods,362.71,INR,0
+T001401,2026-10-24,Retailer_A,Dry Fruits 500g,Festive Goods,359.09,INR,0
+T001402,2026-10-25,Retailer_A,Dry Fruits 500g,Festive Goods,360.41,INR,0
+T001403,2026-10-26,Retailer_A,Dry Fruits 500g,Festive Goods,363.66,INR,0
+T001404,2026-10-27,Retailer_A,Dry Fruits 500g,Festive Goods,363.65,INR,0
+T001405,2026-10-28,Retailer_A,Dry Fruits 500g,Festive Goods,365.88,INR,0
+T001406,2026-10-29,Retailer_A,Dry Fruits 500g,Festive Goods,364.14,INR,0
+T001407,2026-10-30,Retailer_A,Dry Fruits 500g,Festive Goods,360.57,INR,0
+T001408,2026-10-31,Retailer_A,Dry Fruits 500g,Festive Goods,360.16,INR,0
+T001409,2026-11-01,Retailer_A,Dry Fruits 500g,Festive Goods,357.4,INR,0
+T001410,2026-11-02,Retailer_A,Dry Fruits 500g,Festive Goods,354.56,INR,0
+T001411,2026-11-03,Retailer_A,Dry Fruits 500g,Festive Goods,358.72,INR,0
+T001412,2026-11-04,Retailer_A,Dry Fruits 500g,Festive Goods,355.01,INR,0
+T001413,2026-11-05,Retailer_A,Dry Fruits 500g,Festive Goods,352.62,INR,0
+T001414,2026-11-06,Retailer_A,Dry Fruits 500g,Festive Goods,356.94,INR,0
+T001415,2026-11-07,Retailer_A,Dry Fruits 500g,Festive Goods,357.12,INR,0
+T001416,2026-11-08,Retailer_A,Dry Fruits 500g,Festive Goods,351.98,INR,0
+T001417,2026-11-09,Retailer_A,Dry Fruits 500g,Festive Goods,359.95,INR,0
+T001418,2026-11-10,Retailer_A,Dry Fruits 500g,Festive Goods,350.3,INR,0
+T001419,2026-11-11,Retailer_A,Dry Fruits 500g,Festive Goods,358.47,INR,0
+T001420,2026-11-12,Retailer_A,Dry Fruits 500g,Festive Goods,366.35,INR,0
+T001421,2026-11-13,Retailer_A,Dry Fruits 500g,Festive Goods,370.36,INR,0
+T001422,2026-11-14,Retailer_A,Dry Fruits 500g,Festive Goods,371.36,INR,0
+T001423,2026-11-15,Retailer_A,Dry Fruits 500g,Festive Goods,368.49,INR,0
+T001424,2026-11-16,Retailer_A,Dry Fruits 500g,Festive Goods,372.46,INR,0
+T001425,2026-11-17,Retailer_A,Dry Fruits 500g,Festive Goods,373.7,INR,0
+T001426,2026-11-18,Retailer_A,Dry Fruits 500g,Festive Goods,372.3,INR,0
+T001427,2026-11-19,Retailer_A,Dry Fruits 500g,Festive Goods,376.19,INR,0
+T001428,2026-11-20,Retailer_A,Dry Fruits 500g,Festive Goods,380.96,INR,0
+T001072,2026-10-01,Retailer_A,Ghee 500ml,Dairy,308.38,INR,0
+T001073,2026-10-02,Retailer_A,Ghee 500ml,Dairy,312.01,INR,0
+T001074,2026-10-03,Retailer_A,Ghee 500ml,Dairy,318.67,INR,0
+T001075,2026-10-04,Retailer_A,Ghee 500ml,Dairy,318.72,INR,0
+T001076,2026-10-05,Retailer_A,Ghee 500ml,Dairy,318.34,INR,0
+T001077,2026-10-06,Retailer_A,Ghee 500ml,Dairy,312.67,INR,0
+T001078,2026-10-07,Retailer_A,Ghee 500ml,Dairy,309.79,INR,0
+T001079,2026-10-08,Retailer_A,Ghee 500ml,Dairy,306.84,INR,0
+T001080,2026-10-09,Retailer_A,Ghee 500ml,Dairy,307.7,INR,0
+T001081,2026-10-10,Retailer_A,Ghee 500ml,Dairy,309.84,INR,0
+T001082,2026-10-11,Retailer_A,Ghee 500ml,Dairy,310.87,INR,0
+T001083,2026-10-12,Retailer_A,Ghee 500ml,Dairy,306.85,INR,0
+T001084,2026-10-13,Retailer_A,Ghee 500ml,Dairy,312.68,INR,0
+T001085,2026-10-14,Retailer_A,Ghee 500ml,Dairy,308.76,INR,0
+T001086,2026-10-15,Retailer_A,Ghee 500ml,Dairy,308.43,INR,0
+T001087,2026-10-16,Retailer_A,Ghee 500ml,Dairy,307.3,INR,0
+T001088,2026-10-17,Retailer_A,Ghee 500ml,Dairy,304.33,INR,0
+T001089,2026-10-18,Retailer_A,Ghee 500ml,Dairy,307.77,INR,0
+T001090,2026-10-19,Retailer_A,Ghee 500ml,Dairy,305.48,INR,0
+T001091,2026-10-20,Retailer_A,Ghee 500ml,Dairy,293.02,INR,1
+T001092,2026-10-21,Retailer_A,Ghee 500ml,Dairy,280.56,INR,0
+T001093,2026-10-22,Retailer_A,Ghee 500ml,Dairy,282.83,INR,0
+T001094,2026-10-23,Retailer_A,Ghee 500ml,Dairy,286.34,INR,0
+T001095,2026-10-24,Retailer_A,Ghee 500ml,Dairy,287.48,INR,0
+T001096,2026-10-25,Retailer_A,Ghee 500ml,Dairy,291.22,INR,0
+T001097,2026-10-26,Retailer_A,Ghee 500ml,Dairy,287.3,INR,1
+T001098,2026-10-27,Retailer_A,Ghee 500ml,Dairy,283.38,INR,0
+T001099,2026-10-28,Retailer_A,Ghee 500ml,Dairy,285.0,INR,0
+T001100,2026-10-29,Retailer_A,Ghee 500ml,Dairy,287.08,INR,0
+T001101,2026-10-30,Retailer_A,Ghee 500ml,Dairy,280.72,INR,0
+T001102,2026-10-31,Retailer_A,Ghee 500ml,Dairy,282.12,INR,0
+T001103,2026-11-01,Retailer_A,Ghee 500ml,Dairy,284.26,INR,0
+T001104,2026-11-02,Retailer_A,Ghee 500ml,Dairy,284.69,INR,0
+T001105,2026-11-03,Retailer_A,Ghee 500ml,Dairy,280.32,INR,0
+T001106,2026-11-04,Retailer_A,Ghee 500ml,Dairy,278.48,INR,0
+T001107,2026-11-05,Retailer_A,Ghee 500ml,Dairy,282.61,INR,0
+T001108,2026-11-06,Retailer_A,Ghee 500ml,Dairy,286.36,INR,0
+T001109,2026-11-07,Retailer_A,Ghee 500ml,Dairy,287.94,INR,0
+T001110,2026-11-08,Retailer_A,Ghee 500ml,Dairy,290.35,INR,0
+T001111,2026-11-09,Retailer_A,Ghee 500ml,Dairy,293.73,INR,0
+T001112,2026-11-10,Retailer_A,Ghee 500ml,Dairy,295.3,INR,0
+T001113,2026-11-11,Retailer_A,Ghee 500ml,Dairy,299.56,INR,0
+T001114,2026-11-12,Retailer_A,Ghee 500ml,Dairy,303.75,INR,0
+T001115,2026-11-13,Retailer_A,Ghee 500ml,Dairy,313.13,INR,0
+T001116,2026-11-14,Retailer_A,Ghee 500ml,Dairy,275.28,INR,0
+T001117,2026-11-15,Retailer_A,Ghee 500ml,Dairy,272.34,INR,0
+T001118,2026-11-16,Retailer_A,Ghee 500ml,Dairy,270.92,INR,0
+T001119,2026-11-17,Retailer_A,Ghee 500ml,Dairy,269.32,INR,0
+T001120,2026-11-18,Retailer_A,Ghee 500ml,Dairy,269.36,INR,0
+T001121,2026-11-19,Retailer_A,Ghee 500ml,Dairy,270.2,INR,0
+T001122,2026-11-20,Retailer_A,Ghee 500ml,Dairy,271.11,INR,0
+T000001,2026-10-01,Retailer_A,Rice 5kg,Staples,321.17,INR,0
+T000002,2026-10-02,Retailer_A,Rice 5kg,Staples,324.06,INR,0
+T000003,2026-10-03,Retailer_A,Rice 5kg,Staples,316.47,INR,0
+T000004,2026-10-04,Retailer_A,Rice 5kg,Staples,316.96,INR,0
+T000005,2026-10-05,Retailer_A,Rice 5kg,Staples,316.9,INR,0
+T000006,2026-10-06,Retailer_A,Rice 5kg,Staples,320.24,INR,0
+T000007,2026-10-07,Retailer_A,Rice 5kg,Staples,320.49,INR,0
+T000008,2026-10-08,Retailer_A,Rice 5kg,Staples,322.29,INR,0
+T000009,2026-10-09,Retailer_A,Rice 5kg,Staples,323.72,INR,0
+T000010,2026-10-10,Retailer_A,Rice 5kg,Staples,327.13,INR,0
+T000011,2026-10-11,Retailer_A,Rice 5kg,Staples,326.4,INR,0
+T000012,2026-10-12,Retailer_A,Rice 5kg,Staples,331.19,INR,0
+T000013,2026-10-13,Retailer_A,Rice 5kg,Staples,329.49,INR,0
+T000014,2026-10-14,Retailer_A,Rice 5kg,Staples,331.59,INR,0
+T000015,2026-10-15,Retailer_A,Rice 5kg,Staples,336.69,INR,1
+T000016,2026-10-16,Retailer_A,Rice 5kg,Staples,341.79,INR,0
+T000017,2026-10-17,Retailer_A,Rice 5kg,Staples,339.69,INR,0
+T000018,2026-10-18,Retailer_A,Rice 5kg,Staples,342.2,INR,0
+T000019,2026-10-19,Retailer_A,Rice 5kg,Staples,341.73,INR,0
+T000020,2026-10-20,Retailer_A,Rice 5kg,Staples,338.35,INR,0
+T000021,2026-10-21,Retailer_A,Rice 5kg,Staples,341.37,INR,0
+T000022,2026-10-22,Retailer_A,Rice 5kg,Staples,336.57,INR,0
+T000023,2026-10-23,Retailer_A,Rice 5kg,Staples,333.88,INR,0
+T000024,2026-10-24,Retailer_A,Rice 5kg,Staples,334.35,INR,0
+T000025,2026-10-25,Retailer_A,Rice 5kg,Staples,337.85,INR,0
+T000026,2026-10-26,Retailer_A,Rice 5kg,Staples,321.17,INR,0
+T000027,2026-10-27,Retailer_A,Rice 5kg,Staples,323.6,INR,0
+T000028,2026-10-28,Retailer_A,Rice 5kg,Staples,322.36,INR,0
+T000029,2026-10-29,Retailer_A,Rice 5kg,Staples,319.89,INR,0
+T000030,2026-10-30,Retailer_A,Rice 5kg,Staples,324.65,INR,1
+T000031,2026-10-31,Retailer_A,Rice 5kg,Staples,329.41,INR,0
+T000032,2026-11-01,Retailer_A,Rice 5kg,Staples,328.09,INR,0
+T000033,2026-11-02,Retailer_A,Rice 5kg,Staples,330.4,INR,0
+T000034,2026-11-03,Retailer_A,Rice 5kg,Staples,305.17,INR,0
+T000035,2026-11-04,Retailer_A,Rice 5kg,Staples,308.31,INR,0
+T000036,2026-11-05,Retailer_A,Rice 5kg,Staples,303.59,INR,0
+T000037,2026-11-06,Retailer_A,Rice 5kg,Staples,386.04,INR,0
+T000038,2026-11-07,Retailer_A,Rice 5kg,Staples,384.06,INR,0
+T000039,2026-11-08,Retailer_A,Rice 5kg,Staples,382.63,INR,0
+T000040,2026-11-09,Retailer_A,Rice 5kg,Staples,380.96,INR,0
+T000041,2026-11-10,Retailer_A,Rice 5kg,Staples,375.49,INR,0
+T000042,2026-11-11,Retailer_A,Rice 5kg,Staples,373.37,INR,0
+T000043,2026-11-12,Retailer_A,Rice 5kg,Staples,375.52,INR,0
+T000044,2026-11-13,Retailer_A,Rice 5kg,Staples,378.52,INR,0
+T000045,2026-11-14,Retailer_A,Rice 5kg,Staples,376.6,INR,0
+T000046,2026-11-15,Retailer_A,Rice 5kg,Staples,368.97,INR,0
+T000047,2026-11-16,Retailer_A,Rice 5kg,Staples,363.11,INR,0
+T000048,2026-11-17,Retailer_A,Rice 5kg,Staples,364.85,INR,0
+T000049,2026-11-18,Retailer_A,Rice 5kg,Staples,363.19,INR,0
+T000050,2026-11-19,Retailer_A,Rice 5kg,Staples,361.64,INR,0
+T000051,2026-11-20,Retailer_A,Rice 5kg,Staples,357.59,INR,0
+T000307,2026-10-01,Retailer_A,Sugar 1kg,Staples,47.26,INR,0
+T000308,2026-10-02,Retailer_A,Sugar 1kg,Staples,47.4,INR,0
+T000309,2026-10-03,Retailer_A,Sugar 1kg,Staples,48.23,INR,0
+T000310,2026-10-04,Retailer_A,Sugar 1kg,Staples,48.25,INR,0
+T000311,2026-10-05,Retailer_A,Sugar 1kg,Staples,43.68,INR,0
+T000312,2026-10-06,Retailer_A,Sugar 1kg,Staples,43.46,INR,0
+T000313,2026-10-07,Retailer_A,Sugar 1kg,Staples,42.92,INR,0
+T000314,2026-10-08,Retailer_A,Sugar 1kg,Staples,43.75,INR,0
+T000315,2026-10-09,Retailer_A,Sugar 1kg,Staples,43.54,INR,0
+T000316,2026-10-10,Retailer_A,Sugar 1kg,Staples,43.38,INR,0
+T000317,2026-10-11,Retailer_A,Sugar 1kg,Staples,43.28,INR,0
+T000318,2026-10-12,Retailer_A,Sugar 1kg,Staples,43.58,INR,0
+T000319,2026-10-13,Retailer_A,Sugar 1kg,Staples,42.8,INR,0
+T000320,2026-10-14,Retailer_A,Sugar 1kg,Staples,43.85,INR,0
+T000321,2026-10-15,Retailer_A,Sugar 1kg,Staples,43.67,INR,0
+T000322,2026-10-16,Retailer_A,Sugar 1kg,Staples,43.99,INR,0
+T000323,2026-10-17,Retailer_A,Sugar 1kg,Staples,43.32,INR,0
+T000324,2026-10-18,Retailer_A,Sugar 1kg,Staples,43.41,INR,0
+T000325,2026-10-19,Retailer_A,Sugar 1kg,Staples,44.37,INR,0
+T000326,2026-10-20,Retailer_A,Sugar 1kg,Staples,45.26,INR,0
+T000327,2026-10-21,Retailer_A,Sugar 1kg,Staples,41.76,INR,0
+T000328,2026-10-22,Retailer_A,Sugar 1kg,Staples,41.85,INR,0
+T000329,2026-10-23,Retailer_A,Sugar 1kg,Staples,41.69,INR,0
+T000330,2026-10-24,Retailer_A,Sugar 1kg,Staples,41.68,INR,0
+T000331,2026-10-25,Retailer_A,Sugar 1kg,Staples,41.51,INR,0
+T000332,2026-10-26,Retailer_A,Sugar 1kg,Staples,40.66,INR,0
+T000333,2026-10-27,Retailer_A,Sugar 1kg,Staples,40.9,INR,0
+T000334,2026-10-28,Retailer_A,Sugar 1kg,Staples,39.64,INR,0
+T000335,2026-10-29,Retailer_A,Sugar 1kg,Staples,39.77,INR,0
+T000336,2026-10-30,Retailer_A,Sugar 1kg,Staples,39.14,INR,0
+T000337,2026-10-31,Retailer_A,Sugar 1kg,Staples,39.3,INR,0
+T000338,2026-11-01,Retailer_A,Sugar 1kg,Staples,39.48,INR,0
+T000339,2026-11-02,Retailer_A,Sugar 1kg,Staples,39.66,INR,0
+T000340,2026-11-03,Retailer_A,Sugar 1kg,Staples,40.05,INR,0
+T000341,2026-11-04,Retailer_A,Sugar 1kg,Staples,40.65,INR,0
+T000342,2026-11-05,Retailer_A,Sugar 1kg,Staples,40.44,INR,0
+T000343,2026-11-06,Retailer_A,Sugar 1kg,Staples,55.28,INR,0
+T000344,2026-11-07,Retailer_A,Sugar 1kg,Staples,55.49,INR,0
+T000345,2026-11-08,Retailer_A,Sugar 1kg,Staples,66.83,INR,0
+T000346,2026-11-09,Retailer_A,Sugar 1kg,Staples,66.06,INR,0
+T000347,2026-11-10,Retailer_A,Sugar 1kg,Staples,65.9,INR,0
+T000348,2026-11-11,Retailer_A,Sugar 1kg,Staples,65.71,INR,0
+T000349,2026-11-12,Retailer_A,Sugar 1kg,Staples,65.67,INR,0
+T000350,2026-11-13,Retailer_A,Sugar 1kg,Staples,64.9,INR,0
+T000351,2026-11-14,Retailer_A,Sugar 1kg,Staples,65.33,INR,0
+T000352,2026-11-15,Retailer_A,Sugar 1kg,Staples,58.53,INR,0
+T000353,2026-11-16,Retailer_A,Sugar 1kg,Staples,53.22,INR,0
+T000354,2026-11-17,Retailer_A,Sugar 1kg,Staples,52.44,INR,0
+T000355,2026-11-18,Retailer_A,Sugar 1kg,Staples,52.87,INR,0
+T000356,2026-11-19,Retailer_A,Sugar 1kg,Staples,52.22,INR,0
+T000357,2026-11-20,Retailer_A,Sugar 1kg,Staples,52.93,INR,0
+T000154,2026-10-01,Retailer_A,Sunflower Oil 1L,Cooking Oil,145.76,INR,0
+T000155,2026-10-02,Retailer_A,Sunflower Oil 1L,Cooking Oil,146.53,INR,0
+T000156,2026-10-03,Retailer_A,Sunflower Oil 1L,Cooking Oil,146.01,INR,0
+T000157,2026-10-04,Retailer_A,Sunflower Oil 1L,Cooking Oil,144.79,INR,0
+T000158,2026-10-05,Retailer_A,Sunflower Oil 1L,Cooking Oil,142.74,INR,0
+T000159,2026-10-06,Retailer_A,Sunflower Oil 1L,Cooking Oil,142.41,INR,0
+T000160,2026-10-07,Retailer_A,Sunflower Oil 1L,Cooking Oil,143.69,INR,0
+T000161,2026-10-08,Retailer_A,Sunflower Oil 1L,Cooking Oil,144.95,INR,0
+T000162,2026-10-09,Retailer_A,Sunflower Oil 1L,Cooking Oil,144.83,INR,0
+T000163,2026-10-10,Retailer_A,Sunflower Oil 1L,Cooking Oil,143.93,INR,0
+T000164,2026-10-11,Retailer_A,Sunflower Oil 1L,Cooking Oil,145.03,INR,0
+T000165,2026-10-12,Retailer_A,Sunflower Oil 1L,Cooking Oil,143.27,INR,0
+T000166,2026-10-13,Retailer_A,Sunflower Oil 1L,Cooking Oil,141.18,INR,0
+T000167,2026-10-14,Retailer_A,Sunflower Oil 1L,Cooking Oil,141.71,INR,0
+T000168,2026-10-15,Retailer_A,Sunflower Oil 1L,Cooking Oil,142.75,INR,0
+T000169,2026-10-16,Retailer_A,Sunflower Oil 1L,Cooking Oil,143.27,INR,0
+T000170,2026-10-17,Retailer_A,Sunflower Oil 1L,Cooking Oil,143.98,INR,0
+T000171,2026-10-18,Retailer_A,Sunflower Oil 1L,Cooking Oil,140.42,INR,0
+T000172,2026-10-19,Retailer_A,Sunflower Oil 1L,Cooking Oil,141.42,INR,0
+T000173,2026-10-20,Retailer_A,Sunflower Oil 1L,Cooking Oil,143.92,INR,0
+T000174,2026-10-21,Retailer_A,Sunflower Oil 1L,Cooking Oil,145.38,INR,0
+T000175,2026-10-22,Retailer_A,Sunflower Oil 1L,Cooking Oil,146.8,INR,0
+T000176,2026-10-23,Retailer_A,Sunflower Oil 1L,Cooking Oil,147.21,INR,0
+T000177,2026-10-24,Retailer_A,Sunflower Oil 1L,Cooking Oil,147.69,INR,0
+T000178,2026-10-25,Retailer_A,Sunflower Oil 1L,Cooking Oil,147.43,INR,0
+T000179,2026-10-26,Retailer_A,Sunflower Oil 1L,Cooking Oil,148.11,INR,0
+T000180,2026-10-27,Retailer_A,Sunflower Oil 1L,Cooking Oil,146.23,INR,0
+T000181,2026-10-28,Retailer_A,Sunflower Oil 1L,Cooking Oil,148.83,INR,0
+T000182,2026-10-29,Retailer_A,Sunflower Oil 1L,Cooking Oil,147.36,INR,0
+T000183,2026-10-30,Retailer_A,Sunflower Oil 1L,Cooking Oil,148.85,INR,0
+T000184,2026-10-31,Retailer_A,Sunflower Oil 1L,Cooking Oil,151.22,INR,0
+T000185,2026-11-01,Retailer_A,Sunflower Oil 1L,Cooking Oil,152.75,INR,0
+T000186,2026-11-02,Retailer_A,Sunflower Oil 1L,Cooking Oil,157.02,INR,0
+T000187,2026-11-03,Retailer_A,Sunflower Oil 1L,Cooking Oil,153.24,INR,0
+T000188,2026-11-04,Retailer_A,Sunflower Oil 1L,Cooking Oil,139.65,INR,0
+T000189,2026-11-05,Retailer_A,Sunflower Oil 1L,Cooking Oil,136.96,INR,0
+T000190,2026-11-06,Retailer_A,Sunflower Oil 1L,Cooking Oil,134.33,INR,0
+T000191,2026-11-07,Retailer_A,Sunflower Oil 1L,Cooking Oil,135.04,INR,0
+T000192,2026-11-08,Retailer_A,Sunflower Oil 1L,Cooking Oil,135.49,INR,0
+T000193,2026-11-09,Retailer_A,Sunflower Oil 1L,Cooking Oil,131.73,INR,0
+T000194,2026-11-10,Retailer_A,Sunflower Oil 1L,Cooking Oil,130.98,INR,0
+T000195,2026-11-11,Retailer_A,Sunflower Oil 1L,Cooking Oil,132.08,INR,0
+T000196,2026-11-12,Retailer_A,Sunflower Oil 1L,Cooking Oil,131.03,INR,0
+T000197,2026-11-13,Retailer_A,Sunflower Oil 1L,Cooking Oil,132.23,INR,0
+T000198,2026-11-14,Retailer_A,Sunflower Oil 1L,Cooking Oil,133.07,INR,0
+T000199,2026-11-15,Retailer_A,Sunflower Oil 1L,Cooking Oil,132.78,INR,0
+T000200,2026-11-16,Retailer_A,Sunflower Oil 1L,Cooking Oil,134.09,INR,0
+T000201,2026-11-17,Retailer_A,Sunflower Oil 1L,Cooking Oil,134.93,INR,0
+T000202,2026-11-18,Retailer_A,Sunflower Oil 1L,Cooking Oil,134.74,INR,0
+T000203,2026-11-19,Retailer_A,Sunflower Oil 1L,Cooking Oil,131.52,INR,0
+T000204,2026-11-20,Retailer_A,Sunflower Oil 1L,Cooking Oil,129.18,INR,0
+T000766,2026-10-01,Retailer_A,Tea 500g,Beverages,218.32,INR,0
+T000767,2026-10-02,Retailer_A,Tea 500g,Beverages,216.445,INR,1
+T000768,2026-10-03,Retailer_A,Tea 500g,Beverages,214.57,INR,0
+T000769,2026-10-04,Retailer_A,Tea 500g,Beverages,214.0,INR,0
+T000770,2026-10-05,Retailer_A,Tea 500g,Beverages,213.97,INR,0
+T000771,2026-10-06,Retailer_A,Tea 500g,Beverages,195.07,INR,0
+T000772,2026-10-07,Retailer_A,Tea 500g,Beverages,189.89,INR,0
+T000773,2026-10-08,Retailer_A,Tea 500g,Beverages,192.6,INR,0
+T000774,2026-10-09,Retailer_A,Tea 500g,Beverages,193.87,INR,0
+T000775,2026-10-10,Retailer_A,Tea 500g,Beverages,193.59,INR,0
+T000776,2026-10-11,Retailer_A,Tea 500g,Beverages,188.14,INR,0
+T000777,2026-10-12,Retailer_A,Tea 500g,Beverages,185.92,INR,0
+T000778,2026-10-13,Retailer_A,Tea 500g,Beverages,182.83,INR,0
+T000779,2026-10-14,Retailer_A,Tea 500g,Beverages,182.45,INR,0
+T000780,2026-10-15,Retailer_A,Tea 500g,Beverages,183.28,INR,0
+T000781,2026-10-16,Retailer_A,Tea 500g,Beverages,183.99,INR,0
+T000782,2026-10-17,Retailer_A,Tea 500g,Beverages,187.47,INR,0
+T000783,2026-10-18,Retailer_A,Tea 500g,Beverages,187.35,INR,0
+T000784,2026-10-19,Retailer_A,Tea 500g,Beverages,190.19,INR,0
+T000785,2026-10-20,Retailer_A,Tea 500g,Beverages,189.48,INR,0
+T000786,2026-10-21,Retailer_A,Tea 500g,Beverages,190.64,INR,0
+T000787,2026-10-22,Retailer_A,Tea 500g,Beverages,190.14,INR,0
+T000788,2026-10-23,Retailer_A,Tea 500g,Beverages,190.8,INR,0
+T000789,2026-10-24,Retailer_A,Tea 500g,Beverages,190.7,INR,0
+T000790,2026-10-25,Retailer_A,Tea 500g,Beverages,189.15,INR,0
+T000791,2026-10-26,Retailer_A,Tea 500g,Beverages,195.76,INR,0
+T000792,2026-10-27,Retailer_A,Tea 500g,Beverages,196.52,INR,0
+T000793,2026-10-28,Retailer_A,Tea 500g,Beverages,198.10500000000002,INR,1
+T000794,2026-10-29,Retailer_A,Tea 500g,Beverages,199.69,INR,0
+T000795,2026-10-30,Retailer_A,Tea 500g,Beverages,200.15,INR,0
+T000796,2026-10-31,Retailer_A,Tea 500g,Beverages,194.52,INR,0
+T000797,2026-11-01,Retailer_A,Tea 500g,Beverages,193.53,INR,1
+T000798,2026-11-02,Retailer_A,Tea 500g,Beverages,192.54,INR,0
+T000799,2026-11-03,Retailer_A,Tea 500g,Beverages,192.88,INR,0
+T000800,2026-11-04,Retailer_A,Tea 500g,Beverages,193.54,INR,0
+T000801,2026-11-05,Retailer_A,Tea 500g,Beverages,189.44,INR,0
+T000802,2026-11-06,Retailer_A,Tea 500g,Beverages,189.46,INR,0
+T000803,2026-11-07,Retailer_A,Tea 500g,Beverages,190.6,INR,0
+T000804,2026-11-08,Retailer_A,Tea 500g,Beverages,254.61,INR,0
+T000805,2026-11-09,Retailer_A,Tea 500g,Beverages,255.32,INR,1
+T000806,2026-11-10,Retailer_A,Tea 500g,Beverages,256.03,INR,0
+T000807,2026-11-11,Retailer_A,Tea 500g,Beverages,259.94,INR,0
+T000808,2026-11-12,Retailer_A,Tea 500g,Beverages,258.74,INR,0
+T000809,2026-11-13,Retailer_A,Tea 500g,Beverages,253.87,INR,0
+T000810,2026-11-14,Retailer_A,Tea 500g,Beverages,248.51,INR,0
+T000811,2026-11-15,Retailer_A,Tea 500g,Beverages,248.89,INR,0
+T000812,2026-11-16,Retailer_A,Tea 500g,Beverages,245.6,INR,0
+T000813,2026-11-17,Retailer_A,Tea 500g,Beverages,250.9,INR,0
+T000814,2026-11-18,Retailer_A,Tea 500g,Beverages,248.8,INR,0
+T000815,2026-11-19,Retailer_A,Tea 500g,Beverages,248.81,INR,0
+T000816,2026-11-20,Retailer_A,Tea 500g,Beverages,246.72,INR,0
+T000460,2026-10-01,Retailer_A,Toor Dal 1kg,Pulses,156.75,INR,0
+T000461,2026-10-02,Retailer_A,Toor Dal 1kg,Pulses,157.15,INR,0
+T000462,2026-10-03,Retailer_A,Toor Dal 1kg,Pulses,158.08,INR,0
+T000463,2026-10-04,Retailer_A,Toor Dal 1kg,Pulses,158.63,INR,0
+T000464,2026-10-05,Retailer_A,Toor Dal 1kg,Pulses,159.27,INR,0
+T000465,2026-10-06,Retailer_A,Toor Dal 1kg,Pulses,160.0,INR,0
+T000466,2026-10-07,Retailer_A,Toor Dal 1kg,Pulses,156.69,INR,0
+T000467,2026-10-08,Retailer_A,Toor Dal 1kg,Pulses,157.59,INR,0
+T000468,2026-10-09,Retailer_A,Toor Dal 1kg,Pulses,156.24,INR,0
+T000469,2026-10-10,Retailer_A,Toor Dal 1kg,Pulses,155.33,INR,0
+T000470,2026-10-11,Retailer_A,Toor Dal 1kg,Pulses,155.33,INR,0
+T000471,2026-10-12,Retailer_A,Toor Dal 1kg,Pulses,158.34,INR,0
+T000472,2026-10-13,Retailer_A,Toor Dal 1kg,Pulses,156.44,INR,0
+T000473,2026-10-14,Retailer_A,Toor Dal 1kg,Pulses,156.37,INR,0
+T000474,2026-10-15,Retailer_A,Toor Dal 1kg,Pulses,155.89,INR,0
+T000475,2026-10-16,Retailer_A,Toor Dal 1kg,Pulses,157.62,INR,0
+T000476,2026-10-17,Retailer_A,Toor Dal 1kg,Pulses,157.09,INR,0
+T000477,2026-10-18,Retailer_A,Toor Dal 1kg,Pulses,157.51,INR,0
+T000478,2026-10-19,Retailer_A,Toor Dal 1kg,Pulses,157.595,INR,1
+T000479,2026-10-20,Retailer_A,Toor Dal 1kg,Pulses,157.68,INR,0
+T000480,2026-10-21,Retailer_A,Toor Dal 1kg,Pulses,155.0,INR,0
+T000481,2026-10-22,Retailer_A,Toor Dal 1kg,Pulses,155.86,INR,0
+T000482,2026-10-23,Retailer_A,Toor Dal 1kg,Pulses,156.29,INR,0
+T000483,2026-10-24,Retailer_A,Toor Dal 1kg,Pulses,156.99,INR,0
+T000484,2026-10-25,Retailer_A,Toor Dal 1kg,Pulses,154.34,INR,0
+T000485,2026-10-26,Retailer_A,Toor Dal 1kg,Pulses,153.78,INR,0
+T000486,2026-10-27,Retailer_A,Toor Dal 1kg,Pulses,155.39,INR,0
+T000487,2026-10-28,Retailer_A,Toor Dal 1kg,Pulses,158.74,INR,0
+T000488,2026-10-29,Retailer_A,Toor Dal 1kg,Pulses,158.53,INR,0
+T000489,2026-10-30,Retailer_A,Toor Dal 1kg,Pulses,159.99,INR,0
+T000490,2026-10-31,Retailer_A,Toor Dal 1kg,Pulses,160.24,INR,0
+T000491,2026-11-01,Retailer_A,Toor Dal 1kg,Pulses,160.13,INR,0
+T000492,2026-11-02,Retailer_A,Toor Dal 1kg,Pulses,159.33,INR,0
+T000493,2026-11-03,Retailer_A,Toor Dal 1kg,Pulses,159.34,INR,0
+T000494,2026-11-04,Retailer_A,Toor Dal 1kg,Pulses,160.62,INR,0
+T000495,2026-11-05,Retailer_A,Toor Dal 1kg,Pulses,146.86,INR,0
+T000496,2026-11-06,Retailer_A,Toor Dal 1kg,Pulses,149.4,INR,0
+T000497,2026-11-07,Retailer_A,Toor Dal 1kg,Pulses,146.43,INR,0
+T000498,2026-11-08,Retailer_A,Toor Dal 1kg,Pulses,144.64,INR,0
+T000499,2026-11-09,Retailer_A,Toor Dal 1kg,Pulses,144.16,INR,0
+T000500,2026-11-10,Retailer_A,Toor Dal 1kg,Pulses,145.23,INR,0
+T000501,2026-11-11,Retailer_A,Toor Dal 1kg,Pulses,145.78,INR,0
+T000502,2026-11-12,Retailer_A,Toor Dal 1kg,Pulses,146.86,INR,0
+T000503,2026-11-13,Retailer_A,Toor Dal 1kg,Pulses,146.57,INR,1
+T000504,2026-11-14,Retailer_A,Toor Dal 1kg,Pulses,146.28,INR,0
+T000505,2026-11-15,Retailer_A,Toor Dal 1kg,Pulses,148.12,INR,0
+T000506,2026-11-16,Retailer_A,Toor Dal 1kg,Pulses,148.48,INR,0
+T000507,2026-11-17,Retailer_A,Toor Dal 1kg,Pulses,149.34,INR,0
+T000508,2026-11-18,Retailer_A,Toor Dal 1kg,Pulses,149.34,INR,0
+T000509,2026-11-19,Retailer_A,Toor Dal 1kg,Pulses,148.34,INR,0
+T000510,2026-11-20,Retailer_A,Toor Dal 1kg,Pulses,149.55,INR,0
+T000613,2026-10-01,Retailer_A,Wheat Flour 5kg,Staples,237.95,INR,0
+T000614,2026-10-02,Retailer_A,Wheat Flour 5kg,Staples,236.77,INR,0
+T000615,2026-10-03,Retailer_A,Wheat Flour 5kg,Staples,236.28,INR,0
+T000616,2026-10-04,Retailer_A,Wheat Flour 5kg,Staples,239.02,INR,0
+T000617,2026-10-05,Retailer_A,Wheat Flour 5kg,Staples,236.73,INR,0
+T000618,2026-10-06,Retailer_A,Wheat Flour 5kg,Staples,234.67,INR,0
+T000619,2026-10-07,Retailer_A,Wheat Flour 5kg,Staples,236.85,INR,0
+T000620,2026-10-08,Retailer_A,Wheat Flour 5kg,Staples,241.79,INR,0
+T000621,2026-10-09,Retailer_A,Wheat Flour 5kg,Staples,244.69,INR,0
+T000622,2026-10-10,Retailer_A,Wheat Flour 5kg,Staples,247.03,INR,0
+T000623,2026-10-11,Retailer_A,Wheat Flour 5kg,Staples,246.88,INR,0
+T000624,2026-10-12,Retailer_A,Wheat Flour 5kg,Staples,244.4,INR,0
+T000625,2026-10-13,Retailer_A,Wheat Flour 5kg,Staples,246.31,INR,0
+T000626,2026-10-14,Retailer_A,Wheat Flour 5kg,Staples,250.85,INR,0
+T000627,2026-10-15,Retailer_A,Wheat Flour 5kg,Staples,249.72,INR,0
+T000628,2026-10-16,Retailer_A,Wheat Flour 5kg,Staples,218.87,INR,0
+T000629,2026-10-17,Retailer_A,Wheat Flour 5kg,Staples,223.13,INR,0
+T000630,2026-10-18,Retailer_A,Wheat Flour 5kg,Staples,222.55,INR,0
+T000631,2026-10-19,Retailer_A,Wheat Flour 5kg,Staples,214.44,INR,1
+T000632,2026-10-20,Retailer_A,Wheat Flour 5kg,Staples,206.33,INR,0
+T000633,2026-10-21,Retailer_A,Wheat Flour 5kg,Staples,203.05,INR,0
+T000634,2026-10-22,Retailer_A,Wheat Flour 5kg,Staples,207.93,INR,0
+T000635,2026-10-23,Retailer_A,Wheat Flour 5kg,Staples,208.35,INR,0
+T000636,2026-10-24,Retailer_A,Wheat Flour 5kg,Staples,207.36,INR,0
+T000637,2026-10-25,Retailer_A,Wheat Flour 5kg,Staples,208.0,INR,0
+T000638,2026-10-26,Retailer_A,Wheat Flour 5kg,Staples,204.07,INR,0
+T000639,2026-10-27,Retailer_A,Wheat Flour 5kg,Staples,201.24,INR,0
+T000640,2026-10-28,Retailer_A,Wheat Flour 5kg,Staples,201.37,INR,0
+T000641,2026-10-29,Retailer_A,Wheat Flour 5kg,Staples,195.22,INR,0
+T000642,2026-10-30,Retailer_A,Wheat Flour 5kg,Staples,196.99,INR,0
+T000643,2026-10-31,Retailer_A,Wheat Flour 5kg,Staples,191.13,INR,0
+T000644,2026-11-01,Retailer_A,Wheat Flour 5kg,Staples,193.96,INR,0
+T000645,2026-11-02,Retailer_A,Wheat Flour 5kg,Staples,193.15,INR,0
+T000646,2026-11-03,Retailer_A,Wheat Flour 5kg,Staples,195.01,INR,0
+T000647,2026-11-04,Retailer_A,Wheat Flour 5kg,Staples,195.96,INR,0
+T000648,2026-11-05,Retailer_A,Wheat Flour 5kg,Staples,184.58,INR,0
+T000649,2026-11-06,Retailer_A,Wheat Flour 5kg,Staples,181.29,INR,0
+T000650,2026-11-07,Retailer_A,Wheat Flour 5kg,Staples,242.65,INR,0
+T000651,2026-11-08,Retailer_A,Wheat Flour 5kg,Staples,245.47,INR,0
+T000652,2026-11-09,Retailer_A,Wheat Flour 5kg,Staples,245.11,INR,0
+T000653,2026-11-10,Retailer_A,Wheat Flour 5kg,Staples,239.59,INR,0
+T000654,2026-11-11,Retailer_A,Wheat Flour 5kg,Staples,242.11,INR,0
+T000655,2026-11-12,Retailer_A,Wheat Flour 5kg,Staples,243.31,INR,0
+T000656,2026-11-13,Retailer_A,Wheat Flour 5kg,Staples,244.68,INR,0
+T000657,2026-11-14,Retailer_A,Wheat Flour 5kg,Staples,252.64,INR,0
+T000658,2026-11-15,Retailer_A,Wheat Flour 5kg,Staples,250.22,INR,0
+T000659,2026-11-16,Retailer_A,Wheat Flour 5kg,Staples,251.54,INR,0
+T000660,2026-11-17,Retailer_A,Wheat Flour 5kg,Staples,248.42,INR,0
+T000661,2026-11-18,Retailer_A,Wheat Flour 5kg,Staples,249.39,INR,0
+T000662,2026-11-19,Retailer_A,Wheat Flour 5kg,Staples,252.13,INR,0
+T000663,2026-11-20,Retailer_A,Wheat Flour 5kg,Staples,251.36,INR,0
+T001735,2026-10-01,Retailer_B,Biscuits Family Pack,Packaged Food,85.34,INR,0
+T001736,2026-10-02,Retailer_B,Biscuits Family Pack,Packaged Food,85.08,INR,0
+T001737,2026-10-03,Retailer_B,Biscuits Family Pack,Packaged Food,85.5,INR,0
+T001738,2026-10-04,Retailer_B,Biscuits Family Pack,Packaged Food,84.65,INR,0
+T001739,2026-10-05,Retailer_B,Biscuits Family Pack,Packaged Food,84.77,INR,0
+T001740,2026-10-06,Retailer_B,Biscuits Family Pack,Packaged Food,84.6,INR,0
+T001741,2026-10-07,Retailer_B,Biscuits Family Pack,Packaged Food,86.3,INR,0
+T001742,2026-10-08,Retailer_B,Biscuits Family Pack,Packaged Food,86.12,INR,1
+T001743,2026-10-09,Retailer_B,Biscuits Family Pack,Packaged Food,85.94,INR,0
+T001744,2026-10-10,Retailer_B,Biscuits Family Pack,Packaged Food,86.75,INR,0
+T001745,2026-10-11,Retailer_B,Biscuits Family Pack,Packaged Food,86.67,INR,0
+T001746,2026-10-12,Retailer_B,Biscuits Family Pack,Packaged Food,84.7,INR,0
+T001747,2026-10-13,Retailer_B,Biscuits Family Pack,Packaged Food,84.89,INR,0
+T001748,2026-10-14,Retailer_B,Biscuits Family Pack,Packaged Food,83.53,INR,0
+T001749,2026-10-15,Retailer_B,Biscuits Family Pack,Packaged Food,85.59,INR,0
+T001750,2026-10-16,Retailer_B,Biscuits Family Pack,Packaged Food,85.53,INR,0
+T001751,2026-10-17,Retailer_B,Biscuits Family Pack,Packaged Food,87.62,INR,0
+T001752,2026-10-18,Retailer_B,Biscuits Family Pack,Packaged Food,87.83,INR,0
+T001753,2026-10-19,Retailer_B,Biscuits Family Pack,Packaged Food,87.25,INR,0
+T001754,2026-10-20,Retailer_B,Biscuits Family Pack,Packaged Food,88.66,INR,0
+T001755,2026-10-21,Retailer_B,Biscuits Family Pack,Packaged Food,89.14,INR,0
+T001756,2026-10-22,Retailer_B,Biscuits Family Pack,Packaged Food,91.81,INR,0
+T001757,2026-10-23,Retailer_B,Biscuits Family Pack,Packaged Food,91.18,INR,0
+T001758,2026-10-24,Retailer_B,Biscuits Family Pack,Packaged Food,92.71,INR,0
+T001759,2026-10-25,Retailer_B,Biscuits Family Pack,Packaged Food,95.4,INR,0
+T001760,2026-10-26,Retailer_B,Biscuits Family Pack,Packaged Food,97.07,INR,0
+T001761,2026-10-27,Retailer_B,Biscuits Family Pack,Packaged Food,98.01,INR,0
+T001762,2026-10-28,Retailer_B,Biscuits Family Pack,Packaged Food,99.74,INR,0
+T001763,2026-10-29,Retailer_B,Biscuits Family Pack,Packaged Food,99.69,INR,0
+T001764,2026-10-30,Retailer_B,Biscuits Family Pack,Packaged Food,98.77,INR,0
+T001765,2026-10-31,Retailer_B,Biscuits Family Pack,Packaged Food,98.22,INR,0
+T001766,2026-11-01,Retailer_B,Biscuits Family Pack,Packaged Food,98.38,INR,0
+T001767,2026-11-02,Retailer_B,Biscuits Family Pack,Packaged Food,99.4,INR,0
+T001768,2026-11-03,Retailer_B,Biscuits Family Pack,Packaged Food,98.56,INR,0
+T001769,2026-11-04,Retailer_B,Biscuits Family Pack,Packaged Food,98.25,INR,0
+T001770,2026-11-05,Retailer_B,Biscuits Family Pack,Packaged Food,97.51,INR,0
+T001771,2026-11-06,Retailer_B,Biscuits Family Pack,Packaged Food,98.74,INR,0
+T001772,2026-11-07,Retailer_B,Biscuits Family Pack,Packaged Food,101.14,INR,0
+T001773,2026-11-08,Retailer_B,Biscuits Family Pack,Packaged Food,100.02,INR,0
+T001774,2026-11-09,Retailer_B,Biscuits Family Pack,Packaged Food,100.78,INR,0
+T001775,2026-11-10,Retailer_B,Biscuits Family Pack,Packaged Food,102.22,INR,0
+T001776,2026-11-11,Retailer_B,Biscuits Family Pack,Packaged Food,102.06,INR,0
+T001777,2026-11-12,Retailer_B,Biscuits Family Pack,Packaged Food,100.48,INR,0
+T001778,2026-11-13,Retailer_B,Biscuits Family Pack,Packaged Food,102.09,INR,0
+T001779,2026-11-14,Retailer_B,Biscuits Family Pack,Packaged Food,100.44,INR,0
+T001780,2026-11-15,Retailer_B,Biscuits Family Pack,Packaged Food,102.45,INR,0
+T001781,2026-11-16,Retailer_B,Biscuits Family Pack,Packaged Food,101.65,INR,0
+T001782,2026-11-17,Retailer_B,Biscuits Family Pack,Packaged Food,99.85,INR,0
+T001783,2026-11-18,Retailer_B,Biscuits Family Pack,Packaged Food,99.38,INR,0
+T001784,2026-11-19,Retailer_B,Biscuits Family Pack,Packaged Food,99.44,INR,0
+T001785,2026-11-20,Retailer_B,Biscuits Family Pack,Packaged Food,99.75,INR,0
+T001276,2026-10-01,Retailer_B,Chocolates Box,Festive Goods,254.14,INR,0
+T001277,2026-10-02,Retailer_B,Chocolates Box,Festive Goods,258.83,INR,0
+T001278,2026-10-03,Retailer_B,Chocolates Box,Festive Goods,257.12,INR,0
+T001279,2026-10-04,Retailer_B,Chocolates Box,Festive Goods,261.29,INR,0
+T001280,2026-10-05,Retailer_B,Chocolates Box,Festive Goods,258.73,INR,0
+T001281,2026-10-06,Retailer_B,Chocolates Box,Festive Goods,259.01,INR,0
+T001282,2026-10-07,Retailer_B,Chocolates Box,Festive Goods,258.84,INR,0
+T001283,2026-10-08,Retailer_B,Chocolates Box,Festive Goods,262.38,INR,0
+T001284,2026-10-09,Retailer_B,Chocolates Box,Festive Goods,264.55,INR,0
+T001285,2026-10-10,Retailer_B,Chocolates Box,Festive Goods,263.5,INR,0
+T001286,2026-10-11,Retailer_B,Chocolates Box,Festive Goods,265.6,INR,0
+T001287,2026-10-12,Retailer_B,Chocolates Box,Festive Goods,267.48,INR,0
+T001288,2026-10-13,Retailer_B,Chocolates Box,Festive Goods,268.22,INR,1
+T001289,2026-10-14,Retailer_B,Chocolates Box,Festive Goods,268.96,INR,0
+T001290,2026-10-15,Retailer_B,Chocolates Box,Festive Goods,274.25,INR,0
+T001291,2026-10-16,Retailer_B,Chocolates Box,Festive Goods,275.21,INR,0
+T001292,2026-10-17,Retailer_B,Chocolates Box,Festive Goods,271.72,INR,0
+T001293,2026-10-18,Retailer_B,Chocolates Box,Festive Goods,272.25,INR,0
+T001294,2026-10-19,Retailer_B,Chocolates Box,Festive Goods,269.55,INR,0
+T001295,2026-10-20,Retailer_B,Chocolates Box,Festive Goods,247.45,INR,0
+T001296,2026-10-21,Retailer_B,Chocolates Box,Festive Goods,246.92,INR,0
+T001297,2026-10-22,Retailer_B,Chocolates Box,Festive Goods,243.93,INR,0
+T001298,2026-10-23,Retailer_B,Chocolates Box,Festive Goods,242.91,INR,0
+T001299,2026-10-24,Retailer_B,Chocolates Box,Festive Goods,241.68,INR,0
+T001300,2026-10-25,Retailer_B,Chocolates Box,Festive Goods,240.52,INR,0
+T001301,2026-10-26,Retailer_B,Chocolates Box,Festive Goods,240.46,INR,0
+T001302,2026-10-27,Retailer_B,Chocolates Box,Festive Goods,242.45,INR,0
+T001303,2026-10-28,Retailer_B,Chocolates Box,Festive Goods,241.1,INR,0
+T001304,2026-10-29,Retailer_B,Chocolates Box,Festive Goods,240.41,INR,0
+T001305,2026-10-30,Retailer_B,Chocolates Box,Festive Goods,244.93,INR,0
+T001306,2026-10-31,Retailer_B,Chocolates Box,Festive Goods,239.72,INR,0
+T001307,2026-11-01,Retailer_B,Chocolates Box,Festive Goods,243.27,INR,0
+T001308,2026-11-02,Retailer_B,Chocolates Box,Festive Goods,246.18,INR,0
+T001309,2026-11-03,Retailer_B,Chocolates Box,Festive Goods,241.79,INR,0
+T001310,2026-11-04,Retailer_B,Chocolates Box,Festive Goods,212.56,INR,0
+T001311,2026-11-05,Retailer_B,Chocolates Box,Festive Goods,207.69,INR,0
+T001312,2026-11-06,Retailer_B,Chocolates Box,Festive Goods,205.12,INR,0
+T001313,2026-11-07,Retailer_B,Chocolates Box,Festive Goods,208.56,INR,0
+T001314,2026-11-08,Retailer_B,Chocolates Box,Festive Goods,208.92,INR,0
+T001315,2026-11-09,Retailer_B,Chocolates Box,Festive Goods,211.07,INR,0
+T001316,2026-11-10,Retailer_B,Chocolates Box,Festive Goods,213.19,INR,0
+T001317,2026-11-11,Retailer_B,Chocolates Box,Festive Goods,213.73,INR,0
+T001318,2026-11-12,Retailer_B,Chocolates Box,Festive Goods,214.635,INR,1
+T001319,2026-11-13,Retailer_B,Chocolates Box,Festive Goods,215.54,INR,0
+T001320,2026-11-14,Retailer_B,Chocolates Box,Festive Goods,215.41,INR,0
+T001321,2026-11-15,Retailer_B,Chocolates Box,Festive Goods,215.22,INR,0
+T001322,2026-11-16,Retailer_B,Chocolates Box,Festive Goods,214.85,INR,0
+T001323,2026-11-17,Retailer_B,Chocolates Box,Festive Goods,215.15,INR,0
+T001324,2026-11-18,Retailer_B,Chocolates Box,Festive Goods,217.83,INR,0
+T001325,2026-11-19,Retailer_B,Chocolates Box,Festive Goods,218.29,INR,0
+T001326,2026-11-20,Retailer_B,Chocolates Box,Festive Goods,213.75,INR,0
+T000970,2026-10-01,Retailer_B,Coffee 200g,Beverages,169.74,INR,0
+T000971,2026-10-02,Retailer_B,Coffee 200g,Beverages,168.66,INR,0
+T000972,2026-10-03,Retailer_B,Coffee 200g,Beverages,167.75,INR,0
+T000973,2026-10-04,Retailer_B,Coffee 200g,Beverages,168.62,INR,0
+T000974,2026-10-05,Retailer_B,Coffee 200g,Beverages,165.78,INR,0
+T000975,2026-10-06,Retailer_B,Coffee 200g,Beverages,165.59,INR,0
+T000976,2026-10-07,Retailer_B,Coffee 200g,Beverages,167.95,INR,0
+T000977,2026-10-08,Retailer_B,Coffee 200g,Beverages,165.4,INR,0
+T000978,2026-10-09,Retailer_B,Coffee 200g,Beverages,166.71,INR,0
+T000979,2026-10-10,Retailer_B,Coffee 200g,Beverages,167.03,INR,0
+T000980,2026-10-11,Retailer_B,Coffee 200g,Beverages,165.71,INR,0
+T000981,2026-10-12,Retailer_B,Coffee 200g,Beverages,166.66,INR,0
+T000982,2026-10-13,Retailer_B,Coffee 200g,Beverages,165.08,INR,0
+T000983,2026-10-14,Retailer_B,Coffee 200g,Beverages,164.94,INR,0
+T000984,2026-10-15,Retailer_B,Coffee 200g,Beverages,162.03,INR,0
+T000985,2026-10-16,Retailer_B,Coffee 200g,Beverages,156.97,INR,0
+T000986,2026-10-17,Retailer_B,Coffee 200g,Beverages,156.07,INR,0
+T000987,2026-10-18,Retailer_B,Coffee 200g,Beverages,155.15,INR,0
+T000988,2026-10-19,Retailer_B,Coffee 200g,Beverages,154.41,INR,0
+T000989,2026-10-20,Retailer_B,Coffee 200g,Beverages,155.78,INR,0
+T000990,2026-10-21,Retailer_B,Coffee 200g,Beverages,157.64,INR,0
+T000991,2026-10-22,Retailer_B,Coffee 200g,Beverages,158.2,INR,0
+T000992,2026-10-23,Retailer_B,Coffee 200g,Beverages,159.45,INR,0
+T000993,2026-10-24,Retailer_B,Coffee 200g,Beverages,157.99,INR,0
+T000994,2026-10-25,Retailer_B,Coffee 200g,Beverages,156.1,INR,0
+T000995,2026-10-26,Retailer_B,Coffee 200g,Beverages,157.03,INR,0
+T000996,2026-10-27,Retailer_B,Coffee 200g,Beverages,154.91,INR,0
+T000997,2026-10-28,Retailer_B,Coffee 200g,Beverages,152.63,INR,0
+T000998,2026-10-29,Retailer_B,Coffee 200g,Beverages,157.86,INR,0
+T000999,2026-10-30,Retailer_B,Coffee 200g,Beverages,157.96,INR,0
+T001000,2026-10-31,Retailer_B,Coffee 200g,Beverages,157.03,INR,0
+T001001,2026-11-01,Retailer_B,Coffee 200g,Beverages,155.89,INR,0
+T001002,2026-11-02,Retailer_B,Coffee 200g,Beverages,153.18,INR,0
+T001003,2026-11-03,Retailer_B,Coffee 200g,Beverages,153.68,INR,0
+T001004,2026-11-04,Retailer_B,Coffee 200g,Beverages,153.11,INR,0
+T001005,2026-11-05,Retailer_B,Coffee 200g,Beverages,147.79,INR,0
+T001006,2026-11-06,Retailer_B,Coffee 200g,Beverages,184.39,INR,0
+T001007,2026-11-07,Retailer_B,Coffee 200g,Beverages,235.84,INR,0
+T001008,2026-11-08,Retailer_B,Coffee 200g,Beverages,305.15,INR,0
+T001009,2026-11-09,Retailer_B,Coffee 200g,Beverages,274.8,INR,0
+T001010,2026-11-10,Retailer_B,Coffee 200g,Beverages,275.32,INR,0
+T001011,2026-11-11,Retailer_B,Coffee 200g,Beverages,277.89,INR,0
+T001012,2026-11-12,Retailer_B,Coffee 200g,Beverages,276.33,INR,0
+T001013,2026-11-13,Retailer_B,Coffee 200g,Beverages,277.88,INR,0
+T001014,2026-11-14,Retailer_B,Coffee 200g,Beverages,279.98,INR,0
+T001015,2026-11-15,Retailer_B,Coffee 200g,Beverages,282.73,INR,0
+T001016,2026-11-16,Retailer_B,Coffee 200g,Beverages,285.39,INR,0
+T001017,2026-11-17,Retailer_B,Coffee 200g,Beverages,282.63,INR,0
+T001018,2026-11-18,Retailer_B,Coffee 200g,Beverages,287.86,INR,0
+T001019,2026-11-19,Retailer_B,Coffee 200g,Beverages,286.20500000000004,INR,1
+T001020,2026-11-20,Retailer_B,Coffee 200g,Beverages,284.55,INR,0
+T001582,2026-10-01,Retailer_B,Detergent 1kg,Home Care,138.68,INR,0
+T001583,2026-10-02,Retailer_B,Detergent 1kg,Home Care,138.61,INR,0
+T001584,2026-10-03,Retailer_B,Detergent 1kg,Home Care,140.22,INR,0
+T001585,2026-10-04,Retailer_B,Detergent 1kg,Home Care,140.8,INR,0
+T001586,2026-10-05,Retailer_B,Detergent 1kg,Home Care,143.58,INR,0
+T001587,2026-10-06,Retailer_B,Detergent 1kg,Home Care,143.0,INR,0
+T001588,2026-10-07,Retailer_B,Detergent 1kg,Home Care,141.13,INR,0
+T001589,2026-10-08,Retailer_B,Detergent 1kg,Home Care,143.86,INR,0
+T001590,2026-10-09,Retailer_B,Detergent 1kg,Home Care,144.54,INR,0
+T001591,2026-10-10,Retailer_B,Detergent 1kg,Home Care,144.47,INR,0
+T001592,2026-10-11,Retailer_B,Detergent 1kg,Home Care,143.05,INR,0
+T001593,2026-10-12,Retailer_B,Detergent 1kg,Home Care,142.49,INR,0
+T001594,2026-10-13,Retailer_B,Detergent 1kg,Home Care,141.85,INR,0
+T001595,2026-10-14,Retailer_B,Detergent 1kg,Home Care,139.92,INR,0
+T001596,2026-10-15,Retailer_B,Detergent 1kg,Home Care,136.38,INR,0
+T001597,2026-10-16,Retailer_B,Detergent 1kg,Home Care,135.73,INR,0
+T001598,2026-10-17,Retailer_B,Detergent 1kg,Home Care,137.425,INR,1
+T001599,2026-10-18,Retailer_B,Detergent 1kg,Home Care,139.12,INR,0
+T001600,2026-10-19,Retailer_B,Detergent 1kg,Home Care,140.8,INR,0
+T001601,2026-10-20,Retailer_B,Detergent 1kg,Home Care,142.61,INR,0
+T001602,2026-10-21,Retailer_B,Detergent 1kg,Home Care,140.85,INR,0
+T001603,2026-10-22,Retailer_B,Detergent 1kg,Home Care,141.32,INR,0
+T001604,2026-10-23,Retailer_B,Detergent 1kg,Home Care,142.26,INR,0
+T001605,2026-10-24,Retailer_B,Detergent 1kg,Home Care,143.32,INR,0
+T001606,2026-10-25,Retailer_B,Detergent 1kg,Home Care,143.22,INR,0
+T001607,2026-10-26,Retailer_B,Detergent 1kg,Home Care,143.48,INR,0
+T001608,2026-10-27,Retailer_B,Detergent 1kg,Home Care,147.03,INR,0
+T001609,2026-10-28,Retailer_B,Detergent 1kg,Home Care,148.75,INR,0
+T001610,2026-10-29,Retailer_B,Detergent 1kg,Home Care,149.67,INR,0
+T001611,2026-10-30,Retailer_B,Detergent 1kg,Home Care,150.93,INR,0
+T001612,2026-10-31,Retailer_B,Detergent 1kg,Home Care,150.13,INR,0
+T001613,2026-11-01,Retailer_B,Detergent 1kg,Home Care,151.3,INR,0
+T001614,2026-11-02,Retailer_B,Detergent 1kg,Home Care,151.55,INR,0
+T001615,2026-11-03,Retailer_B,Detergent 1kg,Home Care,143.82,INR,0
+T001616,2026-11-04,Retailer_B,Detergent 1kg,Home Care,145.78,INR,0
+T001617,2026-11-05,Retailer_B,Detergent 1kg,Home Care,142.97,INR,0
+T001618,2026-11-06,Retailer_B,Detergent 1kg,Home Care,143.25,INR,0
+T001619,2026-11-07,Retailer_B,Detergent 1kg,Home Care,144.81,INR,0
+T001620,2026-11-08,Retailer_B,Detergent 1kg,Home Care,145.83,INR,0
+T001621,2026-11-09,Retailer_B,Detergent 1kg,Home Care,144.65,INR,0
+T001622,2026-11-10,Retailer_B,Detergent 1kg,Home Care,144.68,INR,0
+T001623,2026-11-11,Retailer_B,Detergent 1kg,Home Care,141.41,INR,0
+T001624,2026-11-12,Retailer_B,Detergent 1kg,Home Care,141.51,INR,0
+T001625,2026-11-13,Retailer_B,Detergent 1kg,Home Care,140.385,INR,1
+T001626,2026-11-14,Retailer_B,Detergent 1kg,Home Care,139.26,INR,0
+T001627,2026-11-15,Retailer_B,Detergent 1kg,Home Care,138.68,INR,0
+T001628,2026-11-16,Retailer_B,Detergent 1kg,Home Care,141.49,INR,0
+T001629,2026-11-17,Retailer_B,Detergent 1kg,Home Care,139.0,INR,0
+T001630,2026-11-18,Retailer_B,Detergent 1kg,Home Care,139.43,INR,0
+T001631,2026-11-19,Retailer_B,Detergent 1kg,Home Care,140.33,INR,0
+T001632,2026-11-20,Retailer_B,Detergent 1kg,Home Care,140.44,INR,0
+T001429,2026-10-01,Retailer_B,Dry Fruits 500g,Festive Goods,416.35,INR,0
+T001430,2026-10-02,Retailer_B,Dry Fruits 500g,Festive Goods,423.45,INR,0
+T001431,2026-10-03,Retailer_B,Dry Fruits 500g,Festive Goods,419.64,INR,0
+T001432,2026-10-04,Retailer_B,Dry Fruits 500g,Festive Goods,426.01,INR,0
+T001433,2026-10-05,Retailer_B,Dry Fruits 500g,Festive Goods,424.51,INR,0
+T001434,2026-10-06,Retailer_B,Dry Fruits 500g,Festive Goods,425.67,INR,0
+T001435,2026-10-07,Retailer_B,Dry Fruits 500g,Festive Goods,427.83,INR,0
+T001436,2026-10-08,Retailer_B,Dry Fruits 500g,Festive Goods,433.83,INR,0
+T001437,2026-10-09,Retailer_B,Dry Fruits 500g,Festive Goods,437.76,INR,0
+T001438,2026-10-10,Retailer_B,Dry Fruits 500g,Festive Goods,436.04,INR,0
+T001439,2026-10-11,Retailer_B,Dry Fruits 500g,Festive Goods,424.9,INR,0
+T001440,2026-10-12,Retailer_B,Dry Fruits 500g,Festive Goods,427.61,INR,0
+T001441,2026-10-13,Retailer_B,Dry Fruits 500g,Festive Goods,428.56,INR,0
+T001442,2026-10-14,Retailer_B,Dry Fruits 500g,Festive Goods,422.03,INR,0
+T001443,2026-10-15,Retailer_B,Dry Fruits 500g,Festive Goods,423.57,INR,0
+T001444,2026-10-16,Retailer_B,Dry Fruits 500g,Festive Goods,423.71,INR,0
+T001445,2026-10-17,Retailer_B,Dry Fruits 500g,Festive Goods,430.88,INR,0
+T001446,2026-10-18,Retailer_B,Dry Fruits 500g,Festive Goods,394.93,INR,0
+T001447,2026-10-19,Retailer_B,Dry Fruits 500g,Festive Goods,394.68,INR,0
+T001448,2026-10-20,Retailer_B,Dry Fruits 500g,Festive Goods,391.91,INR,0
+T001449,2026-10-21,Retailer_B,Dry Fruits 500g,Festive Goods,393.41,INR,0
+T001450,2026-10-22,Retailer_B,Dry Fruits 500g,Festive Goods,387.06,INR,0
+T001451,2026-10-23,Retailer_B,Dry Fruits 500g,Festive Goods,386.48,INR,0
+T001452,2026-10-24,Retailer_B,Dry Fruits 500g,Festive Goods,397.15,INR,0
+T001453,2026-10-25,Retailer_B,Dry Fruits 500g,Festive Goods,404.51,INR,0
+T001454,2026-10-26,Retailer_B,Dry Fruits 500g,Festive Goods,405.77,INR,0
+T001455,2026-10-27,Retailer_B,Dry Fruits 500g,Festive Goods,403.59,INR,0
+T001456,2026-10-28,Retailer_B,Dry Fruits 500g,Festive Goods,411.27,INR,0
+T001457,2026-10-29,Retailer_B,Dry Fruits 500g,Festive Goods,418.1,INR,0
+T001458,2026-10-30,Retailer_B,Dry Fruits 500g,Festive Goods,426.26,INR,0
+T001459,2026-10-31,Retailer_B,Dry Fruits 500g,Festive Goods,438.49,INR,0
+T001460,2026-11-01,Retailer_B,Dry Fruits 500g,Festive Goods,434.46,INR,0
+T001461,2026-11-02,Retailer_B,Dry Fruits 500g,Festive Goods,446.61,INR,0
+T001462,2026-11-03,Retailer_B,Dry Fruits 500g,Festive Goods,444.82,INR,0
+T001463,2026-11-04,Retailer_B,Dry Fruits 500g,Festive Goods,448.49,INR,0
+T001464,2026-11-05,Retailer_B,Dry Fruits 500g,Festive Goods,443.105,INR,1
+T001465,2026-11-06,Retailer_B,Dry Fruits 500g,Festive Goods,437.72,INR,0
+T001466,2026-11-07,Retailer_B,Dry Fruits 500g,Festive Goods,546.09,INR,0
+T001467,2026-11-08,Retailer_B,Dry Fruits 500g,Festive Goods,543.33,INR,0
+T001468,2026-11-09,Retailer_B,Dry Fruits 500g,Festive Goods,539.64,INR,0
+T001469,2026-11-10,Retailer_B,Dry Fruits 500g,Festive Goods,546.49,INR,0
+T001470,2026-11-11,Retailer_B,Dry Fruits 500g,Festive Goods,533.08,INR,0
+T001471,2026-11-12,Retailer_B,Dry Fruits 500g,Festive Goods,542.68,INR,0
+T001472,2026-11-13,Retailer_B,Dry Fruits 500g,Festive Goods,537.72,INR,0
+T001473,2026-11-14,Retailer_B,Dry Fruits 500g,Festive Goods,537.81,INR,0
+T001474,2026-11-15,Retailer_B,Dry Fruits 500g,Festive Goods,529.04,INR,0
+T001475,2026-11-16,Retailer_B,Dry Fruits 500g,Festive Goods,530.77,INR,0
+T001476,2026-11-17,Retailer_B,Dry Fruits 500g,Festive Goods,534.41,INR,0
+T001477,2026-11-18,Retailer_B,Dry Fruits 500g,Festive Goods,536.7,INR,0
+T001478,2026-11-19,Retailer_B,Dry Fruits 500g,Festive Goods,539.84,INR,0
+T001479,2026-11-20,Retailer_B,Dry Fruits 500g,Festive Goods,539.22,INR,0
+T001123,2026-10-01,Retailer_B,Ghee 500ml,Dairy,317.96,INR,0
+T001124,2026-10-02,Retailer_B,Ghee 500ml,Dairy,319.36,INR,0
+T001125,2026-10-03,Retailer_B,Ghee 500ml,Dairy,320.91,INR,0
+T001126,2026-10-04,Retailer_B,Ghee 500ml,Dairy,319.87,INR,0
+T001127,2026-10-05,Retailer_B,Ghee 500ml,Dairy,324.7,INR,0
+T001128,2026-10-06,Retailer_B,Ghee 500ml,Dairy,324.75,INR,0
+T001129,2026-10-07,Retailer_B,Ghee 500ml,Dairy,326.76,INR,0
+T001130,2026-10-08,Retailer_B,Ghee 500ml,Dairy,332.52,INR,0
+T001131,2026-10-09,Retailer_B,Ghee 500ml,Dairy,336.51,INR,0
+T001132,2026-10-10,Retailer_B,Ghee 500ml,Dairy,330.24,INR,0
+T001133,2026-10-11,Retailer_B,Ghee 500ml,Dairy,330.11,INR,0
+T001134,2026-10-12,Retailer_B,Ghee 500ml,Dairy,330.45,INR,0
+T001135,2026-10-13,Retailer_B,Ghee 500ml,Dairy,333.76,INR,0
+T001136,2026-10-14,Retailer_B,Ghee 500ml,Dairy,337.14,INR,0
+T001137,2026-10-15,Retailer_B,Ghee 500ml,Dairy,336.37,INR,0
+T001138,2026-10-16,Retailer_B,Ghee 500ml,Dairy,335.61,INR,0
+T001139,2026-10-17,Retailer_B,Ghee 500ml,Dairy,331.7,INR,0
+T001140,2026-10-18,Retailer_B,Ghee 500ml,Dairy,328.95,INR,0
+T001141,2026-10-19,Retailer_B,Ghee 500ml,Dairy,331.91,INR,0
+T001142,2026-10-20,Retailer_B,Ghee 500ml,Dairy,334.39,INR,0
+T001143,2026-10-21,Retailer_B,Ghee 500ml,Dairy,335.18,INR,0
+T001144,2026-10-22,Retailer_B,Ghee 500ml,Dairy,326.39,INR,0
+T001145,2026-10-23,Retailer_B,Ghee 500ml,Dairy,327.66,INR,0
+T001146,2026-10-24,Retailer_B,Ghee 500ml,Dairy,333.84,INR,0
+T001147,2026-10-25,Retailer_B,Ghee 500ml,Dairy,329.84,INR,0
+T001148,2026-10-26,Retailer_B,Ghee 500ml,Dairy,333.735,INR,1
+T001149,2026-10-27,Retailer_B,Ghee 500ml,Dairy,337.63,INR,0
+T001150,2026-10-28,Retailer_B,Ghee 500ml,Dairy,336.06,INR,0
+T001151,2026-10-29,Retailer_B,Ghee 500ml,Dairy,339.24,INR,0
+T001152,2026-10-30,Retailer_B,Ghee 500ml,Dairy,338.27,INR,0
+T001153,2026-10-31,Retailer_B,Ghee 500ml,Dairy,344.74,INR,0
+T001154,2026-11-01,Retailer_B,Ghee 500ml,Dairy,334.65,INR,0
+T001155,2026-11-02,Retailer_B,Ghee 500ml,Dairy,331.84,INR,0
+T001156,2026-11-03,Retailer_B,Ghee 500ml,Dairy,331.49,INR,0
+T001157,2026-11-04,Retailer_B,Ghee 500ml,Dairy,334.63,INR,0
+T001158,2026-11-05,Retailer_B,Ghee 500ml,Dairy,332.55,INR,0
+T001159,2026-11-06,Retailer_B,Ghee 500ml,Dairy,330.1,INR,0
+T001160,2026-11-07,Retailer_B,Ghee 500ml,Dairy,332.75,INR,0
+T001161,2026-11-08,Retailer_B,Ghee 500ml,Dairy,332.57,INR,0
+T001162,2026-11-09,Retailer_B,Ghee 500ml,Dairy,335.39,INR,0
+T001163,2026-11-10,Retailer_B,Ghee 500ml,Dairy,336.63,INR,0
+T001164,2026-11-11,Retailer_B,Ghee 500ml,Dairy,331.94,INR,0
+T001165,2026-11-12,Retailer_B,Ghee 500ml,Dairy,331.21,INR,0
+T001166,2026-11-13,Retailer_B,Ghee 500ml,Dairy,333.55,INR,0
+T001167,2026-11-14,Retailer_B,Ghee 500ml,Dairy,337.47,INR,0
+T001168,2026-11-15,Retailer_B,Ghee 500ml,Dairy,334.65,INR,0
+T001169,2026-11-16,Retailer_B,Ghee 500ml,Dairy,336.96,INR,0
+T001170,2026-11-17,Retailer_B,Ghee 500ml,Dairy,330.3,INR,0
+T001171,2026-11-18,Retailer_B,Ghee 500ml,Dairy,328.89,INR,0
+T001172,2026-11-19,Retailer_B,Ghee 500ml,Dairy,326.78,INR,0
+T001173,2026-11-20,Retailer_B,Ghee 500ml,Dairy,332.96,INR,0
+T000052,2026-10-01,Retailer_B,Rice 5kg,Staples,327.53,INR,1
+T000053,2026-10-02,Retailer_B,Rice 5kg,Staples,327.53,INR,0
+T000054,2026-10-03,Retailer_B,Rice 5kg,Staples,329.24,INR,0
+T000055,2026-10-04,Retailer_B,Rice 5kg,Staples,326.89,INR,0
+T000056,2026-10-05,Retailer_B,Rice 5kg,Staples,327.17,INR,0
+T000057,2026-10-06,Retailer_B,Rice 5kg,Staples,328.08,INR,0
+T000058,2026-10-07,Retailer_B,Rice 5kg,Staples,334.39,INR,0
+T000059,2026-10-08,Retailer_B,Rice 5kg,Staples,330.28,INR,0
+T000060,2026-10-09,Retailer_B,Rice 5kg,Staples,331.15,INR,0
+T000061,2026-10-10,Retailer_B,Rice 5kg,Staples,334.47,INR,0
+T000062,2026-10-11,Retailer_B,Rice 5kg,Staples,340.34,INR,0
+T000063,2026-10-12,Retailer_B,Rice 5kg,Staples,337.73,INR,0
+T000064,2026-10-13,Retailer_B,Rice 5kg,Staples,336.15,INR,0
+T000065,2026-10-14,Retailer_B,Rice 5kg,Staples,324.04,INR,0
+T000066,2026-10-15,Retailer_B,Rice 5kg,Staples,320.09,INR,0
+T000067,2026-10-16,Retailer_B,Rice 5kg,Staples,323.31,INR,0
+T000068,2026-10-17,Retailer_B,Rice 5kg,Staples,334.61,INR,0
+T000069,2026-10-18,Retailer_B,Rice 5kg,Staples,330.64,INR,0
+T000070,2026-10-19,Retailer_B,Rice 5kg,Staples,331.7,INR,0
+T000071,2026-10-20,Retailer_B,Rice 5kg,Staples,330.05,INR,0
+T000072,2026-10-21,Retailer_B,Rice 5kg,Staples,329.49,INR,0
+T000073,2026-10-22,Retailer_B,Rice 5kg,Staples,330.11,INR,0
+T000074,2026-10-23,Retailer_B,Rice 5kg,Staples,326.01,INR,0
+T000075,2026-10-24,Retailer_B,Rice 5kg,Staples,324.11,INR,0
+T000076,2026-10-25,Retailer_B,Rice 5kg,Staples,324.90999999999997,INR,1
+T000077,2026-10-26,Retailer_B,Rice 5kg,Staples,325.71,INR,0
+T000078,2026-10-27,Retailer_B,Rice 5kg,Staples,323.76,INR,0
+T000079,2026-10-28,Retailer_B,Rice 5kg,Staples,320.01,INR,0
+T000080,2026-10-29,Retailer_B,Rice 5kg,Staples,328.18,INR,0
+T000081,2026-10-30,Retailer_B,Rice 5kg,Staples,331.48,INR,0
+T000082,2026-10-31,Retailer_B,Rice 5kg,Staples,335.19,INR,0
+T000083,2026-11-01,Retailer_B,Rice 5kg,Staples,334.56,INR,0
+T000084,2026-11-02,Retailer_B,Rice 5kg,Staples,331.93,INR,0
+T000085,2026-11-03,Retailer_B,Rice 5kg,Staples,330.12,INR,0
+T000086,2026-11-04,Retailer_B,Rice 5kg,Staples,325.06,INR,0
+T000087,2026-11-05,Retailer_B,Rice 5kg,Staples,331.22,INR,0
+T000088,2026-11-06,Retailer_B,Rice 5kg,Staples,330.75,INR,0
+T000089,2026-11-07,Retailer_B,Rice 5kg,Staples,331.62,INR,0
+T000090,2026-11-08,Retailer_B,Rice 5kg,Staples,333.33,INR,0
+T000091,2026-11-09,Retailer_B,Rice 5kg,Staples,328.43,INR,0
+T000092,2026-11-10,Retailer_B,Rice 5kg,Staples,334.94,INR,0
+T000093,2026-11-11,Retailer_B,Rice 5kg,Staples,334.22,INR,0
+T000094,2026-11-12,Retailer_B,Rice 5kg,Staples,340.08,INR,0
+T000095,2026-11-13,Retailer_B,Rice 5kg,Staples,345.82,INR,0
+T000096,2026-11-14,Retailer_B,Rice 5kg,Staples,348.49,INR,0
+T000097,2026-11-15,Retailer_B,Rice 5kg,Staples,348.47,INR,0
+T000098,2026-11-16,Retailer_B,Rice 5kg,Staples,349.88,INR,0
+T000099,2026-11-17,Retailer_B,Rice 5kg,Staples,350.26,INR,0
+T000100,2026-11-18,Retailer_B,Rice 5kg,Staples,341.64,INR,0
+T000101,2026-11-19,Retailer_B,Rice 5kg,Staples,338.18,INR,0
+T000102,2026-11-20,Retailer_B,Rice 5kg,Staples,334.62,INR,0
+T000358,2026-10-01,Retailer_B,Sugar 1kg,Staples,48.32,INR,0
+T000359,2026-10-02,Retailer_B,Sugar 1kg,Staples,49.17,INR,0
+T000360,2026-10-03,Retailer_B,Sugar 1kg,Staples,49.62,INR,0
+T000361,2026-10-04,Retailer_B,Sugar 1kg,Staples,48.95,INR,0
+T000362,2026-10-05,Retailer_B,Sugar 1kg,Staples,48.98,INR,0
+T000363,2026-10-06,Retailer_B,Sugar 1kg,Staples,48.87,INR,0
+T000364,2026-10-07,Retailer_B,Sugar 1kg,Staples,48.96,INR,0
+T000365,2026-10-08,Retailer_B,Sugar 1kg,Staples,49.43,INR,0
+T000366,2026-10-09,Retailer_B,Sugar 1kg,Staples,48.1,INR,0
+T000367,2026-10-10,Retailer_B,Sugar 1kg,Staples,48.79,INR,0
+T000368,2026-10-11,Retailer_B,Sugar 1kg,Staples,45.23,INR,0
+T000369,2026-10-12,Retailer_B,Sugar 1kg,Staples,46.21,INR,0
+T000370,2026-10-13,Retailer_B,Sugar 1kg,Staples,46.0,INR,0
+T000371,2026-10-14,Retailer_B,Sugar 1kg,Staples,46.01,INR,0
+T000372,2026-10-15,Retailer_B,Sugar 1kg,Staples,45.45,INR,0
+T000373,2026-10-16,Retailer_B,Sugar 1kg,Staples,46.42,INR,0
+T000374,2026-10-17,Retailer_B,Sugar 1kg,Staples,45.91,INR,0
+T000375,2026-10-18,Retailer_B,Sugar 1kg,Staples,46.26,INR,0
+T000376,2026-10-19,Retailer_B,Sugar 1kg,Staples,46.95,INR,0
+T000377,2026-10-20,Retailer_B,Sugar 1kg,Staples,47.37,INR,0
+T000378,2026-10-21,Retailer_B,Sugar 1kg,Staples,47.56,INR,0
+T000379,2026-10-22,Retailer_B,Sugar 1kg,Staples,47.61,INR,0
+T000380,2026-10-23,Retailer_B,Sugar 1kg,Staples,46.88,INR,0
+T000381,2026-10-24,Retailer_B,Sugar 1kg,Staples,47.85,INR,0
+T000382,2026-10-25,Retailer_B,Sugar 1kg,Staples,48.0,INR,0
+T000383,2026-10-26,Retailer_B,Sugar 1kg,Staples,48.01,INR,0
+T000384,2026-10-27,Retailer_B,Sugar 1kg,Staples,47.38,INR,0
+T000385,2026-10-28,Retailer_B,Sugar 1kg,Staples,47.41,INR,0
+T000386,2026-10-29,Retailer_B,Sugar 1kg,Staples,45.46,INR,0
+T000387,2026-10-30,Retailer_B,Sugar 1kg,Staples,45.95,INR,0
+T000388,2026-10-31,Retailer_B,Sugar 1kg,Staples,46.09,INR,0
+T000389,2026-11-01,Retailer_B,Sugar 1kg,Staples,45.98,INR,0
+T000390,2026-11-02,Retailer_B,Sugar 1kg,Staples,45.9,INR,0
+T000391,2026-11-03,Retailer_B,Sugar 1kg,Staples,45.21,INR,0
+T000392,2026-11-04,Retailer_B,Sugar 1kg,Staples,45.42,INR,0
+T000393,2026-11-05,Retailer_B,Sugar 1kg,Staples,45.35,INR,0
+T000394,2026-11-06,Retailer_B,Sugar 1kg,Staples,45.93,INR,0
+T000395,2026-11-07,Retailer_B,Sugar 1kg,Staples,45.46,INR,0
+T000396,2026-11-08,Retailer_B,Sugar 1kg,Staples,45.67,INR,0
+T000397,2026-11-09,Retailer_B,Sugar 1kg,Staples,45.6,INR,0
+T000398,2026-11-10,Retailer_B,Sugar 1kg,Staples,45.43,INR,0
+T000399,2026-11-11,Retailer_B,Sugar 1kg,Staples,45.32,INR,0
+T000400,2026-11-12,Retailer_B,Sugar 1kg,Staples,45.22,INR,1
+T000401,2026-11-13,Retailer_B,Sugar 1kg,Staples,45.12,INR,0
+T000402,2026-11-14,Retailer_B,Sugar 1kg,Staples,44.9,INR,0
+T000403,2026-11-15,Retailer_B,Sugar 1kg,Staples,45.05,INR,0
+T000404,2026-11-16,Retailer_B,Sugar 1kg,Staples,44.79,INR,0
+T000405,2026-11-17,Retailer_B,Sugar 1kg,Staples,43.985,INR,1
+T000406,2026-11-18,Retailer_B,Sugar 1kg,Staples,43.18,INR,0
+T000407,2026-11-19,Retailer_B,Sugar 1kg,Staples,43.2,INR,0
+T000408,2026-11-20,Retailer_B,Sugar 1kg,Staples,43.83,INR,0
+T000205,2026-10-01,Retailer_B,Sunflower Oil 1L,Cooking Oil,147.42,INR,0
+T000206,2026-10-02,Retailer_B,Sunflower Oil 1L,Cooking Oil,146.92,INR,0
+T000207,2026-10-03,Retailer_B,Sunflower Oil 1L,Cooking Oil,148.84,INR,0
+T000208,2026-10-04,Retailer_B,Sunflower Oil 1L,Cooking Oil,148.72,INR,0
+T000209,2026-10-05,Retailer_B,Sunflower Oil 1L,Cooking Oil,148.54,INR,0
+T000210,2026-10-06,Retailer_B,Sunflower Oil 1L,Cooking Oil,148.7,INR,0
+T000211,2026-10-07,Retailer_B,Sunflower Oil 1L,Cooking Oil,147.64,INR,0
+T000212,2026-10-08,Retailer_B,Sunflower Oil 1L,Cooking Oil,146.07,INR,0
+T000213,2026-10-09,Retailer_B,Sunflower Oil 1L,Cooking Oil,147.48,INR,0
+T000214,2026-10-10,Retailer_B,Sunflower Oil 1L,Cooking Oil,145.03,INR,0
+T000215,2026-10-11,Retailer_B,Sunflower Oil 1L,Cooking Oil,143.22,INR,0
+T000216,2026-10-12,Retailer_B,Sunflower Oil 1L,Cooking Oil,142.99,INR,0
+T000217,2026-10-13,Retailer_B,Sunflower Oil 1L,Cooking Oil,144.58,INR,0
+T000218,2026-10-14,Retailer_B,Sunflower Oil 1L,Cooking Oil,143.65,INR,0
+T000219,2026-10-15,Retailer_B,Sunflower Oil 1L,Cooking Oil,142.52,INR,0
+T000220,2026-10-16,Retailer_B,Sunflower Oil 1L,Cooking Oil,142.2,INR,0
+T000221,2026-10-17,Retailer_B,Sunflower Oil 1L,Cooking Oil,142.82,INR,0
+T000222,2026-10-18,Retailer_B,Sunflower Oil 1L,Cooking Oil,142.23,INR,0
+T000223,2026-10-19,Retailer_B,Sunflower Oil 1L,Cooking Oil,144.05,INR,0
+T000224,2026-10-20,Retailer_B,Sunflower Oil 1L,Cooking Oil,145.98,INR,0
+T000225,2026-10-21,Retailer_B,Sunflower Oil 1L,Cooking Oil,145.75,INR,0
+T000226,2026-10-22,Retailer_B,Sunflower Oil 1L,Cooking Oil,149.16,INR,0
+T000227,2026-10-23,Retailer_B,Sunflower Oil 1L,Cooking Oil,149.28,INR,0
+T000228,2026-10-24,Retailer_B,Sunflower Oil 1L,Cooking Oil,151.21,INR,0
+T000229,2026-10-25,Retailer_B,Sunflower Oil 1L,Cooking Oil,151.81,INR,0
+T000230,2026-10-26,Retailer_B,Sunflower Oil 1L,Cooking Oil,152.38,INR,0
+T000231,2026-10-27,Retailer_B,Sunflower Oil 1L,Cooking Oil,149.47,INR,0
+T000232,2026-10-28,Retailer_B,Sunflower Oil 1L,Cooking Oil,147.47,INR,0
+T000233,2026-10-29,Retailer_B,Sunflower Oil 1L,Cooking Oil,146.95,INR,0
+T000234,2026-10-30,Retailer_B,Sunflower Oil 1L,Cooking Oil,148.9,INR,0
+T000235,2026-10-31,Retailer_B,Sunflower Oil 1L,Cooking Oil,149.52,INR,0
+T000236,2026-11-01,Retailer_B,Sunflower Oil 1L,Cooking Oil,149.01,INR,0
+T000237,2026-11-02,Retailer_B,Sunflower Oil 1L,Cooking Oil,150.12,INR,0
+T000238,2026-11-03,Retailer_B,Sunflower Oil 1L,Cooking Oil,152.04,INR,0
+T000239,2026-11-04,Retailer_B,Sunflower Oil 1L,Cooking Oil,152.05,INR,0
+T000240,2026-11-05,Retailer_B,Sunflower Oil 1L,Cooking Oil,152.46,INR,0
+T000241,2026-11-06,Retailer_B,Sunflower Oil 1L,Cooking Oil,152.63,INR,0
+T000242,2026-11-07,Retailer_B,Sunflower Oil 1L,Cooking Oil,152.53,INR,0
+T000243,2026-11-08,Retailer_B,Sunflower Oil 1L,Cooking Oil,151.1,INR,0
+T000244,2026-11-09,Retailer_B,Sunflower Oil 1L,Cooking Oil,149.56,INR,0
+T000245,2026-11-10,Retailer_B,Sunflower Oil 1L,Cooking Oil,150.66,INR,0
+T000246,2026-11-11,Retailer_B,Sunflower Oil 1L,Cooking Oil,152.62,INR,0
+T000247,2026-11-12,Retailer_B,Sunflower Oil 1L,Cooking Oil,152.1,INR,0
+T000248,2026-11-13,Retailer_B,Sunflower Oil 1L,Cooking Oil,151.54,INR,0
+T000249,2026-11-14,Retailer_B,Sunflower Oil 1L,Cooking Oil,140.23,INR,0
+T000250,2026-11-15,Retailer_B,Sunflower Oil 1L,Cooking Oil,137.71,INR,0
+T000251,2026-11-16,Retailer_B,Sunflower Oil 1L,Cooking Oil,139.19,INR,0
+T000252,2026-11-17,Retailer_B,Sunflower Oil 1L,Cooking Oil,136.68,INR,0
+T000253,2026-11-18,Retailer_B,Sunflower Oil 1L,Cooking Oil,135.79,INR,0
+T000254,2026-11-19,Retailer_B,Sunflower Oil 1L,Cooking Oil,136.5,INR,0
+T000255,2026-11-20,Retailer_B,Sunflower Oil 1L,Cooking Oil,137.26,INR,0
+T000817,2026-10-01,Retailer_B,Tea 500g,Beverages,221.18,INR,0
+T000818,2026-10-02,Retailer_B,Tea 500g,Beverages,222.37,INR,0
+T000819,2026-10-03,Retailer_B,Tea 500g,Beverages,218.06,INR,0
+T000820,2026-10-04,Retailer_B,Tea 500g,Beverages,219.01,INR,0
+T000821,2026-10-05,Retailer_B,Tea 500g,Beverages,218.27,INR,0
+T000822,2026-10-06,Retailer_B,Tea 500g,Beverages,215.58,INR,0
+T000823,2026-10-07,Retailer_B,Tea 500g,Beverages,218.76,INR,0
+T000824,2026-10-08,Retailer_B,Tea 500g,Beverages,220.44,INR,0
+T000825,2026-10-09,Retailer_B,Tea 500g,Beverages,221.1,INR,0
+T000826,2026-10-10,Retailer_B,Tea 500g,Beverages,223.42,INR,0
+T000827,2026-10-11,Retailer_B,Tea 500g,Beverages,219.2,INR,0
+T000828,2026-10-12,Retailer_B,Tea 500g,Beverages,217.8,INR,0
+T000829,2026-10-13,Retailer_B,Tea 500g,Beverages,218.87,INR,0
+T000830,2026-10-14,Retailer_B,Tea 500g,Beverages,225.11,INR,0
+T000831,2026-10-15,Retailer_B,Tea 500g,Beverages,225.66,INR,0
+T000832,2026-10-16,Retailer_B,Tea 500g,Beverages,224.32,INR,0
+T000833,2026-10-17,Retailer_B,Tea 500g,Beverages,218.06,INR,0
+T000834,2026-10-18,Retailer_B,Tea 500g,Beverages,223.04,INR,0
+T000835,2026-10-19,Retailer_B,Tea 500g,Beverages,223.74,INR,0
+T000836,2026-10-20,Retailer_B,Tea 500g,Beverages,223.3,INR,0
+T000837,2026-10-21,Retailer_B,Tea 500g,Beverages,217.2,INR,0
+T000838,2026-10-22,Retailer_B,Tea 500g,Beverages,216.91,INR,0
+T000839,2026-10-23,Retailer_B,Tea 500g,Beverages,217.24,INR,0
+T000840,2026-10-24,Retailer_B,Tea 500g,Beverages,215.86,INR,0
+T000841,2026-10-25,Retailer_B,Tea 500g,Beverages,212.39,INR,0
+T000842,2026-10-26,Retailer_B,Tea 500g,Beverages,208.83,INR,0
+T000843,2026-10-27,Retailer_B,Tea 500g,Beverages,213.65,INR,0
+T000844,2026-10-28,Retailer_B,Tea 500g,Beverages,213.9,INR,0
+T000845,2026-10-29,Retailer_B,Tea 500g,Beverages,212.54,INR,0
+T000846,2026-10-30,Retailer_B,Tea 500g,Beverages,212.64,INR,0
+T000847,2026-10-31,Retailer_B,Tea 500g,Beverages,212.56,INR,0
+T000848,2026-11-01,Retailer_B,Tea 500g,Beverages,208.88,INR,0
+T000849,2026-11-02,Retailer_B,Tea 500g,Beverages,211.17,INR,0
+T000850,2026-11-03,Retailer_B,Tea 500g,Beverages,210.69,INR,0
+T000851,2026-11-04,Retailer_B,Tea 500g,Beverages,210.97,INR,0
+T000852,2026-11-05,Retailer_B,Tea 500g,Beverages,214.71,INR,0
+T000853,2026-11-06,Retailer_B,Tea 500g,Beverages,211.33,INR,0
+T000854,2026-11-07,Retailer_B,Tea 500g,Beverages,209.87,INR,0
+T000855,2026-11-08,Retailer_B,Tea 500g,Beverages,212.12,INR,0
+T000856,2026-11-09,Retailer_B,Tea 500g,Beverages,210.45,INR,0
+T000857,2026-11-10,Retailer_B,Tea 500g,Beverages,213.23,INR,0
+T000858,2026-11-11,Retailer_B,Tea 500g,Beverages,217.61,INR,0
+T000859,2026-11-12,Retailer_B,Tea 500g,Beverages,214.75,INR,1
+T000860,2026-11-13,Retailer_B,Tea 500g,Beverages,211.89,INR,0
+T000861,2026-11-14,Retailer_B,Tea 500g,Beverages,210.29,INR,0
+T000862,2026-11-15,Retailer_B,Tea 500g,Beverages,207.64,INR,0
+T000863,2026-11-16,Retailer_B,Tea 500g,Beverages,204.61,INR,0
+T000864,2026-11-17,Retailer_B,Tea 500g,Beverages,202.36,INR,0
+T000865,2026-11-18,Retailer_B,Tea 500g,Beverages,201.26,INR,0
+T000866,2026-11-19,Retailer_B,Tea 500g,Beverages,198.13,INR,0
+T000867,2026-11-20,Retailer_B,Tea 500g,Beverages,200.79,INR,0
+T000511,2026-10-01,Retailer_B,Toor Dal 1kg,Pulses,160.73,INR,0
+T000512,2026-10-02,Retailer_B,Toor Dal 1kg,Pulses,160.0,INR,1
+T000513,2026-10-03,Retailer_B,Toor Dal 1kg,Pulses,159.27,INR,0
+T000514,2026-10-04,Retailer_B,Toor Dal 1kg,Pulses,160.31,INR,0
+T000515,2026-10-05,Retailer_B,Toor Dal 1kg,Pulses,161.15,INR,0
+T000516,2026-10-06,Retailer_B,Toor Dal 1kg,Pulses,160.76,INR,0
+T000517,2026-10-07,Retailer_B,Toor Dal 1kg,Pulses,165.48,INR,0
+T000518,2026-10-08,Retailer_B,Toor Dal 1kg,Pulses,168.4,INR,0
+T000519,2026-10-09,Retailer_B,Toor Dal 1kg,Pulses,169.23,INR,0
+T000520,2026-10-10,Retailer_B,Toor Dal 1kg,Pulses,170.13,INR,0
+T000521,2026-10-11,Retailer_B,Toor Dal 1kg,Pulses,173.1,INR,0
+T000522,2026-10-12,Retailer_B,Toor Dal 1kg,Pulses,175.45,INR,0
+T000523,2026-10-13,Retailer_B,Toor Dal 1kg,Pulses,175.32,INR,0
+T000524,2026-10-14,Retailer_B,Toor Dal 1kg,Pulses,176.28,INR,0
+T000525,2026-10-15,Retailer_B,Toor Dal 1kg,Pulses,176.12,INR,0
+T000526,2026-10-16,Retailer_B,Toor Dal 1kg,Pulses,173.76,INR,0
+T000527,2026-10-17,Retailer_B,Toor Dal 1kg,Pulses,170.44,INR,0
+T000528,2026-10-18,Retailer_B,Toor Dal 1kg,Pulses,170.9,INR,0
+T000529,2026-10-19,Retailer_B,Toor Dal 1kg,Pulses,176.66,INR,0
+T000530,2026-10-20,Retailer_B,Toor Dal 1kg,Pulses,179.7,INR,0
+T000531,2026-10-21,Retailer_B,Toor Dal 1kg,Pulses,179.37,INR,0
+T000532,2026-10-22,Retailer_B,Toor Dal 1kg,Pulses,179.5,INR,0
+T000533,2026-10-23,Retailer_B,Toor Dal 1kg,Pulses,178.62,INR,0
+T000534,2026-10-24,Retailer_B,Toor Dal 1kg,Pulses,175.31,INR,0
+T000535,2026-10-25,Retailer_B,Toor Dal 1kg,Pulses,174.73,INR,0
+T000536,2026-10-26,Retailer_B,Toor Dal 1kg,Pulses,174.75,INR,0
+T000537,2026-10-27,Retailer_B,Toor Dal 1kg,Pulses,175.13,INR,0
+T000538,2026-10-28,Retailer_B,Toor Dal 1kg,Pulses,177.71,INR,0
+T000539,2026-10-29,Retailer_B,Toor Dal 1kg,Pulses,178.76,INR,0
+T000540,2026-10-30,Retailer_B,Toor Dal 1kg,Pulses,181.42,INR,0
+T000541,2026-10-31,Retailer_B,Toor Dal 1kg,Pulses,182.76,INR,0
+T000542,2026-11-01,Retailer_B,Toor Dal 1kg,Pulses,183.9,INR,0
+T000543,2026-11-02,Retailer_B,Toor Dal 1kg,Pulses,185.45,INR,0
+T000544,2026-11-03,Retailer_B,Toor Dal 1kg,Pulses,183.68,INR,0
+T000545,2026-11-04,Retailer_B,Toor Dal 1kg,Pulses,185.53,INR,0
+T000546,2026-11-05,Retailer_B,Toor Dal 1kg,Pulses,184.93,INR,0
+T000547,2026-11-06,Retailer_B,Toor Dal 1kg,Pulses,184.4,INR,0
+T000548,2026-11-07,Retailer_B,Toor Dal 1kg,Pulses,184.57,INR,0
+T000549,2026-11-08,Retailer_B,Toor Dal 1kg,Pulses,183.77,INR,0
+T000550,2026-11-09,Retailer_B,Toor Dal 1kg,Pulses,181.59,INR,0
+T000551,2026-11-10,Retailer_B,Toor Dal 1kg,Pulses,181.6,INR,0
+T000552,2026-11-11,Retailer_B,Toor Dal 1kg,Pulses,168.8,INR,0
+T000553,2026-11-12,Retailer_B,Toor Dal 1kg,Pulses,172.39,INR,0
+T000554,2026-11-13,Retailer_B,Toor Dal 1kg,Pulses,171.89,INR,0
+T000555,2026-11-14,Retailer_B,Toor Dal 1kg,Pulses,170.05,INR,0
+T000556,2026-11-15,Retailer_B,Toor Dal 1kg,Pulses,168.65,INR,0
+T000557,2026-11-16,Retailer_B,Toor Dal 1kg,Pulses,168.32,INR,0
+T000558,2026-11-17,Retailer_B,Toor Dal 1kg,Pulses,168.44,INR,0
+T000559,2026-11-18,Retailer_B,Toor Dal 1kg,Pulses,168.26,INR,0
+T000560,2026-11-19,Retailer_B,Toor Dal 1kg,Pulses,171.73,INR,0
+T000561,2026-11-20,Retailer_B,Toor Dal 1kg,Pulses,167.61,INR,0
+T000664,2026-10-01,Retailer_B,Wheat Flour 5kg,Staples,237.14,INR,0
+T000665,2026-10-02,Retailer_B,Wheat Flour 5kg,Staples,238.83499999999998,INR,1
+T000666,2026-10-03,Retailer_B,Wheat Flour 5kg,Staples,240.53,INR,0
+T000667,2026-10-04,Retailer_B,Wheat Flour 5kg,Staples,239.07,INR,0
+T000668,2026-10-05,Retailer_B,Wheat Flour 5kg,Staples,238.34,INR,0
+T000669,2026-10-06,Retailer_B,Wheat Flour 5kg,Staples,240.96,INR,0
+T000670,2026-10-07,Retailer_B,Wheat Flour 5kg,Staples,243.45,INR,0
+T000671,2026-10-08,Retailer_B,Wheat Flour 5kg,Staples,244.55,INR,0
+T000672,2026-10-09,Retailer_B,Wheat Flour 5kg,Staples,248.45,INR,0
+T000673,2026-10-10,Retailer_B,Wheat Flour 5kg,Staples,251.13,INR,1
+T000674,2026-10-11,Retailer_B,Wheat Flour 5kg,Staples,253.81,INR,0
+T000675,2026-10-12,Retailer_B,Wheat Flour 5kg,Staples,248.92,INR,0
+T000676,2026-10-13,Retailer_B,Wheat Flour 5kg,Staples,250.01,INR,0
+T000677,2026-10-14,Retailer_B,Wheat Flour 5kg,Staples,250.54,INR,0
+T000678,2026-10-15,Retailer_B,Wheat Flour 5kg,Staples,254.97,INR,0
+T000679,2026-10-16,Retailer_B,Wheat Flour 5kg,Staples,246.2,INR,0
+T000680,2026-10-17,Retailer_B,Wheat Flour 5kg,Staples,245.71,INR,0
+T000681,2026-10-18,Retailer_B,Wheat Flour 5kg,Staples,245.99,INR,0
+T000682,2026-10-19,Retailer_B,Wheat Flour 5kg,Staples,242.78,INR,0
+T000683,2026-10-20,Retailer_B,Wheat Flour 5kg,Staples,240.11,INR,0
+T000684,2026-10-21,Retailer_B,Wheat Flour 5kg,Staples,244.37,INR,0
+T000685,2026-10-22,Retailer_B,Wheat Flour 5kg,Staples,245.73,INR,0
+T000686,2026-10-23,Retailer_B,Wheat Flour 5kg,Staples,251.22,INR,0
+T000687,2026-10-24,Retailer_B,Wheat Flour 5kg,Staples,250.67,INR,0
+T000688,2026-10-25,Retailer_B,Wheat Flour 5kg,Staples,246.43,INR,0
+T000689,2026-10-26,Retailer_B,Wheat Flour 5kg,Staples,245.47,INR,0
+T000690,2026-10-27,Retailer_B,Wheat Flour 5kg,Staples,245.76,INR,1
+T000691,2026-10-28,Retailer_B,Wheat Flour 5kg,Staples,246.05,INR,0
+T000692,2026-10-29,Retailer_B,Wheat Flour 5kg,Staples,247.97,INR,0
+T000693,2026-10-30,Retailer_B,Wheat Flour 5kg,Staples,249.5,INR,0
+T000694,2026-10-31,Retailer_B,Wheat Flour 5kg,Staples,256.18,INR,0
+T000695,2026-11-01,Retailer_B,Wheat Flour 5kg,Staples,260.06,INR,0
+T000696,2026-11-02,Retailer_B,Wheat Flour 5kg,Staples,257.4,INR,0
+T000697,2026-11-03,Retailer_B,Wheat Flour 5kg,Staples,260.47,INR,0
+T000698,2026-11-04,Retailer_B,Wheat Flour 5kg,Staples,260.56,INR,0
+T000699,2026-11-05,Retailer_B,Wheat Flour 5kg,Staples,259.91,INR,0
+T000700,2026-11-06,Retailer_B,Wheat Flour 5kg,Staples,264.28,INR,0
+T000701,2026-11-07,Retailer_B,Wheat Flour 5kg,Staples,364.89,INR,0
+T000702,2026-11-08,Retailer_B,Wheat Flour 5kg,Staples,454.77,INR,0
+T000703,2026-11-09,Retailer_B,Wheat Flour 5kg,Staples,456.06,INR,0
+T000704,2026-11-10,Retailer_B,Wheat Flour 5kg,Staples,453.65,INR,0
+T000705,2026-11-11,Retailer_B,Wheat Flour 5kg,Staples,446.86,INR,0
+T000706,2026-11-12,Retailer_B,Wheat Flour 5kg,Staples,443.3,INR,0
+T000707,2026-11-13,Retailer_B,Wheat Flour 5kg,Staples,435.9,INR,0
+T000708,2026-11-14,Retailer_B,Wheat Flour 5kg,Staples,435.15,INR,0
+T000709,2026-11-15,Retailer_B,Wheat Flour 5kg,Staples,440.395,INR,1
+T000710,2026-11-16,Retailer_B,Wheat Flour 5kg,Staples,445.64,INR,0
+T000711,2026-11-17,Retailer_B,Wheat Flour 5kg,Staples,443.9,INR,0
+T000712,2026-11-18,Retailer_B,Wheat Flour 5kg,Staples,443.34,INR,0
+T000713,2026-11-19,Retailer_B,Wheat Flour 5kg,Staples,451.15,INR,0
+T000714,2026-11-20,Retailer_B,Wheat Flour 5kg,Staples,463.6,INR,0
+T001786,2026-10-01,Retailer_C,Biscuits Family Pack,Packaged Food,84.45,INR,0
+T001787,2026-10-02,Retailer_C,Biscuits Family Pack,Packaged Food,84.8,INR,0
+T001788,2026-10-03,Retailer_C,Biscuits Family Pack,Packaged Food,86.75,INR,0
+T001789,2026-10-04,Retailer_C,Biscuits Family Pack,Packaged Food,86.75,INR,0
+T001790,2026-10-05,Retailer_C,Biscuits Family Pack,Packaged Food,87.17,INR,0
+T001791,2026-10-06,Retailer_C,Biscuits Family Pack,Packaged Food,87.5,INR,0
+T001792,2026-10-07,Retailer_C,Biscuits Family Pack,Packaged Food,85.84,INR,0
+T001793,2026-10-08,Retailer_C,Biscuits Family Pack,Packaged Food,84.71,INR,0
+T001794,2026-10-09,Retailer_C,Biscuits Family Pack,Packaged Food,84.85,INR,0
+T001795,2026-10-10,Retailer_C,Biscuits Family Pack,Packaged Food,85.39,INR,0
+T001796,2026-10-11,Retailer_C,Biscuits Family Pack,Packaged Food,83.41,INR,0
+T001797,2026-10-12,Retailer_C,Biscuits Family Pack,Packaged Food,85.39,INR,0
+T001798,2026-10-13,Retailer_C,Biscuits Family Pack,Packaged Food,86.02,INR,0
+T001799,2026-10-14,Retailer_C,Biscuits Family Pack,Packaged Food,86.1,INR,0
+T001800,2026-10-15,Retailer_C,Biscuits Family Pack,Packaged Food,86.68,INR,0
+T001801,2026-10-16,Retailer_C,Biscuits Family Pack,Packaged Food,86.21,INR,0
+T001802,2026-10-17,Retailer_C,Biscuits Family Pack,Packaged Food,86.49,INR,0
+T001803,2026-10-18,Retailer_C,Biscuits Family Pack,Packaged Food,86.93,INR,0
+T001804,2026-10-19,Retailer_C,Biscuits Family Pack,Packaged Food,88.34,INR,0
+T001805,2026-10-20,Retailer_C,Biscuits Family Pack,Packaged Food,88.25,INR,0
+T001806,2026-10-21,Retailer_C,Biscuits Family Pack,Packaged Food,86.85,INR,0
+T001807,2026-10-22,Retailer_C,Biscuits Family Pack,Packaged Food,86.03,INR,0
+T001808,2026-10-23,Retailer_C,Biscuits Family Pack,Packaged Food,85.86,INR,0
+T001809,2026-10-24,Retailer_C,Biscuits Family Pack,Packaged Food,84.6,INR,0
+T001810,2026-10-25,Retailer_C,Biscuits Family Pack,Packaged Food,83.69,INR,0
+T001811,2026-10-26,Retailer_C,Biscuits Family Pack,Packaged Food,82.91,INR,0
+T001812,2026-10-27,Retailer_C,Biscuits Family Pack,Packaged Food,82.68,INR,0
+T001813,2026-10-28,Retailer_C,Biscuits Family Pack,Packaged Food,83.27,INR,0
+T001814,2026-10-29,Retailer_C,Biscuits Family Pack,Packaged Food,82.99,INR,0
+T001815,2026-10-30,Retailer_C,Biscuits Family Pack,Packaged Food,83.66,INR,0
+T001816,2026-10-31,Retailer_C,Biscuits Family Pack,Packaged Food,83.74,INR,0
+T001817,2026-11-01,Retailer_C,Biscuits Family Pack,Packaged Food,82.88,INR,0
+T001818,2026-11-02,Retailer_C,Biscuits Family Pack,Packaged Food,83.32,INR,0
+T001819,2026-11-03,Retailer_C,Biscuits Family Pack,Packaged Food,83.6,INR,0
+T001820,2026-11-04,Retailer_C,Biscuits Family Pack,Packaged Food,84.3,INR,0
+T001821,2026-11-05,Retailer_C,Biscuits Family Pack,Packaged Food,85.22,INR,0
+T001822,2026-11-06,Retailer_C,Biscuits Family Pack,Packaged Food,86.64,INR,0
+T001823,2026-11-07,Retailer_C,Biscuits Family Pack,Packaged Food,87.3,INR,0
+T001824,2026-11-08,Retailer_C,Biscuits Family Pack,Packaged Food,87.56,INR,0
+T001825,2026-11-09,Retailer_C,Biscuits Family Pack,Packaged Food,88.3,INR,0
+T001826,2026-11-10,Retailer_C,Biscuits Family Pack,Packaged Food,87.9,INR,0
+T001827,2026-11-11,Retailer_C,Biscuits Family Pack,Packaged Food,81.99,INR,0
+T001828,2026-11-12,Retailer_C,Biscuits Family Pack,Packaged Food,81.33,INR,0
+T001829,2026-11-13,Retailer_C,Biscuits Family Pack,Packaged Food,79.78,INR,0
+T001830,2026-11-14,Retailer_C,Biscuits Family Pack,Packaged Food,78.14,INR,0
+T001831,2026-11-15,Retailer_C,Biscuits Family Pack,Packaged Food,80.77,INR,0
+T001832,2026-11-16,Retailer_C,Biscuits Family Pack,Packaged Food,79.15,INR,0
+T001833,2026-11-17,Retailer_C,Biscuits Family Pack,Packaged Food,78.46,INR,0
+T001834,2026-11-18,Retailer_C,Biscuits Family Pack,Packaged Food,78.19,INR,0
+T001835,2026-11-19,Retailer_C,Biscuits Family Pack,Packaged Food,78.02,INR,0
+T001836,2026-11-20,Retailer_C,Biscuits Family Pack,Packaged Food,77.81,INR,0
+T001327,2026-10-01,Retailer_C,Chocolates Box,Festive Goods,244.52,INR,0
+T001328,2026-10-02,Retailer_C,Chocolates Box,Festive Goods,241.87,INR,0
+T001329,2026-10-03,Retailer_C,Chocolates Box,Festive Goods,247.21,INR,0
+T001330,2026-10-04,Retailer_C,Chocolates Box,Festive Goods,243.74,INR,0
+T001331,2026-10-05,Retailer_C,Chocolates Box,Festive Goods,248.79,INR,0
+T001332,2026-10-06,Retailer_C,Chocolates Box,Festive Goods,248.71,INR,0
+T001333,2026-10-07,Retailer_C,Chocolates Box,Festive Goods,245.89,INR,0
+T001334,2026-10-08,Retailer_C,Chocolates Box,Festive Goods,253.14,INR,0
+T001335,2026-10-09,Retailer_C,Chocolates Box,Festive Goods,250.55,INR,0
+T001336,2026-10-10,Retailer_C,Chocolates Box,Festive Goods,248.05,INR,0
+T001337,2026-10-11,Retailer_C,Chocolates Box,Festive Goods,251.08,INR,0
+T001338,2026-10-12,Retailer_C,Chocolates Box,Festive Goods,254.23,INR,0
+T001339,2026-10-13,Retailer_C,Chocolates Box,Festive Goods,253.72,INR,0
+T001340,2026-10-14,Retailer_C,Chocolates Box,Festive Goods,250.52,INR,0
+T001341,2026-10-15,Retailer_C,Chocolates Box,Festive Goods,249.34,INR,0
+T001342,2026-10-16,Retailer_C,Chocolates Box,Festive Goods,249.68,INR,0
+T001343,2026-10-17,Retailer_C,Chocolates Box,Festive Goods,246.09,INR,0
+T001344,2026-10-18,Retailer_C,Chocolates Box,Festive Goods,247.07,INR,0
+T001345,2026-10-19,Retailer_C,Chocolates Box,Festive Goods,249.66,INR,0
+T001346,2026-10-20,Retailer_C,Chocolates Box,Festive Goods,244.82,INR,0
+T001347,2026-10-21,Retailer_C,Chocolates Box,Festive Goods,247.43,INR,0
+T001348,2026-10-22,Retailer_C,Chocolates Box,Festive Goods,245.37,INR,0
+T001349,2026-10-23,Retailer_C,Chocolates Box,Festive Goods,250.53,INR,0
+T001350,2026-10-24,Retailer_C,Chocolates Box,Festive Goods,252.84,INR,0
+T001351,2026-10-25,Retailer_C,Chocolates Box,Festive Goods,254.59,INR,0
+T001352,2026-10-26,Retailer_C,Chocolates Box,Festive Goods,254.09,INR,0
+T001353,2026-10-27,Retailer_C,Chocolates Box,Festive Goods,262.12,INR,0
+T001354,2026-10-28,Retailer_C,Chocolates Box,Festive Goods,260.66,INR,0
+T001355,2026-10-29,Retailer_C,Chocolates Box,Festive Goods,257.5,INR,0
+T001356,2026-10-30,Retailer_C,Chocolates Box,Festive Goods,255.46,INR,0
+T001357,2026-10-31,Retailer_C,Chocolates Box,Festive Goods,258.73,INR,0
+T001358,2026-11-01,Retailer_C,Chocolates Box,Festive Goods,259.02,INR,0
+T001359,2026-11-02,Retailer_C,Chocolates Box,Festive Goods,258.84,INR,0
+T001360,2026-11-03,Retailer_C,Chocolates Box,Festive Goods,257.44,INR,0
+T001361,2026-11-04,Retailer_C,Chocolates Box,Festive Goods,257.1,INR,0
+T001362,2026-11-05,Retailer_C,Chocolates Box,Festive Goods,255.51,INR,0
+T001363,2026-11-06,Retailer_C,Chocolates Box,Festive Goods,342.53,INR,0
+T001364,2026-11-07,Retailer_C,Chocolates Box,Festive Goods,426.06,INR,0
+T001365,2026-11-08,Retailer_C,Chocolates Box,Festive Goods,421.04,INR,0
+T001366,2026-11-09,Retailer_C,Chocolates Box,Festive Goods,429.76,INR,0
+T001367,2026-11-10,Retailer_C,Chocolates Box,Festive Goods,431.2,INR,0
+T001368,2026-11-11,Retailer_C,Chocolates Box,Festive Goods,428.25,INR,0
+T001369,2026-11-12,Retailer_C,Chocolates Box,Festive Goods,426.38,INR,0
+T001370,2026-11-13,Retailer_C,Chocolates Box,Festive Goods,378.3,INR,0
+T001371,2026-11-14,Retailer_C,Chocolates Box,Festive Goods,371.66,INR,0
+T001372,2026-11-15,Retailer_C,Chocolates Box,Festive Goods,375.02,INR,0
+T001373,2026-11-16,Retailer_C,Chocolates Box,Festive Goods,351.64,INR,0
+T001374,2026-11-17,Retailer_C,Chocolates Box,Festive Goods,347.29,INR,0
+T001375,2026-11-18,Retailer_C,Chocolates Box,Festive Goods,346.81,INR,0
+T001376,2026-11-19,Retailer_C,Chocolates Box,Festive Goods,354.82,INR,0
+T001377,2026-11-20,Retailer_C,Chocolates Box,Festive Goods,365.44,INR,0
+T001021,2026-10-01,Retailer_C,Coffee 200g,Beverages,161.53,INR,0
+T001022,2026-10-02,Retailer_C,Coffee 200g,Beverages,159.5,INR,0
+T001023,2026-10-03,Retailer_C,Coffee 200g,Beverages,159.9,INR,0
+T001024,2026-10-04,Retailer_C,Coffee 200g,Beverages,160.85,INR,0
+T001025,2026-10-05,Retailer_C,Coffee 200g,Beverages,161.23,INR,0
+T001026,2026-10-06,Retailer_C,Coffee 200g,Beverages,160.73,INR,0
+T001027,2026-10-07,Retailer_C,Coffee 200g,Beverages,160.94,INR,0
+T001028,2026-10-08,Retailer_C,Coffee 200g,Beverages,162.43,INR,0
+T001029,2026-10-09,Retailer_C,Coffee 200g,Beverages,162.52,INR,0
+T001030,2026-10-10,Retailer_C,Coffee 200g,Beverages,162.65,INR,0
+T001031,2026-10-11,Retailer_C,Coffee 200g,Beverages,163.03,INR,0
+T001032,2026-10-12,Retailer_C,Coffee 200g,Beverages,162.01,INR,0
+T001033,2026-10-13,Retailer_C,Coffee 200g,Beverages,164.09,INR,0
+T001034,2026-10-14,Retailer_C,Coffee 200g,Beverages,168.69,INR,0
+T001035,2026-10-15,Retailer_C,Coffee 200g,Beverages,169.35,INR,0
+T001036,2026-10-16,Retailer_C,Coffee 200g,Beverages,168.64,INR,0
+T001037,2026-10-17,Retailer_C,Coffee 200g,Beverages,170.35,INR,0
+T001038,2026-10-18,Retailer_C,Coffee 200g,Beverages,172.92,INR,0
+T001039,2026-10-19,Retailer_C,Coffee 200g,Beverages,172.23,INR,0
+T001040,2026-10-20,Retailer_C,Coffee 200g,Beverages,173.04,INR,0
+T001041,2026-10-21,Retailer_C,Coffee 200g,Beverages,171.6,INR,0
+T001042,2026-10-22,Retailer_C,Coffee 200g,Beverages,173.53,INR,0
+T001043,2026-10-23,Retailer_C,Coffee 200g,Beverages,173.8,INR,0
+T001044,2026-10-24,Retailer_C,Coffee 200g,Beverages,175.33,INR,0
+T001045,2026-10-25,Retailer_C,Coffee 200g,Beverages,173.07,INR,0
+T001046,2026-10-26,Retailer_C,Coffee 200g,Beverages,174.32,INR,0
+T001047,2026-10-27,Retailer_C,Coffee 200g,Beverages,172.63,INR,0
+T001048,2026-10-28,Retailer_C,Coffee 200g,Beverages,171.09,INR,0
+T001049,2026-10-29,Retailer_C,Coffee 200g,Beverages,169.15,INR,0
+T001050,2026-10-30,Retailer_C,Coffee 200g,Beverages,170.33,INR,0
+T001051,2026-10-31,Retailer_C,Coffee 200g,Beverages,171.62,INR,0
+T001052,2026-11-01,Retailer_C,Coffee 200g,Beverages,174.19,INR,0
+T001053,2026-11-02,Retailer_C,Coffee 200g,Beverages,170.62,INR,0
+T001054,2026-11-03,Retailer_C,Coffee 200g,Beverages,169.36,INR,0
+T001055,2026-11-04,Retailer_C,Coffee 200g,Beverages,167.17,INR,0
+T001056,2026-11-05,Retailer_C,Coffee 200g,Beverages,164.73,INR,0
+T001057,2026-11-06,Retailer_C,Coffee 200g,Beverages,164.83,INR,0
+T001058,2026-11-07,Retailer_C,Coffee 200g,Beverages,166.02,INR,0
+T001059,2026-11-08,Retailer_C,Coffee 200g,Beverages,234.83,INR,0
+T001060,2026-11-09,Retailer_C,Coffee 200g,Beverages,234.88,INR,0
+T001061,2026-11-10,Retailer_C,Coffee 200g,Beverages,233.56,INR,0
+T001062,2026-11-11,Retailer_C,Coffee 200g,Beverages,235.1,INR,0
+T001063,2026-11-12,Retailer_C,Coffee 200g,Beverages,232.47,INR,0
+T001064,2026-11-13,Retailer_C,Coffee 200g,Beverages,232.57,INR,0
+T001065,2026-11-14,Retailer_C,Coffee 200g,Beverages,227.39,INR,0
+T001066,2026-11-15,Retailer_C,Coffee 200g,Beverages,227.43,INR,0
+T001067,2026-11-16,Retailer_C,Coffee 200g,Beverages,225.21,INR,0
+T001068,2026-11-17,Retailer_C,Coffee 200g,Beverages,224.73,INR,0
+T001069,2026-11-18,Retailer_C,Coffee 200g,Beverages,226.36,INR,0
+T001070,2026-11-19,Retailer_C,Coffee 200g,Beverages,225.56,INR,0
+T001071,2026-11-20,Retailer_C,Coffee 200g,Beverages,226.74,INR,0
+T001633,2026-10-01,Retailer_C,Detergent 1kg,Home Care,134.29,INR,0
+T001634,2026-10-02,Retailer_C,Detergent 1kg,Home Care,133.73,INR,0
+T001635,2026-10-03,Retailer_C,Detergent 1kg,Home Care,132.73,INR,0
+T001636,2026-10-04,Retailer_C,Detergent 1kg,Home Care,131.11,INR,0
+T001637,2026-10-05,Retailer_C,Detergent 1kg,Home Care,131.02,INR,0
+T001638,2026-10-06,Retailer_C,Detergent 1kg,Home Care,131.36,INR,0
+T001639,2026-10-07,Retailer_C,Detergent 1kg,Home Care,132.13,INR,0
+T001640,2026-10-08,Retailer_C,Detergent 1kg,Home Care,132.18,INR,0
+T001641,2026-10-09,Retailer_C,Detergent 1kg,Home Care,132.66,INR,0
+T001642,2026-10-10,Retailer_C,Detergent 1kg,Home Care,132.25,INR,0
+T001643,2026-10-11,Retailer_C,Detergent 1kg,Home Care,129.91,INR,0
+T001644,2026-10-12,Retailer_C,Detergent 1kg,Home Care,129.9,INR,0
+T001645,2026-10-13,Retailer_C,Detergent 1kg,Home Care,130.87,INR,0
+T001646,2026-10-14,Retailer_C,Detergent 1kg,Home Care,129.35,INR,0
+T001647,2026-10-15,Retailer_C,Detergent 1kg,Home Care,129.7,INR,0
+T001648,2026-10-16,Retailer_C,Detergent 1kg,Home Care,132.62,INR,0
+T001649,2026-10-17,Retailer_C,Detergent 1kg,Home Care,132.5,INR,0
+T001650,2026-10-18,Retailer_C,Detergent 1kg,Home Care,132.46,INR,0
+T001651,2026-10-19,Retailer_C,Detergent 1kg,Home Care,130.0,INR,0
+T001652,2026-10-20,Retailer_C,Detergent 1kg,Home Care,128.33,INR,0
+T001653,2026-10-21,Retailer_C,Detergent 1kg,Home Care,127.1,INR,0
+T001654,2026-10-22,Retailer_C,Detergent 1kg,Home Care,127.99,INR,0
+T001655,2026-10-23,Retailer_C,Detergent 1kg,Home Care,126.6,INR,0
+T001656,2026-10-24,Retailer_C,Detergent 1kg,Home Care,123.78,INR,0
+T001657,2026-10-25,Retailer_C,Detergent 1kg,Home Care,124.37,INR,0
+T001658,2026-10-26,Retailer_C,Detergent 1kg,Home Care,123.31,INR,0
+T001659,2026-10-27,Retailer_C,Detergent 1kg,Home Care,121.07,INR,0
+T001660,2026-10-28,Retailer_C,Detergent 1kg,Home Care,122.1,INR,0
+T001661,2026-10-29,Retailer_C,Detergent 1kg,Home Care,121.56,INR,0
+T001662,2026-10-30,Retailer_C,Detergent 1kg,Home Care,122.28,INR,0
+T001663,2026-10-31,Retailer_C,Detergent 1kg,Home Care,113.83,INR,0
+T001664,2026-11-01,Retailer_C,Detergent 1kg,Home Care,111.07,INR,0
+T001665,2026-11-02,Retailer_C,Detergent 1kg,Home Care,110.59,INR,0
+T001666,2026-11-03,Retailer_C,Detergent 1kg,Home Care,110.68,INR,0
+T001667,2026-11-04,Retailer_C,Detergent 1kg,Home Care,111.93,INR,0
+T001668,2026-11-05,Retailer_C,Detergent 1kg,Home Care,105.81,INR,0
+T001669,2026-11-06,Retailer_C,Detergent 1kg,Home Care,107.16,INR,0
+T001670,2026-11-07,Retailer_C,Detergent 1kg,Home Care,110.78,INR,0
+T001671,2026-11-08,Retailer_C,Detergent 1kg,Home Care,111.29,INR,0
+T001672,2026-11-09,Retailer_C,Detergent 1kg,Home Care,113.8,INR,0
+T001673,2026-11-10,Retailer_C,Detergent 1kg,Home Care,111.61,INR,0
+T001674,2026-11-11,Retailer_C,Detergent 1kg,Home Care,111.15,INR,0
+T001675,2026-11-12,Retailer_C,Detergent 1kg,Home Care,109.44,INR,0
+T001676,2026-11-13,Retailer_C,Detergent 1kg,Home Care,108.58,INR,0
+T001677,2026-11-14,Retailer_C,Detergent 1kg,Home Care,108.21,INR,0
+T001678,2026-11-15,Retailer_C,Detergent 1kg,Home Care,110.78,INR,0
+T001679,2026-11-16,Retailer_C,Detergent 1kg,Home Care,110.87,INR,0
+T001680,2026-11-17,Retailer_C,Detergent 1kg,Home Care,112.34,INR,0
+T001681,2026-11-18,Retailer_C,Detergent 1kg,Home Care,111.77,INR,0
+T001682,2026-11-19,Retailer_C,Detergent 1kg,Home Care,101.93,INR,0
+T001683,2026-11-20,Retailer_C,Detergent 1kg,Home Care,102.79,INR,0
+T001480,2026-10-01,Retailer_C,Dry Fruits 500g,Festive Goods,413.34,INR,0
+T001481,2026-10-02,Retailer_C,Dry Fruits 500g,Festive Goods,411.825,INR,1
+T001482,2026-10-03,Retailer_C,Dry Fruits 500g,Festive Goods,410.31,INR,0
+T001483,2026-10-04,Retailer_C,Dry Fruits 500g,Festive Goods,408.47,INR,0
+T001484,2026-10-05,Retailer_C,Dry Fruits 500g,Festive Goods,411.03,INR,0
+T001485,2026-10-06,Retailer_C,Dry Fruits 500g,Festive Goods,418.05,INR,0
+T001486,2026-10-07,Retailer_C,Dry Fruits 500g,Festive Goods,413.36,INR,0
+T001487,2026-10-08,Retailer_C,Dry Fruits 500g,Festive Goods,412.98,INR,0
+T001488,2026-10-09,Retailer_C,Dry Fruits 500g,Festive Goods,407.34,INR,0
+T001489,2026-10-10,Retailer_C,Dry Fruits 500g,Festive Goods,405.02,INR,0
+T001490,2026-10-11,Retailer_C,Dry Fruits 500g,Festive Goods,403.49,INR,0
+T001491,2026-10-12,Retailer_C,Dry Fruits 500g,Festive Goods,404.45,INR,0
+T001492,2026-10-13,Retailer_C,Dry Fruits 500g,Festive Goods,405.28,INR,0
+T001493,2026-10-14,Retailer_C,Dry Fruits 500g,Festive Goods,405.3,INR,0
+T001494,2026-10-15,Retailer_C,Dry Fruits 500g,Festive Goods,407.42,INR,0
+T001495,2026-10-16,Retailer_C,Dry Fruits 500g,Festive Goods,403.29,INR,0
+T001496,2026-10-17,Retailer_C,Dry Fruits 500g,Festive Goods,404.3,INR,0
+T001497,2026-10-18,Retailer_C,Dry Fruits 500g,Festive Goods,408.04,INR,0
+T001498,2026-10-19,Retailer_C,Dry Fruits 500g,Festive Goods,374.72,INR,0
+T001499,2026-10-20,Retailer_C,Dry Fruits 500g,Festive Goods,369.06,INR,0
+T001500,2026-10-21,Retailer_C,Dry Fruits 500g,Festive Goods,366.99,INR,0
+T001501,2026-10-22,Retailer_C,Dry Fruits 500g,Festive Goods,368.0,INR,0
+T001502,2026-10-23,Retailer_C,Dry Fruits 500g,Festive Goods,365.92,INR,0
+T001503,2026-10-24,Retailer_C,Dry Fruits 500g,Festive Goods,360.82,INR,0
+T001504,2026-10-25,Retailer_C,Dry Fruits 500g,Festive Goods,361.49,INR,0
+T001505,2026-10-26,Retailer_C,Dry Fruits 500g,Festive Goods,366.86,INR,0
+T001506,2026-10-27,Retailer_C,Dry Fruits 500g,Festive Goods,370.99,INR,0
+T001507,2026-10-28,Retailer_C,Dry Fruits 500g,Festive Goods,379.12,INR,0
+T001508,2026-10-29,Retailer_C,Dry Fruits 500g,Festive Goods,385.16,INR,0
+T001509,2026-10-30,Retailer_C,Dry Fruits 500g,Festive Goods,394.47,INR,0
+T001510,2026-10-31,Retailer_C,Dry Fruits 500g,Festive Goods,389.66,INR,0
+T001511,2026-11-01,Retailer_C,Dry Fruits 500g,Festive Goods,393.31,INR,0
+T001512,2026-11-02,Retailer_C,Dry Fruits 500g,Festive Goods,392.98,INR,0
+T001513,2026-11-03,Retailer_C,Dry Fruits 500g,Festive Goods,396.56,INR,0
+T001514,2026-11-04,Retailer_C,Dry Fruits 500g,Festive Goods,390.4,INR,0
+T001515,2026-11-05,Retailer_C,Dry Fruits 500g,Festive Goods,391.5,INR,0
+T001516,2026-11-06,Retailer_C,Dry Fruits 500g,Festive Goods,399.09,INR,0
+T001517,2026-11-07,Retailer_C,Dry Fruits 500g,Festive Goods,497.35,INR,0
+T001518,2026-11-08,Retailer_C,Dry Fruits 500g,Festive Goods,489.9,INR,0
+T001519,2026-11-09,Retailer_C,Dry Fruits 500g,Festive Goods,493.94,INR,0
+T001520,2026-11-10,Retailer_C,Dry Fruits 500g,Festive Goods,495.38,INR,0
+T001521,2026-11-11,Retailer_C,Dry Fruits 500g,Festive Goods,495.13,INR,0
+T001522,2026-11-12,Retailer_C,Dry Fruits 500g,Festive Goods,490.82,INR,0
+T001523,2026-11-13,Retailer_C,Dry Fruits 500g,Festive Goods,494.76,INR,0
+T001524,2026-11-14,Retailer_C,Dry Fruits 500g,Festive Goods,495.07,INR,0
+T001525,2026-11-15,Retailer_C,Dry Fruits 500g,Festive Goods,491.94,INR,0
+T001526,2026-11-16,Retailer_C,Dry Fruits 500g,Festive Goods,499.41,INR,0
+T001527,2026-11-17,Retailer_C,Dry Fruits 500g,Festive Goods,502.63,INR,0
+T001528,2026-11-18,Retailer_C,Dry Fruits 500g,Festive Goods,501.49,INR,0
+T001529,2026-11-19,Retailer_C,Dry Fruits 500g,Festive Goods,448.27,INR,0
+T001530,2026-11-20,Retailer_C,Dry Fruits 500g,Festive Goods,446.13,INR,0
+T001174,2026-10-01,Retailer_C,Ghee 500ml,Dairy,300.07,INR,0
+T001175,2026-10-02,Retailer_C,Ghee 500ml,Dairy,304.96,INR,0
+T001176,2026-10-03,Retailer_C,Ghee 500ml,Dairy,302.65,INR,0
+T001177,2026-10-04,Retailer_C,Ghee 500ml,Dairy,294.2,INR,0
+T001178,2026-10-05,Retailer_C,Ghee 500ml,Dairy,293.21,INR,0
+T001179,2026-10-06,Retailer_C,Ghee 500ml,Dairy,291.68,INR,0
+T001180,2026-10-07,Retailer_C,Ghee 500ml,Dairy,295.65,INR,0
+T001181,2026-10-08,Retailer_C,Ghee 500ml,Dairy,293.6,INR,0
+T001182,2026-10-09,Retailer_C,Ghee 500ml,Dairy,300.02,INR,0
+T001183,2026-10-10,Retailer_C,Ghee 500ml,Dairy,303.72,INR,0
+T001184,2026-10-11,Retailer_C,Ghee 500ml,Dairy,304.09,INR,0
+T001185,2026-10-12,Retailer_C,Ghee 500ml,Dairy,300.59,INR,0
+T001186,2026-10-13,Retailer_C,Ghee 500ml,Dairy,294.54,INR,0
+T001187,2026-10-14,Retailer_C,Ghee 500ml,Dairy,295.52,INR,0
+T001188,2026-10-15,Retailer_C,Ghee 500ml,Dairy,295.06,INR,0
+T001189,2026-10-16,Retailer_C,Ghee 500ml,Dairy,297.08,INR,0
+T001190,2026-10-17,Retailer_C,Ghee 500ml,Dairy,299.72,INR,0
+T001191,2026-10-18,Retailer_C,Ghee 500ml,Dairy,288.88,INR,0
+T001192,2026-10-19,Retailer_C,Ghee 500ml,Dairy,291.55,INR,0
+T001193,2026-10-20,Retailer_C,Ghee 500ml,Dairy,289.68,INR,0
+T001194,2026-10-21,Retailer_C,Ghee 500ml,Dairy,291.56,INR,0
+T001195,2026-10-22,Retailer_C,Ghee 500ml,Dairy,290.12,INR,0
+T001196,2026-10-23,Retailer_C,Ghee 500ml,Dairy,293.59,INR,0
+T001197,2026-10-24,Retailer_C,Ghee 500ml,Dairy,287.1,INR,0
+T001198,2026-10-25,Retailer_C,Ghee 500ml,Dairy,282.76,INR,0
+T001199,2026-10-26,Retailer_C,Ghee 500ml,Dairy,282.24,INR,0
+T001200,2026-10-27,Retailer_C,Ghee 500ml,Dairy,279.86,INR,0
+T001201,2026-10-28,Retailer_C,Ghee 500ml,Dairy,278.38,INR,0
+T001202,2026-10-29,Retailer_C,Ghee 500ml,Dairy,280.59,INR,0
+T001203,2026-10-30,Retailer_C,Ghee 500ml,Dairy,279.04,INR,0
+T001204,2026-10-31,Retailer_C,Ghee 500ml,Dairy,280.14,INR,0
+T001205,2026-11-01,Retailer_C,Ghee 500ml,Dairy,277.09,INR,0
+T001206,2026-11-02,Retailer_C,Ghee 500ml,Dairy,270.33,INR,0
+T001207,2026-11-03,Retailer_C,Ghee 500ml,Dairy,260.98,INR,0
+T001208,2026-11-04,Retailer_C,Ghee 500ml,Dairy,258.22,INR,0
+T001209,2026-11-05,Retailer_C,Ghee 500ml,Dairy,237.66,INR,0
+T001210,2026-11-06,Retailer_C,Ghee 500ml,Dairy,237.97,INR,0
+T001211,2026-11-07,Retailer_C,Ghee 500ml,Dairy,241.9,INR,0
+T001212,2026-11-08,Retailer_C,Ghee 500ml,Dairy,242.57,INR,0
+T001213,2026-11-09,Retailer_C,Ghee 500ml,Dairy,244.94,INR,0
+T001214,2026-11-10,Retailer_C,Ghee 500ml,Dairy,247.19,INR,0
+T001215,2026-11-11,Retailer_C,Ghee 500ml,Dairy,250.43,INR,0
+T001216,2026-11-12,Retailer_C,Ghee 500ml,Dairy,250.06,INR,0
+T001217,2026-11-13,Retailer_C,Ghee 500ml,Dairy,248.42,INR,0
+T001218,2026-11-14,Retailer_C,Ghee 500ml,Dairy,250.07,INR,0
+T001219,2026-11-15,Retailer_C,Ghee 500ml,Dairy,235.23,INR,0
+T001220,2026-11-16,Retailer_C,Ghee 500ml,Dairy,237.83,INR,0
+T001221,2026-11-17,Retailer_C,Ghee 500ml,Dairy,238.85,INR,0
+T001222,2026-11-18,Retailer_C,Ghee 500ml,Dairy,237.97,INR,0
+T001223,2026-11-19,Retailer_C,Ghee 500ml,Dairy,242.84,INR,0
+T001224,2026-11-20,Retailer_C,Ghee 500ml,Dairy,226.7,INR,0
+T000103,2026-10-01,Retailer_C,Rice 5kg,Staples,318.66,INR,0
+T000104,2026-10-02,Retailer_C,Rice 5kg,Staples,318.78,INR,0
+T000105,2026-10-03,Retailer_C,Rice 5kg,Staples,320.65,INR,0
+T000106,2026-10-04,Retailer_C,Rice 5kg,Staples,319.39,INR,0
+T000107,2026-10-05,Retailer_C,Rice 5kg,Staples,321.45,INR,0
+T000108,2026-10-06,Retailer_C,Rice 5kg,Staples,320.85,INR,0
+T000109,2026-10-07,Retailer_C,Rice 5kg,Staples,319.99,INR,0
+T000110,2026-10-08,Retailer_C,Rice 5kg,Staples,320.67,INR,0
+T000111,2026-10-09,Retailer_C,Rice 5kg,Staples,321.02,INR,0
+T000112,2026-10-10,Retailer_C,Rice 5kg,Staples,330.72,INR,0
+T000113,2026-10-11,Retailer_C,Rice 5kg,Staples,327.33,INR,0
+T000114,2026-10-12,Retailer_C,Rice 5kg,Staples,321.58,INR,0
+T000115,2026-10-13,Retailer_C,Rice 5kg,Staples,322.8,INR,0
+T000116,2026-10-14,Retailer_C,Rice 5kg,Staples,319.98,INR,0
+T000117,2026-10-15,Retailer_C,Rice 5kg,Staples,311.73,INR,0
+T000118,2026-10-16,Retailer_C,Rice 5kg,Staples,307.76,INR,0
+T000119,2026-10-17,Retailer_C,Rice 5kg,Staples,315.93,INR,0
+T000120,2026-10-18,Retailer_C,Rice 5kg,Staples,312.61,INR,0
+T000121,2026-10-19,Retailer_C,Rice 5kg,Staples,306.02,INR,0
+T000122,2026-10-20,Retailer_C,Rice 5kg,Staples,313.84,INR,0
+T000123,2026-10-21,Retailer_C,Rice 5kg,Staples,309.71,INR,0
+T000124,2026-10-22,Retailer_C,Rice 5kg,Staples,320.51,INR,0
+T000125,2026-10-23,Retailer_C,Rice 5kg,Staples,319.09,INR,0
+T000126,2026-10-24,Retailer_C,Rice 5kg,Staples,325.71,INR,0
+T000127,2026-10-25,Retailer_C,Rice 5kg,Staples,326.075,INR,1
+T000128,2026-10-26,Retailer_C,Rice 5kg,Staples,326.44,INR,0
+T000129,2026-10-27,Retailer_C,Rice 5kg,Staples,325.92,INR,0
+T000130,2026-10-28,Retailer_C,Rice 5kg,Staples,324.99,INR,0
+T000131,2026-10-29,Retailer_C,Rice 5kg,Staples,325.9,INR,0
+T000132,2026-10-30,Retailer_C,Rice 5kg,Staples,327.74,INR,0
+T000133,2026-10-31,Retailer_C,Rice 5kg,Staples,328.15,INR,1
+T000134,2026-11-01,Retailer_C,Rice 5kg,Staples,328.56,INR,0
+T000135,2026-11-02,Retailer_C,Rice 5kg,Staples,325.72,INR,0
+T000136,2026-11-03,Retailer_C,Rice 5kg,Staples,325.34,INR,0
+T000137,2026-11-04,Retailer_C,Rice 5kg,Staples,331.48,INR,0
+T000138,2026-11-05,Retailer_C,Rice 5kg,Staples,328.44,INR,0
+T000139,2026-11-06,Retailer_C,Rice 5kg,Staples,457.42,INR,0
+T000140,2026-11-07,Retailer_C,Rice 5kg,Staples,639.61,INR,0
+T000141,2026-11-08,Retailer_C,Rice 5kg,Staples,631.09,INR,0
+T000142,2026-11-09,Retailer_C,Rice 5kg,Staples,631.49,INR,0
+T000143,2026-11-10,Retailer_C,Rice 5kg,Staples,630.71,INR,0
+T000144,2026-11-11,Retailer_C,Rice 5kg,Staples,631.86,INR,0
+T000145,2026-11-12,Retailer_C,Rice 5kg,Staples,612.4,INR,0
+T000146,2026-11-13,Retailer_C,Rice 5kg,Staples,613.7,INR,0
+T000147,2026-11-14,Retailer_C,Rice 5kg,Staples,610.96,INR,0
+T000148,2026-11-15,Retailer_C,Rice 5kg,Staples,613.36,INR,0
+T000149,2026-11-16,Retailer_C,Rice 5kg,Staples,606.53,INR,1
+T000150,2026-11-17,Retailer_C,Rice 5kg,Staples,599.7,INR,0
+T000151,2026-11-18,Retailer_C,Rice 5kg,Staples,592.12,INR,0
+T000152,2026-11-19,Retailer_C,Rice 5kg,Staples,601.36,INR,0
+T000153,2026-11-20,Retailer_C,Rice 5kg,Staples,613.86,INR,0
+T000409,2026-10-01,Retailer_C,Sugar 1kg,Staples,47.5,INR,0
+T000410,2026-10-02,Retailer_C,Sugar 1kg,Staples,46.86,INR,0
+T000411,2026-10-03,Retailer_C,Sugar 1kg,Staples,46.44,INR,0
+T000412,2026-10-04,Retailer_C,Sugar 1kg,Staples,46.26,INR,0
+T000413,2026-10-05,Retailer_C,Sugar 1kg,Staples,45.31,INR,0
+T000414,2026-10-06,Retailer_C,Sugar 1kg,Staples,45.33,INR,0
+T000415,2026-10-07,Retailer_C,Sugar 1kg,Staples,45.28,INR,0
+T000416,2026-10-08,Retailer_C,Sugar 1kg,Staples,45.48,INR,0
+T000417,2026-10-09,Retailer_C,Sugar 1kg,Staples,45.94,INR,0
+T000418,2026-10-10,Retailer_C,Sugar 1kg,Staples,46.47,INR,0
+T000419,2026-10-11,Retailer_C,Sugar 1kg,Staples,46.2,INR,0
+T000420,2026-10-12,Retailer_C,Sugar 1kg,Staples,46.22,INR,0
+T000421,2026-10-13,Retailer_C,Sugar 1kg,Staples,46.23,INR,0
+T000422,2026-10-14,Retailer_C,Sugar 1kg,Staples,46.47,INR,0
+T000423,2026-10-15,Retailer_C,Sugar 1kg,Staples,46.84,INR,0
+T000424,2026-10-16,Retailer_C,Sugar 1kg,Staples,46.03,INR,0
+T000425,2026-10-17,Retailer_C,Sugar 1kg,Staples,46.08,INR,0
+T000426,2026-10-18,Retailer_C,Sugar 1kg,Staples,46.195,INR,1
+T000427,2026-10-19,Retailer_C,Sugar 1kg,Staples,46.31,INR,0
+T000428,2026-10-20,Retailer_C,Sugar 1kg,Staples,46.28,INR,0
+T000429,2026-10-21,Retailer_C,Sugar 1kg,Staples,45.72,INR,0
+T000430,2026-10-22,Retailer_C,Sugar 1kg,Staples,45.75,INR,0
+T000431,2026-10-23,Retailer_C,Sugar 1kg,Staples,44.67,INR,0
+T000432,2026-10-24,Retailer_C,Sugar 1kg,Staples,44.55,INR,0
+T000433,2026-10-25,Retailer_C,Sugar 1kg,Staples,44.54,INR,0
+T000434,2026-10-26,Retailer_C,Sugar 1kg,Staples,45.05,INR,0
+T000435,2026-10-27,Retailer_C,Sugar 1kg,Staples,44.42,INR,0
+T000436,2026-10-28,Retailer_C,Sugar 1kg,Staples,44.57,INR,0
+T000437,2026-10-29,Retailer_C,Sugar 1kg,Staples,44.34,INR,0
+T000438,2026-10-30,Retailer_C,Sugar 1kg,Staples,43.43,INR,0
+T000439,2026-10-31,Retailer_C,Sugar 1kg,Staples,43.14,INR,0
+T000440,2026-11-01,Retailer_C,Sugar 1kg,Staples,43.16,INR,0
+T000441,2026-11-02,Retailer_C,Sugar 1kg,Staples,43.7,INR,0
+T000442,2026-11-03,Retailer_C,Sugar 1kg,Staples,43.25,INR,0
+T000443,2026-11-04,Retailer_C,Sugar 1kg,Staples,42.45,INR,0
+T000444,2026-11-05,Retailer_C,Sugar 1kg,Staples,42.5,INR,0
+T000445,2026-11-06,Retailer_C,Sugar 1kg,Staples,43.31,INR,0
+T000446,2026-11-07,Retailer_C,Sugar 1kg,Staples,55.3,INR,0
+T000447,2026-11-08,Retailer_C,Sugar 1kg,Staples,72.09,INR,0
+T000448,2026-11-09,Retailer_C,Sugar 1kg,Staples,72.94,INR,0
+T000449,2026-11-10,Retailer_C,Sugar 1kg,Staples,74.2,INR,0
+T000450,2026-11-11,Retailer_C,Sugar 1kg,Staples,75.41,INR,0
+T000451,2026-11-12,Retailer_C,Sugar 1kg,Staples,75.12,INR,0
+T000452,2026-11-13,Retailer_C,Sugar 1kg,Staples,75.23,INR,0
+T000453,2026-11-14,Retailer_C,Sugar 1kg,Staples,75.08,INR,0
+T000454,2026-11-15,Retailer_C,Sugar 1kg,Staples,74.93,INR,0
+T000455,2026-11-16,Retailer_C,Sugar 1kg,Staples,74.72,INR,0
+T000456,2026-11-17,Retailer_C,Sugar 1kg,Staples,74.73,INR,0
+T000457,2026-11-18,Retailer_C,Sugar 1kg,Staples,75.78,INR,0
+T000458,2026-11-19,Retailer_C,Sugar 1kg,Staples,76.06,INR,0
+T000459,2026-11-20,Retailer_C,Sugar 1kg,Staples,75.01,INR,0
+T000256,2026-10-01,Retailer_C,Sunflower Oil 1L,Cooking Oil,142.32,INR,0
+T000257,2026-10-02,Retailer_C,Sunflower Oil 1L,Cooking Oil,142.17,INR,0
+T000258,2026-10-03,Retailer_C,Sunflower Oil 1L,Cooking Oil,142.76,INR,0
+T000259,2026-10-04,Retailer_C,Sunflower Oil 1L,Cooking Oil,141.58,INR,0
+T000260,2026-10-05,Retailer_C,Sunflower Oil 1L,Cooking Oil,144.35,INR,0
+T000261,2026-10-06,Retailer_C,Sunflower Oil 1L,Cooking Oil,142.81,INR,0
+T000262,2026-10-07,Retailer_C,Sunflower Oil 1L,Cooking Oil,142.48,INR,0
+T000263,2026-10-08,Retailer_C,Sunflower Oil 1L,Cooking Oil,141.72,INR,0
+T000264,2026-10-09,Retailer_C,Sunflower Oil 1L,Cooking Oil,143.16500000000002,INR,1
+T000265,2026-10-10,Retailer_C,Sunflower Oil 1L,Cooking Oil,144.61,INR,0
+T000266,2026-10-11,Retailer_C,Sunflower Oil 1L,Cooking Oil,142.98,INR,0
+T000267,2026-10-12,Retailer_C,Sunflower Oil 1L,Cooking Oil,143.76,INR,0
+T000268,2026-10-13,Retailer_C,Sunflower Oil 1L,Cooking Oil,144.86,INR,0
+T000269,2026-10-14,Retailer_C,Sunflower Oil 1L,Cooking Oil,146.86,INR,0
+T000270,2026-10-15,Retailer_C,Sunflower Oil 1L,Cooking Oil,145.47,INR,0
+T000271,2026-10-16,Retailer_C,Sunflower Oil 1L,Cooking Oil,144.03,INR,0
+T000272,2026-10-17,Retailer_C,Sunflower Oil 1L,Cooking Oil,143.72,INR,0
+T000273,2026-10-18,Retailer_C,Sunflower Oil 1L,Cooking Oil,143.45,INR,0
+T000274,2026-10-19,Retailer_C,Sunflower Oil 1L,Cooking Oil,141.71,INR,0
+T000275,2026-10-20,Retailer_C,Sunflower Oil 1L,Cooking Oil,142.84,INR,0
+T000276,2026-10-21,Retailer_C,Sunflower Oil 1L,Cooking Oil,143.79,INR,0
+T000277,2026-10-22,Retailer_C,Sunflower Oil 1L,Cooking Oil,147.3,INR,0
+T000278,2026-10-23,Retailer_C,Sunflower Oil 1L,Cooking Oil,146.76,INR,0
+T000279,2026-10-24,Retailer_C,Sunflower Oil 1L,Cooking Oil,144.94,INR,0
+T000280,2026-10-25,Retailer_C,Sunflower Oil 1L,Cooking Oil,143.39,INR,0
+T000281,2026-10-26,Retailer_C,Sunflower Oil 1L,Cooking Oil,143.97,INR,0
+T000282,2026-10-27,Retailer_C,Sunflower Oil 1L,Cooking Oil,142.65,INR,0
+T000283,2026-10-28,Retailer_C,Sunflower Oil 1L,Cooking Oil,137.32,INR,0
+T000284,2026-10-29,Retailer_C,Sunflower Oil 1L,Cooking Oil,138.22,INR,0
+T000285,2026-10-30,Retailer_C,Sunflower Oil 1L,Cooking Oil,122.54,INR,0
+T000286,2026-10-31,Retailer_C,Sunflower Oil 1L,Cooking Oil,121.22,INR,0
+T000287,2026-11-01,Retailer_C,Sunflower Oil 1L,Cooking Oil,119.1,INR,0
+T000288,2026-11-02,Retailer_C,Sunflower Oil 1L,Cooking Oil,120.88,INR,0
+T000289,2026-11-03,Retailer_C,Sunflower Oil 1L,Cooking Oil,121.41,INR,0
+T000290,2026-11-04,Retailer_C,Sunflower Oil 1L,Cooking Oil,119.73,INR,0
+T000291,2026-11-05,Retailer_C,Sunflower Oil 1L,Cooking Oil,118.19,INR,0
+T000292,2026-11-06,Retailer_C,Sunflower Oil 1L,Cooking Oil,121.02,INR,0
+T000293,2026-11-07,Retailer_C,Sunflower Oil 1L,Cooking Oil,119.8,INR,0
+T000294,2026-11-08,Retailer_C,Sunflower Oil 1L,Cooking Oil,122.12,INR,0
+T000295,2026-11-09,Retailer_C,Sunflower Oil 1L,Cooking Oil,122.48,INR,0
+T000296,2026-11-10,Retailer_C,Sunflower Oil 1L,Cooking Oil,120.05,INR,0
+T000297,2026-11-11,Retailer_C,Sunflower Oil 1L,Cooking Oil,119.44,INR,0
+T000298,2026-11-12,Retailer_C,Sunflower Oil 1L,Cooking Oil,120.6,INR,0
+T000299,2026-11-13,Retailer_C,Sunflower Oil 1L,Cooking Oil,118.03,INR,0
+T000300,2026-11-14,Retailer_C,Sunflower Oil 1L,Cooking Oil,117.21,INR,0
+T000301,2026-11-15,Retailer_C,Sunflower Oil 1L,Cooking Oil,116.33,INR,0
+T000302,2026-11-16,Retailer_C,Sunflower Oil 1L,Cooking Oil,117.09,INR,0
+T000303,2026-11-17,Retailer_C,Sunflower Oil 1L,Cooking Oil,117.72,INR,0
+T000304,2026-11-18,Retailer_C,Sunflower Oil 1L,Cooking Oil,118.48,INR,0
+T000305,2026-11-19,Retailer_C,Sunflower Oil 1L,Cooking Oil,118.81,INR,0
+T000306,2026-11-20,Retailer_C,Sunflower Oil 1L,Cooking Oil,119.45,INR,0
+T000868,2026-10-01,Retailer_C,Tea 500g,Beverages,213.2,INR,0
+T000869,2026-10-02,Retailer_C,Tea 500g,Beverages,210.33,INR,0
+T000870,2026-10-03,Retailer_C,Tea 500g,Beverages,212.37,INR,0
+T000871,2026-10-04,Retailer_C,Tea 500g,Beverages,206.16,INR,0
+T000872,2026-10-05,Retailer_C,Tea 500g,Beverages,207.86,INR,0
+T000873,2026-10-06,Retailer_C,Tea 500g,Beverages,210.63,INR,0
+T000874,2026-10-07,Retailer_C,Tea 500g,Beverages,211.39,INR,0
+T000875,2026-10-08,Retailer_C,Tea 500g,Beverages,189.48,INR,0
+T000876,2026-10-09,Retailer_C,Tea 500g,Beverages,188.8,INR,0
+T000877,2026-10-10,Retailer_C,Tea 500g,Beverages,188.06,INR,0
+T000878,2026-10-11,Retailer_C,Tea 500g,Beverages,187.73,INR,0
+T000879,2026-10-12,Retailer_C,Tea 500g,Beverages,186.73,INR,0
+T000880,2026-10-13,Retailer_C,Tea 500g,Beverages,187.72,INR,0
+T000881,2026-10-14,Retailer_C,Tea 500g,Beverages,186.8,INR,0
+T000882,2026-10-15,Retailer_C,Tea 500g,Beverages,182.49,INR,0
+T000883,2026-10-16,Retailer_C,Tea 500g,Beverages,182.49,INR,0
+T000884,2026-10-17,Retailer_C,Tea 500g,Beverages,184.59,INR,0
+T000885,2026-10-18,Retailer_C,Tea 500g,Beverages,180.22,INR,0
+T000886,2026-10-19,Retailer_C,Tea 500g,Beverages,180.2,INR,0
+T000887,2026-10-20,Retailer_C,Tea 500g,Beverages,179.2,INR,0
+T000888,2026-10-21,Retailer_C,Tea 500g,Beverages,181.21,INR,0
+T000889,2026-10-22,Retailer_C,Tea 500g,Beverages,180.64,INR,0
+T000890,2026-10-23,Retailer_C,Tea 500g,Beverages,182.31,INR,0
+T000891,2026-10-24,Retailer_C,Tea 500g,Beverages,183.72,INR,0
+T000892,2026-10-25,Retailer_C,Tea 500g,Beverages,185.21,INR,0
+T000893,2026-10-26,Retailer_C,Tea 500g,Beverages,188.67,INR,0
+T000894,2026-10-27,Retailer_C,Tea 500g,Beverages,188.16,INR,0
+T000895,2026-10-28,Retailer_C,Tea 500g,Beverages,188.29,INR,0
+T000896,2026-10-29,Retailer_C,Tea 500g,Beverages,189.23,INR,0
+T000897,2026-10-30,Retailer_C,Tea 500g,Beverages,189.43,INR,0
+T000898,2026-10-31,Retailer_C,Tea 500g,Beverages,188.84,INR,0
+T000899,2026-11-01,Retailer_C,Tea 500g,Beverages,186.8,INR,0
+T000900,2026-11-02,Retailer_C,Tea 500g,Beverages,186.82,INR,0
+T000901,2026-11-03,Retailer_C,Tea 500g,Beverages,183.46,INR,0
+T000902,2026-11-04,Retailer_C,Tea 500g,Beverages,178.97,INR,0
+T000903,2026-11-05,Retailer_C,Tea 500g,Beverages,159.85,INR,0
+T000904,2026-11-06,Retailer_C,Tea 500g,Beverages,158.62,INR,0
+T000905,2026-11-07,Retailer_C,Tea 500g,Beverages,203.18,INR,0
+T000906,2026-11-08,Retailer_C,Tea 500g,Beverages,204.14,INR,0
+T000907,2026-11-09,Retailer_C,Tea 500g,Beverages,201.48,INR,0
+T000908,2026-11-10,Retailer_C,Tea 500g,Beverages,203.96,INR,0
+T000909,2026-11-11,Retailer_C,Tea 500g,Beverages,204.34,INR,0
+T000910,2026-11-12,Retailer_C,Tea 500g,Beverages,206.0,INR,0
+T000911,2026-11-13,Retailer_C,Tea 500g,Beverages,206.58,INR,0
+T000912,2026-11-14,Retailer_C,Tea 500g,Beverages,205.19,INR,0
+T000913,2026-11-15,Retailer_C,Tea 500g,Beverages,202.25,INR,0
+T000914,2026-11-16,Retailer_C,Tea 500g,Beverages,202.175,INR,1
+T000915,2026-11-17,Retailer_C,Tea 500g,Beverages,202.1,INR,0
+T000916,2026-11-18,Retailer_C,Tea 500g,Beverages,201.82,INR,1
+T000917,2026-11-19,Retailer_C,Tea 500g,Beverages,201.54,INR,0
+T000918,2026-11-20,Retailer_C,Tea 500g,Beverages,201.79,INR,0
+T000562,2026-10-01,Retailer_C,Toor Dal 1kg,Pulses,152.7,INR,0
+T000563,2026-10-02,Retailer_C,Toor Dal 1kg,Pulses,153.57,INR,0
+T000564,2026-10-03,Retailer_C,Toor Dal 1kg,Pulses,155.45,INR,0
+T000565,2026-10-04,Retailer_C,Toor Dal 1kg,Pulses,155.79,INR,0
+T000566,2026-10-05,Retailer_C,Toor Dal 1kg,Pulses,156.3,INR,0
+T000567,2026-10-06,Retailer_C,Toor Dal 1kg,Pulses,157.61,INR,0
+T000568,2026-10-07,Retailer_C,Toor Dal 1kg,Pulses,157.61,INR,0
+T000569,2026-10-08,Retailer_C,Toor Dal 1kg,Pulses,152.97,INR,0
+T000570,2026-10-09,Retailer_C,Toor Dal 1kg,Pulses,150.79,INR,0
+T000571,2026-10-10,Retailer_C,Toor Dal 1kg,Pulses,150.33,INR,0
+T000572,2026-10-11,Retailer_C,Toor Dal 1kg,Pulses,148.55,INR,0
+T000573,2026-10-12,Retailer_C,Toor Dal 1kg,Pulses,152.93,INR,0
+T000574,2026-10-13,Retailer_C,Toor Dal 1kg,Pulses,152.17,INR,0
+T000575,2026-10-14,Retailer_C,Toor Dal 1kg,Pulses,150.07,INR,0
+T000576,2026-10-15,Retailer_C,Toor Dal 1kg,Pulses,149.86,INR,0
+T000577,2026-10-16,Retailer_C,Toor Dal 1kg,Pulses,149.71,INR,0
+T000578,2026-10-17,Retailer_C,Toor Dal 1kg,Pulses,148.34,INR,0
+T000579,2026-10-18,Retailer_C,Toor Dal 1kg,Pulses,148.99,INR,0
+T000580,2026-10-19,Retailer_C,Toor Dal 1kg,Pulses,146.63,INR,0
+T000581,2026-10-20,Retailer_C,Toor Dal 1kg,Pulses,145.22,INR,0
+T000582,2026-10-21,Retailer_C,Toor Dal 1kg,Pulses,145.2,INR,0
+T000583,2026-10-22,Retailer_C,Toor Dal 1kg,Pulses,144.65,INR,0
+T000584,2026-10-23,Retailer_C,Toor Dal 1kg,Pulses,145.71,INR,0
+T000585,2026-10-24,Retailer_C,Toor Dal 1kg,Pulses,148.39,INR,0
+T000586,2026-10-25,Retailer_C,Toor Dal 1kg,Pulses,147.93,INR,0
+T000587,2026-10-26,Retailer_C,Toor Dal 1kg,Pulses,151.36,INR,0
+T000588,2026-10-27,Retailer_C,Toor Dal 1kg,Pulses,149.13,INR,0
+T000589,2026-10-28,Retailer_C,Toor Dal 1kg,Pulses,151.79,INR,0
+T000590,2026-10-29,Retailer_C,Toor Dal 1kg,Pulses,149.38,INR,0
+T000591,2026-10-30,Retailer_C,Toor Dal 1kg,Pulses,150.13,INR,0
+T000592,2026-10-31,Retailer_C,Toor Dal 1kg,Pulses,148.96,INR,0
+T000593,2026-11-01,Retailer_C,Toor Dal 1kg,Pulses,147.69,INR,0
+T000594,2026-11-02,Retailer_C,Toor Dal 1kg,Pulses,151.73,INR,0
+T000595,2026-11-03,Retailer_C,Toor Dal 1kg,Pulses,153.34,INR,0
+T000596,2026-11-04,Retailer_C,Toor Dal 1kg,Pulses,153.0,INR,0
+T000597,2026-11-05,Retailer_C,Toor Dal 1kg,Pulses,148.13,INR,0
+T000598,2026-11-06,Retailer_C,Toor Dal 1kg,Pulses,144.91,INR,0
+T000599,2026-11-07,Retailer_C,Toor Dal 1kg,Pulses,142.83,INR,0
+T000600,2026-11-08,Retailer_C,Toor Dal 1kg,Pulses,142.75,INR,0
+T000601,2026-11-09,Retailer_C,Toor Dal 1kg,Pulses,143.45,INR,0
+T000602,2026-11-10,Retailer_C,Toor Dal 1kg,Pulses,141.9,INR,0
+T000603,2026-11-11,Retailer_C,Toor Dal 1kg,Pulses,143.14,INR,0
+T000604,2026-11-12,Retailer_C,Toor Dal 1kg,Pulses,144.1,INR,0
+T000605,2026-11-13,Retailer_C,Toor Dal 1kg,Pulses,143.15,INR,0
+T000606,2026-11-14,Retailer_C,Toor Dal 1kg,Pulses,141.12,INR,0
+T000607,2026-11-15,Retailer_C,Toor Dal 1kg,Pulses,137.25,INR,0
+T000608,2026-11-16,Retailer_C,Toor Dal 1kg,Pulses,137.79,INR,0
+T000609,2026-11-17,Retailer_C,Toor Dal 1kg,Pulses,137.83,INR,0
+T000610,2026-11-18,Retailer_C,Toor Dal 1kg,Pulses,138.85,INR,0
+T000611,2026-11-19,Retailer_C,Toor Dal 1kg,Pulses,140.98,INR,0
+T000612,2026-11-20,Retailer_C,Toor Dal 1kg,Pulses,143.83,INR,0
+T000715,2026-10-01,Retailer_C,Wheat Flour 5kg,Staples,236.43,INR,0
+T000716,2026-10-02,Retailer_C,Wheat Flour 5kg,Staples,239.16,INR,0
+T000717,2026-10-03,Retailer_C,Wheat Flour 5kg,Staples,236.71,INR,0
+T000718,2026-10-04,Retailer_C,Wheat Flour 5kg,Staples,239.52,INR,0
+T000719,2026-10-05,Retailer_C,Wheat Flour 5kg,Staples,235.82,INR,0
+T000720,2026-10-06,Retailer_C,Wheat Flour 5kg,Staples,231.78,INR,0
+T000721,2026-10-07,Retailer_C,Wheat Flour 5kg,Staples,232.08,INR,0
+T000722,2026-10-08,Retailer_C,Wheat Flour 5kg,Staples,232.04,INR,0
+T000723,2026-10-09,Retailer_C,Wheat Flour 5kg,Staples,231.51,INR,0
+T000724,2026-10-10,Retailer_C,Wheat Flour 5kg,Staples,237.33,INR,0
+T000725,2026-10-11,Retailer_C,Wheat Flour 5kg,Staples,236.22,INR,0
+T000726,2026-10-12,Retailer_C,Wheat Flour 5kg,Staples,237.5,INR,0
+T000727,2026-10-13,Retailer_C,Wheat Flour 5kg,Staples,237.83,INR,0
+T000728,2026-10-14,Retailer_C,Wheat Flour 5kg,Staples,240.05,INR,0
+T000729,2026-10-15,Retailer_C,Wheat Flour 5kg,Staples,242.58,INR,0
+T000730,2026-10-16,Retailer_C,Wheat Flour 5kg,Staples,243.54,INR,0
+T000731,2026-10-17,Retailer_C,Wheat Flour 5kg,Staples,241.74,INR,0
+T000732,2026-10-18,Retailer_C,Wheat Flour 5kg,Staples,239.93,INR,0
+T000733,2026-10-19,Retailer_C,Wheat Flour 5kg,Staples,238.91,INR,0
+T000734,2026-10-20,Retailer_C,Wheat Flour 5kg,Staples,239.84,INR,0
+T000735,2026-10-21,Retailer_C,Wheat Flour 5kg,Staples,241.89,INR,0
+T000736,2026-10-22,Retailer_C,Wheat Flour 5kg,Staples,240.25,INR,0
+T000737,2026-10-23,Retailer_C,Wheat Flour 5kg,Staples,244.07,INR,0
+T000738,2026-10-24,Retailer_C,Wheat Flour 5kg,Staples,243.45,INR,0
+T000739,2026-10-25,Retailer_C,Wheat Flour 5kg,Staples,237.29,INR,0
+T000740,2026-10-26,Retailer_C,Wheat Flour 5kg,Staples,242.98,INR,0
+T000741,2026-10-27,Retailer_C,Wheat Flour 5kg,Staples,243.18,INR,0
+T000742,2026-10-28,Retailer_C,Wheat Flour 5kg,Staples,245.79,INR,0
+T000743,2026-10-29,Retailer_C,Wheat Flour 5kg,Staples,240.83,INR,0
+T000744,2026-10-30,Retailer_C,Wheat Flour 5kg,Staples,238.76,INR,0
+T000745,2026-10-31,Retailer_C,Wheat Flour 5kg,Staples,237.86,INR,0
+T000746,2026-11-01,Retailer_C,Wheat Flour 5kg,Staples,234.24,INR,0
+T000747,2026-11-02,Retailer_C,Wheat Flour 5kg,Staples,233.58,INR,0
+T000748,2026-11-03,Retailer_C,Wheat Flour 5kg,Staples,232.39,INR,0
+T000749,2026-11-04,Retailer_C,Wheat Flour 5kg,Staples,216.44,INR,0
+T000750,2026-11-05,Retailer_C,Wheat Flour 5kg,Staples,218.04,INR,0
+T000751,2026-11-06,Retailer_C,Wheat Flour 5kg,Staples,218.85,INR,0
+T000752,2026-11-07,Retailer_C,Wheat Flour 5kg,Staples,309.44,INR,0
+T000753,2026-11-08,Retailer_C,Wheat Flour 5kg,Staples,305.99,INR,0
+T000754,2026-11-09,Retailer_C,Wheat Flour 5kg,Staples,309.07,INR,0
+T000755,2026-11-10,Retailer_C,Wheat Flour 5kg,Staples,308.68,INR,0
+T000756,2026-11-11,Retailer_C,Wheat Flour 5kg,Staples,307.8,INR,0
+T000757,2026-11-12,Retailer_C,Wheat Flour 5kg,Staples,304.83,INR,0
+T000758,2026-11-13,Retailer_C,Wheat Flour 5kg,Staples,306.28,INR,0
+T000759,2026-11-14,Retailer_C,Wheat Flour 5kg,Staples,303.62,INR,0
+T000760,2026-11-15,Retailer_C,Wheat Flour 5kg,Staples,302.29,INR,0
+T000761,2026-11-16,Retailer_C,Wheat Flour 5kg,Staples,300.01,INR,0
+T000762,2026-11-17,Retailer_C,Wheat Flour 5kg,Staples,302.79,INR,0
+T000763,2026-11-18,Retailer_C,Wheat Flour 5kg,Staples,302.26,INR,0
+T000764,2026-11-19,Retailer_C,Wheat Flour 5kg,Staples,302.77,INR,0
+T000765,2026-11-20,Retailer_C,Wheat Flour 5kg,Staples,298.6,INR,0

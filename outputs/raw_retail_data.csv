@@ -1,0 +1,1859 @@
+transaction_id,date,platform,product,category,price,currency
+T000234,30/10/2026,Retailer_B,Sunflower Oil 1L,Cooking Oil,148.9,INR
+T000451,2026-11-12,Retailer_C,Sugar 1kg,Staples,75.12,INR
+T001203,30/10/2026,Retailer_C,Ghee 500ml,Dairy,279.04,INR
+T001245,21/10/2026,Retailer_A,Chocolates Box,Festive Goods,258.94,INR
+T000412,2026-10-04,Retailer_C,Sugar 1kg,Staples,46.26,INR
+T001340,2026-10-14,Retailer_C,Chocolates Box,Festive Goods,250.52,INR
+T001655,2026-10-23,Retailer_C,Detergent 1kg,Home Care,126.6,INR
+T001226,2026-10-02,Retailer_A,Chocolates Box,Festive Goods,251.7,INR
+T001171,2026-11-18,Retailer_B,Ghee 500ml,Dairy,328.89,INR
+T001170,17/11/2026,Retailer_B,Ghee 500ml,Dairy,330.3,INR
+T001788,03/10/2026,Retailer_C,Biscuits Family Pack,Packaged Food,86.75,INR
+T001256,2026-11-01,Retailer_A,Chocolates Box,Festive Goods,272.39,INR
+T001758,24/10/2026,Retailer_B,Biscuits Family Pack,Packaged Food,92.71,INR
+T001285,2026-10-10,Retailer_B,Chocolates Box,Festive Goods,263.5,INR
+T001008,08/11/2026,Retailer_B,Coffee 200g,Beverages,305.15,INR
+T001693,2026-10-10,Retailer_A,Biscuits Family Pack,Packaged Food,82.61,INR
+T001051,2026-10-31,Retailer_C,Coffee 200g,Beverages,171.62,INR
+T000353,2026-11-16,Retailer_A,Sugar 1kg,Staples,53.22,INR
+T000939,21/10/2026,Retailer_A,Coffee 200g,Beverages,141.8,INR
+T001815,30/10/2026,Retailer_C,Biscuits Family Pack,Packaged Food,83.66,INR
+T000809,2026-11-13,Retailer_A,Tea 500g,Beverages,253.87,INR
+T000814,2026-11-18,Retailer_A,Tea 500g,Beverages,248.8,INR
+T000189,05/11/2026,Retailer_A,Sunflower Oil 1L,Cooking Oil,136.96,INR
+T000842,2026-10-26,Retailer_B,Tea 500g,Beverages,208.83,INR
+T000576,15/10/2026,Retailer_C,Toor Dal 1kg,Pulses,149.86,INR
+T001448,2026-10-20,Retailer_B,Dry Fruits 500g,Festive Goods,391.91,INR
+T000571,2026-10-10,Retailer_C,Toor Dal 1kg,Pulses,150.33,INR
+T000399,11/11/2026,Retailer_B,Sugar 1kg,Staples,45.32,INR
+T001434,06/10/2026,Retailer_B,Dry Fruits 500g,Festive Goods,425.67,INR
+T001562,2026-11-01,Retailer_A,Detergent 1kg,Home Care,140.08,INR
+T001566,05/11/2026,Retailer_A,Detergent 1kg,Home Care,140.79,INR
+T001740,06/10/2026,Retailer_B,Biscuits Family Pack,Packaged Food,84.6,INR
+T000915,17/11/2026,Retailer_C,Tea 500g,Beverages,202.1,INR
+T001109,2026-11-07,Retailer_A,Ghee 500ml,Dairy,287.94,INR
+T001424,2026-11-16,Retailer_A,Dry Fruits 500g,Festive Goods,372.46,INR
+T001007,2026-11-07,Retailer_B,Coffee 200g,Beverages,235.84,INR
+T001783,2026-11-18,Retailer_B,Biscuits Family Pack,Packaged Food,99.38,INR
+T001544,2026-10-14,Retailer_A,Detergent 1kg,Home Care,141.47,INR
+T001103,2026-11-01,Retailer_A,Ghee 500ml,Dairy,284.26,INR
+T000351,14/11/2026,Retailer_A,Sugar 1kg,Staples,65.33,INR
+T000530,2026-10-20,Retailer_B,Toor Dal 1kg,Pulses,179.7,INR
+T000112,2026-10-10,Retailer_C,Rice 5kg,Staples,330.72,INR
+T000383,2026-10-26,Retailer_B,Sugar 1kg,Staples,48.01,INR
+T000507,17/11/2026,Retailer_A,Toor Dal 1kg,Pulses,149.34,INR
+T001825,2026-11-09,Retailer_C,Biscuits Family Pack,Packaged Food,88.3,INR
+T000298,2026-11-12,Retailer_C,Sunflower Oil 1L,Cooking Oil,120.6,INR
+T001791,06/10/2026,Retailer_C,Biscuits Family Pack,Packaged Food,87.5,INR
+T000197,2026-11-13,Retailer_A,Sunflower Oil 1L,Cooking Oil,132.23,INR
+T001833,17/11/2026,Retailer_C,Biscuits Family Pack,Packaged Food,78.46,INR
+T000430,2026-10-22,Retailer_C,Sugar 1kg,Staples,45.75,INR
+T001665,02/11/2026,Retailer_C,Detergent 1kg,Home Care,110.59,INR
+T001346,2026-10-20,Retailer_C,Chocolates Box,Festive Goods,244.82,INR
+T001451,2026-10-23,Retailer_B,Dry Fruits 500g,Festive Goods,386.48,INR
+T000480,21/10/2026,Retailer_A,Toor Dal 1kg,Pulses,155.0,INR
+T001114,2026-11-12,Retailer_A,Ghee 500ml,Dairy,303.75,INR
+T001687,2026-10-04,Retailer_A,Biscuits Family Pack,Packaged Food,84.69,INR
+T001306,2026-10-31,Retailer_B,Chocolates Box,Festive Goods,239.72,INR
+T001721,2026-11-07,Retailer_A,Biscuits Family Pack,Packaged Food,88.9,INR
+T001027,2026-10-07,Retailer_C,Coffee 200g,Beverages,160.94,INR
+T000066,15/10/2026,Retailer_B,Rice 5kg,Staples,320.09,INR
+T001199,2026-10-26,Retailer_C,Ghee 500ml,Dairy,282.24,INR
+T000352,2026-11-15,Retailer_A,Sugar 1kg,Staples,58.53,INR
+T000768,03/10/2026,Retailer_A,Tea 500g,Beverages,214.57,INR
+T000304,2026-11-18,Retailer_C,Sunflower Oil 1L,Cooking Oil,118.48,INR
+T000238,2026-11-03,Retailer_B,Sunflower Oil 1L,Cooking Oil,152.04,INR
+T000174,21/10/2026,Retailer_A,Sunflower Oil 1L,Cooking Oil,145.38,INR
+T000966,17/11/2026,Retailer_A,Coffee 200g,Beverages,269.32,INR
+T000030,30/10/2026,Retailer_A,Rice 5kg,Staples,,INR
+T000932,2026-10-14,Retailer_A,Coffee 200g,Beverages,147.78,INR
+T001433,2026-10-05,Retailer_B,Dry Fruits 500g,Festive Goods,424.51,INR
+T000745,2026-10-31,Retailer_C,Wheat Flour 5kg,Staples,237.86,INR
+T000271,2026-10-16,Retailer_C,Sunflower Oil 1L,Cooking Oil,144.03,INR
+T000585,24/10/2026,Retailer_C,Toor Dal 1kg,Pulses,148.39,INR
+T000670,2026-10-07,Retailer_B,Wheat Flour 5kg,Staples,243.45,INR
+T000947,2026-10-29,Retailer_A,Coffee 200g,Beverages,131.41,INR
+T000110,2026-10-08,Retailer_C,Rice 5kg,Staples,320.67,INR
+T000632,2026-10-20,Retailer_A,Wheat Flour 5kg,Staples,206.33,INR
+T001252,2026-10-28,Retailer_A,Chocolates Box,Festive Goods,271.63,INR
+T001795,2026-10-10,Retailer_C,Biscuits Family Pack,Packaged Food,85.39,INR
+T000484,2026-10-25,Retailer_A,Toor Dal 1kg,Pulses,154.34,INR
+T001125,03/10/2026,Retailer_B,Ghee 500ml,Dairy,320.91,INR
+T000711,17/11/2026,Retailer_B,Wheat Flour 5kg,Staples,443.9,INR
+T001054,2026-11-03,Retailer_C,Coffee 200g,Beverages,169.36,INR
+T001481,2026-10-02,Retailer_C,Dry Fruits 500g,Festive Goods,,INR
+T000421,2026-10-13,Retailer_C,Sugar 1kg,Staples,46.23,INR
+T001492,2026-10-13,Retailer_C,Dry Fruits 500g,Festive Goods,405.28,INR
+T000232,2026-10-28,Retailer_B,Sunflower Oil 1L,Cooking Oil,147.47,INR
+T000618,06/10/2026,Retailer_A,Wheat Flour 5kg,Staples,234.67,INR
+T001356,30/10/2026,Retailer_C,Chocolates Box,Festive Goods,255.46,INR
+T000426,18/10/2026,Retailer_C,Sugar 1kg,Staples,,INR
+T000756,11/11/2026,Retailer_C,Wheat Flour 5kg,Staples,307.8,INR
+T000644,2026-11-01,Retailer_A,Wheat Flour 5kg,Staples,193.96,INR
+T000860,2026-11-13,Retailer_B,Tea 500g,Beverages,211.89,INR
+T000615,03/10/2026,Retailer_A,Wheat Flour 5kg,Staples,236.28,INR
+T000591,30/10/2026,Retailer_C,Toor Dal 1kg,Pulses,150.13,INR
+T000938,2026-10-20,Retailer_A,Coffee 200g,Beverages,142.8,INR
+T000204,20/11/2026,Retailer_A,Sunflower Oil 1L,Cooking Oil,129.18,INR
+T000343,2026-11-06,Retailer_A,Sugar 1kg,Staples,55.28,INR
+T000136,2026-11-03,Retailer_C,Rice 5kg,Staples,325.34,INR
+T000865,2026-11-18,Retailer_B,Tea 500g,Beverages,201.26,INR
+T000252,17/11/2026,Retailer_B,Sunflower Oil 1L,Cooking Oil,136.68,INR
+T001380,03/10/2026,Retailer_A,Dry Fruits 500g,Festive Goods,419.32,INR
+T001691,2026-10-08,Retailer_A,Biscuits Family Pack,Packaged Food,81.99,INR
+T001330,2026-10-04,Retailer_C,Chocolates Box,Festive Goods,243.74,INR
+T001001,2026-11-01,Retailer_B,Coffee 200g,Beverages,155.89,INR
+T001311,05/11/2026,Retailer_B,Chocolates Box,Festive Goods,207.69,INR
+T000927,09/10/2026,Retailer_A,Coffee 200g,Beverages,160.87,INR
+T001459,2026-10-31,Retailer_B,Dry Fruits 500g,Festive Goods,438.49,INR
+T000586,2026-10-25,Retailer_C,Toor Dal 1kg,Pulses,147.93,INR
+T001621,2026-11-09,Retailer_B,Detergent 1kg,Home Care,144.65,INR
+T000943,2026-10-25,Retailer_A,Coffee 200g,Beverages,136.61,INR
+T000705,11/11/2026,Retailer_B,Wheat Flour 5kg,Staples,446.86,INR
+T000597,05/11/2026,Retailer_C,Toor Dal 1kg,Pulses,148.13,INR
+T001341,15/10/2026,Retailer_C,Chocolates Box,Festive Goods,249.34,INR
+T000652,2026-11-09,Retailer_A,Wheat Flour 5kg,Staples,245.11,INR
+T001596,15/10/2026,Retailer_B,Detergent 1kg,Home Care,136.38,INR
+T000533,2026-10-23,Retailer_B,Toor Dal 1kg,Pulses,178.62,INR
+T001649,2026-10-17,Retailer_C,Detergent 1kg,Home Care,132.5,INR
+T001362,05/11/2026,Retailer_C,Chocolates Box,Festive Goods,255.51,INR
+T001716,02/11/2026,Retailer_A,Biscuits Family Pack,Packaged Food,88.27,INR
+T001323,17/11/2026,Retailer_B,Chocolates Box,Festive Goods,215.15,INR
+T001390,2026-10-13,Retailer_A,Dry Fruits 500g,Festive Goods,395.85,INR
+T000466,2026-10-07,Retailer_A,Toor Dal 1kg,Pulses,156.69,INR
+T000907,2026-11-09,Retailer_C,Tea 500g,Beverages,201.48,INR
+T000781,2026-10-16,Retailer_A,Tea 500g,Beverages,183.99,INR
+T000307,2026-10-01,Retailer_A,Sugar 1kg,Staples,47.26,INR
+T000071,2026-10-20,Retailer_B,Rice 5kg,Staples,330.05,INR
+T000465,06/10/2026,Retailer_A,Toor Dal 1kg,Pulses,160.0,INR
+T001550,2026-10-20,Retailer_A,Detergent 1kg,Home Care,143.59,INR
+T000693,30/10/2026,Retailer_B,Wheat Flour 5kg,Staples,249.5,INR
+T000317,2026-10-11,Retailer_A,Sugar 1kg,Staples,43.28,INR
+T000610,2026-11-18,Retailer_C,Toor Dal 1kg,Pulses,138.85,INR
+T001236,12/10/2026,Retailer_A,Chocolates Box,Festive Goods,255.17,INR
+T001221,17/11/2026,Retailer_C,Ghee 500ml,Dairy,238.85,INR
+T001544,2026-10-14,Retailer_A,Detergent 1kg,Home Care,141.47,INR
+T000820,2026-10-04,Retailer_B,Tea 500g,Beverages,219.01,INR
+T000213,09/10/2026,Retailer_B,Sunflower Oil 1L,Cooking Oil,147.48,INR
+T001646,2026-10-14,Retailer_C,Detergent 1kg,Home Care,129.35,INR
+T000840,24/10/2026,Retailer_B,Tea 500g,Beverages,215.86,INR
+T001337,2026-10-11,Retailer_C,Chocolates Box,Festive Goods,251.08,INR
+T000024,24/10/2026,Retailer_A,Rice 5kg,Staples,334.35,INR
+T001801,2026-10-16,Retailer_C,Biscuits Family Pack,Packaged Food,86.21,INR
+T000064,2026-10-13,Retailer_B,Rice 5kg,Staples,336.15,INR
+T000367,2026-10-10,Retailer_B,Sugar 1kg,Staples,48.79,INR
+T001030,2026-10-10,Retailer_C,Coffee 200g,Beverages,162.65,INR
+T001614,02/11/2026,Retailer_B,Detergent 1kg,Home Care,151.55,INR
+T001117,2026-11-15,Retailer_A,Ghee 500ml,Dairy,272.34,INR
+T001697,2026-10-14,Retailer_A,Biscuits Family Pack,Packaged Food,83.57,INR
+T000299,2026-11-13,Retailer_C,Sunflower Oil 1L,Cooking Oil,118.03,INR
+T000887,2026-10-20,Retailer_C,Tea 500g,Beverages,179.2,INR
+T001788,03/10/2026,Retailer_C,Biscuits Family Pack,Packaged Food,86.75,INR
+T001450,2026-10-22,Retailer_B,Dry Fruits 500g,Festive Goods,387.06,INR
+T000345,08/11/2026,Retailer_A,Sugar 1kg,Staples,66.83,INR
+T001799,2026-10-14,Retailer_C,Biscuits Family Pack,Packaged Food,86.1,INR
+T001532,2026-10-02,Retailer_A,Detergent 1kg,Home Care,139.26,INR
+T001240,2026-10-16,Retailer_A,Chocolates Box,Festive Goods,259.28,INR
+T001682,2026-11-19,Retailer_C,Detergent 1kg,Home Care,101.93,INR
+T001773,08/11/2026,Retailer_B,Biscuits Family Pack,Packaged Food,100.02,INR
+T000496,2026-11-06,Retailer_A,Toor Dal 1kg,Pulses,149.4,INR
+T001194,21/10/2026,Retailer_C,Ghee 500ml,Dairy,291.56,INR
+T000527,2026-10-17,Retailer_B,Toor Dal 1kg,Pulses,170.44,INR
+T000988,2026-10-19,Retailer_B,Coffee 200g,Beverages,154.41,INR
+T000116,2026-10-14,Retailer_C,Rice 5kg,Staples,319.98,INR
+T000545,2026-11-04,Retailer_B,Toor Dal 1kg,Pulses,185.53,INR
+T000918,20/11/2026,Retailer_C,Tea 500g,Beverages,201.79,INR
+T000868,2026-10-01,Retailer_C,Tea 500g,Beverages,213.2,INR
+T001619,2026-11-07,Retailer_B,Detergent 1kg,Home Care,144.81,INR
+T001635,03/10/2026,Retailer_C,Detergent 1kg,Home Care,132.73,INR
+T001768,2026-11-03,Retailer_B,Biscuits Family Pack,Packaged Food,98.56,INR
+T000583,2026-10-22,Retailer_C,Toor Dal 1kg,Pulses,144.65,INR
+T000600,08/11/2026,Retailer_C,Toor Dal 1kg,Pulses,142.75,INR
+T000395,2026-11-07,Retailer_B,Sugar 1kg,Staples,45.46,INR
+T000629,2026-10-17,Retailer_A,Wheat Flour 5kg,Staples,223.13,INR
+T001088,2026-10-17,Retailer_A,Ghee 500ml,Dairy,304.33,INR
+T000428,2026-10-20,Retailer_C,Sugar 1kg,Staples,46.28,INR
+T000248,2026-11-13,Retailer_B,Sunflower Oil 1L,Cooking Oil,151.54,INR
+T001690,2026-10-07,Retailer_A,Biscuits Family Pack,Packaged Food,83.9,INR
+T000519,09/10/2026,Retailer_B,Toor Dal 1kg,Pulses,169.23,INR
+T000723,09/10/2026,Retailer_C,Wheat Flour 5kg,Staples,231.51,INR
+T000033,02/11/2026,Retailer_A,Rice 5kg,Staples,330.4,INR
+T001316,2026-11-10,Retailer_B,Chocolates Box,Festive Goods,213.19,INR
+T000899,2026-11-01,Retailer_C,Tea 500g,Beverages,186.8,INR
+T001106,2026-11-04,Retailer_A,Ghee 500ml,Dairy,278.48,INR
+T000125,2026-10-23,Retailer_C,Rice 5kg,Staples,319.09,INR
+T000910,2026-11-12,Retailer_C,Tea 500g,Beverages,206.0,INR
+T000164,2026-10-11,Retailer_A,Sunflower Oil 1L,Cooking Oil,145.03,INR
+T000487,2026-10-28,Retailer_A,Toor Dal 1kg,Pulses,158.74,INR
+T000731,2026-10-17,Retailer_C,Wheat Flour 5kg,Staples,241.74,INR
+T000440,2026-11-01,Retailer_C,Sugar 1kg,Staples,43.16,INR
+T000050,2026-11-19,Retailer_A,Rice 5kg,Staples,361.64,INR
+T000619,2026-10-07,Retailer_A,Wheat Flour 5kg,Staples,236.85,INR
+T001297,2026-10-22,Retailer_B,Chocolates Box,Festive Goods,243.93,INR
+T000355,2026-11-18,Retailer_A,Sugar 1kg,Staples,52.87,INR
+T000747,02/11/2026,Retailer_C,Wheat Flour 5kg,Staples,233.58,INR
+T001297,2026-10-22,Retailer_B,Chocolates Box,Festive Goods,243.93,INR
+T001634,2026-10-02,Retailer_C,Detergent 1kg,Home Care,133.73,INR
+T001443,15/10/2026,Retailer_B,Dry Fruits 500g,Festive Goods,423.57,INR
+T001041,21/10/2026,Retailer_C,Coffee 200g,Beverages,171.6,INR
+T000415,2026-10-07,Retailer_C,Sugar 1kg,Staples,45.28,INR
+T000219,15/10/2026,Retailer_B,Sunflower Oil 1L,Cooking Oil,142.52,INR
+T000694,2026-10-31,Retailer_B,Wheat Flour 5kg,Staples,256.18,INR
+T001519,2026-11-09,Retailer_C,Dry Fruits 500g,Festive Goods,493.94,INR
+T001332,06/10/2026,Retailer_C,Chocolates Box,Festive Goods,248.71,INR
+T001602,21/10/2026,Retailer_B,Detergent 1kg,Home Care,140.85,INR
+T001824,08/11/2026,Retailer_C,Biscuits Family Pack,Packaged Food,87.56,INR
+T000555,14/11/2026,Retailer_B,Toor Dal 1kg,Pulses,170.05,INR
+T000079,2026-10-28,Retailer_B,Rice 5kg,Staples,320.01,INR
+T000060,09/10/2026,Retailer_B,Rice 5kg,Staples,331.15,INR
+T001166,2026-11-13,Retailer_B,Ghee 500ml,Dairy,333.55,INR
+T000332,2026-10-26,Retailer_A,Sugar 1kg,Staples,40.66,INR
+T000074,2026-10-23,Retailer_B,Rice 5kg,Staples,326.01,INR
+T001524,14/11/2026,Retailer_C,Dry Fruits 500g,Festive Goods,495.07,INR
+T000240,05/11/2026,Retailer_B,Sunflower Oil 1L,Cooking Oil,152.46,INR
+T000211,2026-10-07,Retailer_B,Sunflower Oil 1L,Cooking Oil,147.64,INR
+T000070,2026-10-19,Retailer_B,Rice 5kg,Staples,331.7,INR
+T000163,2026-10-10,Retailer_A,Sunflower Oil 1L,Cooking Oil,143.93,INR
+T001719,05/11/2026,Retailer_A,Biscuits Family Pack,Packaged Food,88.95,INR
+T000967,2026-11-18,Retailer_A,Coffee 200g,Beverages,264.92,INR
+T001539,09/10/2026,Retailer_A,Detergent 1kg,Home Care,142.19,INR
+T000255,20/11/2026,Retailer_B,Sunflower Oil 1L,Cooking Oil,137.26,INR
+T001505,2026-10-26,Retailer_C,Dry Fruits 500g,Festive Goods,366.86,INR
+T000481,2026-10-22,Retailer_A,Toor Dal 1kg,Pulses,155.86,INR
+T001813,2026-10-28,Retailer_C,Biscuits Family Pack,Packaged Food,83.27,INR
+T000922,2026-10-04,Retailer_A,Coffee 200g,Beverages,165.44,INR
+T001761,27/10/2026,Retailer_B,Biscuits Family Pack,Packaged Food,98.01,INR
+T001019,2026-11-19,Retailer_B,Coffee 200g,Beverages,,INR
+T001227,03/10/2026,Retailer_A,Chocolates Box,Festive Goods,251.05,INR
+T000276,21/10/2026,Retailer_C,Sunflower Oil 1L,Cooking Oil,143.79,INR
+T001449,21/10/2026,Retailer_B,Dry Fruits 500g,Festive Goods,393.41,INR
+T000368,2026-10-11,Retailer_B,Sugar 1kg,Staples,45.23,INR
+T001101,30/10/2026,Retailer_A,Ghee 500ml,Dairy,280.72,INR
+T000221,2026-10-17,Retailer_B,Sunflower Oil 1L,Cooking Oil,142.82,INR
+T000077,2026-10-26,Retailer_B,Rice 5kg,Staples,325.71,INR
+T001777,2026-11-12,Retailer_B,Biscuits Family Pack,Packaged Food,100.48,INR
+T001556,2026-10-26,Retailer_A,Detergent 1kg,Home Care,136.66,INR
+T000100,2026-11-18,Retailer_B,Rice 5kg,Staples,341.64,INR
+T000416,2026-10-08,Retailer_C,Sugar 1kg,Staples,45.48,INR
+T000409,2026-10-01,Retailer_C,Sugar 1kg,Staples,47.5,INR
+T001217,2026-11-13,Retailer_C,Ghee 500ml,Dairy,248.42,INR
+T000773,2026-10-08,Retailer_A,Tea 500g,Beverages,192.6,INR
+T001314,08/11/2026,Retailer_B,Chocolates Box,Festive Goods,208.92,INR
+T001002,02/11/2026,Retailer_B,Coffee 200g,Beverages,153.18,INR
+T000306,20/11/2026,Retailer_C,Sunflower Oil 1L,Cooking Oil,119.45,INR
+T001660,2026-10-28,Retailer_C,Detergent 1kg,Home Care,122.1,INR
+T000366,09/10/2026,Retailer_B,Sugar 1kg,Staples,48.1,INR
+T000721,2026-10-07,Retailer_C,Wheat Flour 5kg,Staples,232.08,INR
+T000031,2026-10-31,Retailer_A,Rice 5kg,Staples,329.41,INR
+T001363,2026-11-06,Retailer_C,Chocolates Box,Festive Goods,342.53,INR
+T001010,2026-11-10,Retailer_B,Coffee 200g,Beverages,275.32,INR
+T001177,2026-10-04,Retailer_C,Ghee 500ml,Dairy,294.2,INR
+T000681,18/10/2026,Retailer_B,Wheat Flour 5kg,Staples,245.99,INR
+T001331,2026-10-05,Retailer_C,Chocolates Box,Festive Goods,248.79,INR
+T000706,2026-11-12,Retailer_B,Wheat Flour 5kg,Staples,443.3,INR
+T000423,15/10/2026,Retailer_C,Sugar 1kg,Staples,46.84,INR
+T001780,2026-11-15,Retailer_B,Biscuits Family Pack,Packaged Food,102.45,INR
+T001473,14/11/2026,Retailer_B,Dry Fruits 500g,Festive Goods,537.81,INR
+T001445,2026-10-17,Retailer_B,Dry Fruits 500g,Festive Goods,430.88,INR
+T001462,2026-11-03,Retailer_B,Dry Fruits 500g,Festive Goods,444.82,INR
+T000944,2026-10-26,Retailer_A,Coffee 200g,Beverages,136.56,INR
+T001468,2026-11-09,Retailer_B,Dry Fruits 500g,Festive Goods,539.64,INR
+T000045,14/11/2026,Retailer_A,Rice 5kg,Staples,376.6,INR
+T000169,2026-10-16,Retailer_A,Sunflower Oil 1L,Cooking Oil,143.27,INR
+T001727,2026-11-13,Retailer_A,Biscuits Family Pack,Packaged Food,85.79,INR
+T000924,06/10/2026,Retailer_A,Coffee 200g,Beverages,160.04,INR
+T001785,20/11/2026,Retailer_B,Biscuits Family Pack,Packaged Food,99.75,INR
+T001000,2026-10-31,Retailer_B,Coffee 200g,Beverages,157.03,INR
+T000584,2026-10-23,Retailer_C,Toor Dal 1kg,Pulses,145.71,INR
+T000308,2026-10-02,Retailer_A,Sugar 1kg,Staples,47.4,INR
+T000323,2026-10-17,Retailer_A,Sugar 1kg,Staples,43.32,INR
+T000556,2026-11-15,Retailer_B,Toor Dal 1kg,Pulses,168.65,INR
+T001381,2026-10-04,Retailer_A,Dry Fruits 500g,Festive Goods,420.48,INR
+T001138,2026-10-16,Retailer_B,Ghee 500ml,Dairy,335.61,INR
+T000987,18/10/2026,Retailer_B,Coffee 200g,Beverages,155.15,INR
+T000186,02/11/2026,Retailer_A,Sunflower Oil 1L,Cooking Oil,157.02,INR
+T000866,2026-11-19,Retailer_B,Tea 500g,Beverages,198.13,INR
+T001243,2026-10-19,Retailer_A,Chocolates Box,Festive Goods,266.81,INR
+T000290,2026-11-04,Retailer_C,Sunflower Oil 1L,Cooking Oil,119.73,INR
+T000722,2026-10-08,Retailer_C,Wheat Flour 5kg,Staples,232.04,INR
+T001536,06/10/2026,Retailer_A,Detergent 1kg,Home Care,143.86,INR
+T001259,2026-11-04,Retailer_A,Chocolates Box,Festive Goods,281.24,INR
+T001266,11/11/2026,Retailer_A,Chocolates Box,Festive Goods,284.66,INR
+T001075,2026-10-04,Retailer_A,Ghee 500ml,Dairy,318.72,INR
+T001353,27/10/2026,Retailer_C,Chocolates Box,Festive Goods,262.12,INR
+T000384,27/10/2026,Retailer_B,Sugar 1kg,Staples,47.38,INR
+T001502,2026-10-23,Retailer_C,Dry Fruits 500g,Festive Goods,365.92,INR
+T000124,2026-10-22,Retailer_C,Rice 5kg,Staples,320.51,INR
+T000940,2026-10-22,Retailer_A,Coffee 200g,Beverages,143.27,INR
+T001605,24/10/2026,Retailer_B,Detergent 1kg,Home Care,143.32,INR
+T000463,2026-10-04,Retailer_A,Toor Dal 1kg,Pulses,158.63,INR
+T001770,05/11/2026,Retailer_B,Biscuits Family Pack,Packaged Food,97.51,INR
+T001793,2026-10-08,Retailer_C,Biscuits Family Pack,Packaged Food,84.71,INR
+T000577,2026-10-16,Retailer_C,Toor Dal 1kg,Pulses,149.71,INR
+T001119,17/11/2026,Retailer_A,Ghee 500ml,Dairy,269.32,INR
+T000195,11/11/2026,Retailer_A,Sunflower Oil 1L,Cooking Oil,132.08,INR
+T001729,2026-11-15,Retailer_A,Biscuits Family Pack,Packaged Food,85.31,INR
+T000375,18/10/2026,Retailer_B,Sugar 1kg,Staples,46.26,INR
+T001685,2026-10-02,Retailer_A,Biscuits Family Pack,Packaged Food,84.87,INR
+T001419,11/11/2026,Retailer_A,Dry Fruits 500g,Festive Goods,358.47,INR
+T000267,12/10/2026,Retailer_C,Sunflower Oil 1L,Cooking Oil,143.76,INR
+T001542,12/10/2026,Retailer_A,Detergent 1kg,Home Care,138.07,INR
+T000068,2026-10-17,Retailer_B,Rice 5kg,Staples,334.61,INR
+T001648,2026-10-16,Retailer_C,Detergent 1kg,Home Care,132.62,INR
+T000926,2026-10-08,Retailer_A,Coffee 200g,Beverages,158.83,INR
+T001215,11/11/2026,Retailer_C,Ghee 500ml,Dairy,250.43,INR
+T000536,2026-10-26,Retailer_B,Toor Dal 1kg,Pulses,174.75,INR
+T001310,2026-11-04,Retailer_B,Chocolates Box,Festive Goods,212.56,INR
+T000362,2026-10-05,Retailer_B,Sugar 1kg,Staples,48.98,INR
+T000454,2026-11-15,Retailer_C,Sugar 1kg,Staples,74.93,INR
+T001714,2026-10-31,Retailer_A,Biscuits Family Pack,Packaged Food,88.73,INR
+T000535,2026-10-25,Retailer_B,Toor Dal 1kg,Pulses,174.73,INR
+T000695,2026-11-01,Retailer_B,Wheat Flour 5kg,Staples,260.06,INR
+T001458,30/10/2026,Retailer_B,Dry Fruits 500g,Festive Goods,426.26,INR
+T000325,2026-10-19,Retailer_A,Sugar 1kg,Staples,44.37,INR
+T001609,2026-10-28,Retailer_B,Detergent 1kg,Home Care,148.75,INR
+T001474,2026-11-15,Retailer_B,Dry Fruits 500g,Festive Goods,529.04,INR
+T001548,18/10/2026,Retailer_A,Detergent 1kg,Home Care,143.64,INR
+T001612,2026-10-31,Retailer_B,Detergent 1kg,Home Care,150.13,INR
+T000417,09/10/2026,Retailer_C,Sugar 1kg,Staples,45.94,INR
+T000911,2026-11-13,Retailer_C,Tea 500g,Beverages,206.58,INR
+T001643,2026-10-11,Retailer_C,Detergent 1kg,Home Care,129.91,INR
+T000811,2026-11-15,Retailer_A,Tea 500g,Beverages,248.89,INR
+T001324,2026-11-18,Retailer_B,Chocolates Box,Festive Goods,217.83,INR
+T000262,2026-10-07,Retailer_C,Sunflower Oil 1L,Cooking Oil,142.48,INR
+T000846,30/10/2026,Retailer_B,Tea 500g,Beverages,212.64,INR
+T000241,2026-11-06,Retailer_B,Sunflower Oil 1L,Cooking Oil,152.63,INR
+T000716,2026-10-02,Retailer_C,Wheat Flour 5kg,Staples,239.16,INR
+T001588,2026-10-07,Retailer_B,Detergent 1kg,Home Care,141.13,INR
+T000439,2026-10-31,Retailer_C,Sugar 1kg,Staples,43.14,INR
+T001402,2026-10-25,Retailer_A,Dry Fruits 500g,Festive Goods,360.41,INR
+T000893,2026-10-26,Retailer_C,Tea 500g,Beverages,188.67,INR
+T000515,2026-10-05,Retailer_B,Toor Dal 1kg,Pulses,161.15,INR
+T001800,15/10/2026,Retailer_C,Biscuits Family Pack,Packaged Food,86.68,INR
+T000994,2026-10-25,Retailer_B,Coffee 200g,Beverages,156.1,INR
+T000072,21/10/2026,Retailer_B,Rice 5kg,Staples,329.49,INR
+T000757,2026-11-12,Retailer_C,Wheat Flour 5kg,Staples,304.83,INR
+T000260,2026-10-05,Retailer_C,Sunflower Oil 1L,Cooking Oil,144.35,INR
+T000052,2026-10-01,Retailer_B,Rice 5kg,Staples,,INR
+T000433,2026-10-25,Retailer_C,Sugar 1kg,Staples,44.54,INR
+T001673,2026-11-10,Retailer_C,Detergent 1kg,Home Care,111.61,INR
+T001408,2026-10-31,Retailer_A,Dry Fruits 500g,Festive Goods,360.16,INR
+T000333,27/10/2026,Retailer_A,Sugar 1kg,Staples,40.9,INR
+T001360,2026-11-03,Retailer_C,Chocolates Box,Festive Goods,257.44,INR
+T000520,2026-10-10,Retailer_B,Toor Dal 1kg,Pulses,170.13,INR
+T000963,14/11/2026,Retailer_A,Coffee 200g,Beverages,273.6,INR
+T000833,2026-10-17,Retailer_B,Tea 500g,Beverages,218.06,INR
+T001354,2026-10-28,Retailer_C,Chocolates Box,Festive Goods,260.66,INR
+T001235,2026-10-11,Retailer_A,Chocolates Box,Festive Goods,260.24,INR
+T000483,24/10/2026,Retailer_A,Toor Dal 1kg,Pulses,156.99,INR
+T001554,24/10/2026,Retailer_A,Detergent 1kg,Home Care,139.02,INR
+T001118,2026-11-16,Retailer_A,Ghee 500ml,Dairy,270.92,INR
+T000856,2026-11-09,Retailer_B,Tea 500g,Beverages,210.45,INR
+T001835,2026-11-19,Retailer_C,Biscuits Family Pack,Packaged Food,78.02,INR
+T001583,2026-10-02,Retailer_B,Detergent 1kg,Home Care,138.61,INR
+T001572,11/11/2026,Retailer_A,Detergent 1kg,Home Care,144.02,INR
+T000193,2026-11-09,Retailer_A,Sunflower Oil 1L,Cooking Oil,131.73,INR
+T000675,12/10/2026,Retailer_B,Wheat Flour 5kg,Staples,248.92,INR
+T001281,06/10/2026,Retailer_B,Chocolates Box,Festive Goods,259.01,INR
+T000544,2026-11-03,Retailer_B,Toor Dal 1kg,Pulses,183.68,INR
+T000707,2026-11-13,Retailer_B,Wheat Flour 5kg,Staples,435.9,INR
+T001626,14/11/2026,Retailer_B,Detergent 1kg,Home Care,139.26,INR
+T000142,2026-11-09,Retailer_C,Rice 5kg,Staples,631.49,INR
+T001158,05/11/2026,Retailer_B,Ghee 500ml,Dairy,332.55,INR
+T001700,2026-10-17,Retailer_A,Biscuits Family Pack,Packaged Food,86.9,INR
+T001736,2026-10-02,Retailer_B,Biscuits Family Pack,Packaged Food,85.08,INR
+T000340,2026-11-03,Retailer_A,Sugar 1kg,Staples,40.05,INR
+T001319,2026-11-13,Retailer_B,Chocolates Box,Festive Goods,215.54,INR
+T000472,2026-10-13,Retailer_A,Toor Dal 1kg,Pulses,156.44,INR
+T000778,2026-10-13,Retailer_A,Tea 500g,Beverages,182.83,INR
+T000414,06/10/2026,Retailer_C,Sugar 1kg,Staples,45.33,INR
+T000272,2026-10-17,Retailer_C,Sunflower Oil 1L,Cooking Oil,143.72,INR
+T000185,2026-11-01,Retailer_A,Sunflower Oil 1L,Cooking Oil,152.75,INR
+T000821,2026-10-05,Retailer_B,Tea 500g,Beverages,218.27,INR
+T000245,2026-11-10,Retailer_B,Sunflower Oil 1L,Cooking Oil,150.66,INR
+T001190,2026-10-17,Retailer_C,Ghee 500ml,Dairy,299.72,INR
+T001074,03/10/2026,Retailer_A,Ghee 500ml,Dairy,318.67,INR
+T001081,2026-10-10,Retailer_A,Ghee 500ml,Dairy,309.84,INR
+T001230,06/10/2026,Retailer_A,Chocolates Box,Festive Goods,255.88,INR
+T001186,2026-10-13,Retailer_C,Ghee 500ml,Dairy,294.54,INR
+T000599,2026-11-07,Retailer_C,Toor Dal 1kg,Pulses,142.83,INR
+T000965,2026-11-16,Retailer_A,Coffee 200g,Beverages,271.82,INR
+T001330,2026-10-04,Retailer_C,Chocolates Box,Festive Goods,243.74,INR
+T001382,2026-10-05,Retailer_A,Dry Fruits 500g,Festive Goods,420.86,INR
+T001352,2026-10-26,Retailer_C,Chocolates Box,Festive Goods,254.09,INR
+T000251,2026-11-16,Retailer_B,Sunflower Oil 1L,Cooking Oil,139.19,INR
+T000539,2026-10-29,Retailer_B,Toor Dal 1kg,Pulses,178.76,INR
+T001669,2026-11-06,Retailer_C,Detergent 1kg,Home Care,107.16,INR
+T000568,2026-10-07,Retailer_C,Toor Dal 1kg,Pulses,157.61,INR
+T000818,2026-10-02,Retailer_B,Tea 500g,Beverages,222.37,INR
+T000382,2026-10-25,Retailer_B,Sugar 1kg,Staples,48.0,INR
+T001248,24/10/2026,Retailer_A,Chocolates Box,Festive Goods,266.38,INR
+T000434,2026-10-26,Retailer_C,Sugar 1kg,Staples,45.05,INR
+T001294,2026-10-19,Retailer_B,Chocolates Box,Festive Goods,269.55,INR
+T000671,2026-10-08,Retailer_B,Wheat Flour 5kg,Staples,244.55,INR
+T000611,2026-11-19,Retailer_C,Toor Dal 1kg,Pulses,140.98,INR
+T000549,08/11/2026,Retailer_B,Toor Dal 1kg,Pulses,183.77,INR
+T000819,03/10/2026,Retailer_B,Tea 500g,Beverages,218.06,INR
+T000742,2026-10-28,Retailer_C,Wheat Flour 5kg,Staples,245.79,INR
+T001321,2026-11-15,Retailer_B,Chocolates Box,Festive Goods,215.22,INR
+T001453,2026-10-25,Retailer_B,Dry Fruits 500g,Festive Goods,404.51,INR
+T000183,30/10/2026,Retailer_A,Sunflower Oil 1L,Cooking Oil,148.85,INR
+T000171,18/10/2026,Retailer_A,Sunflower Oil 1L,Cooking Oil,140.42,INR
+T000293,2026-11-07,Retailer_C,Sunflower Oil 1L,Cooking Oil,119.8,INR
+T000528,18/10/2026,Retailer_B,Toor Dal 1kg,Pulses,170.9,INR
+T000603,11/11/2026,Retailer_C,Toor Dal 1kg,Pulses,143.14,INR
+T000301,2026-11-15,Retailer_C,Sunflower Oil 1L,Cooking Oil,116.33,INR
+T001742,2026-10-08,Retailer_B,Biscuits Family Pack,Packaged Food,,INR
+T000949,2026-10-31,Retailer_A,Coffee 200g,Beverages,129.63,INR
+T001262,2026-11-07,Retailer_A,Chocolates Box,Festive Goods,286.53,INR
+T000746,2026-11-01,Retailer_C,Wheat Flour 5kg,Staples,234.24,INR
+T001792,2026-10-07,Retailer_C,Biscuits Family Pack,Packaged Food,85.84,INR
+T001620,08/11/2026,Retailer_B,Detergent 1kg,Home Care,145.83,INR
+T001343,2026-10-17,Retailer_C,Chocolates Box,Festive Goods,246.09,INR
+T001315,2026-11-09,Retailer_B,Chocolates Box,Festive Goods,211.07,INR
+T000372,15/10/2026,Retailer_B,Sugar 1kg,Staples,45.45,INR
+T000888,21/10/2026,Retailer_C,Tea 500g,Beverages,181.21,INR
+T000941,2026-10-23,Retailer_A,Coffee 200g,Beverages,140.31,INR
+T001346,2026-10-20,Retailer_C,Chocolates Box,Festive Goods,244.82,INR
+T000916,2026-11-18,Retailer_C,Tea 500g,Beverages,,INR
+T001787,2026-10-02,Retailer_C,Biscuits Family Pack,Packaged Food,84.8,INR
+T000176,2026-10-23,Retailer_A,Sunflower Oil 1L,Cooking Oil,147.21,INR
+T001279,2026-10-04,Retailer_B,Chocolates Box,Festive Goods,261.29,INR
+T000908,2026-11-10,Retailer_C,Tea 500g,Beverages,203.96,INR
+T001487,2026-10-08,Retailer_C,Dry Fruits 500g,Festive Goods,412.98,INR
+T000679,2026-10-16,Retailer_B,Wheat Flour 5kg,Staples,246.2,INR
+T000335,2026-10-29,Retailer_A,Sugar 1kg,Staples,39.77,INR
+T000807,11/11/2026,Retailer_A,Tea 500g,Beverages,259.94,INR
+T000612,20/11/2026,Retailer_C,Toor Dal 1kg,Pulses,143.83,INR
+T001183,2026-10-10,Retailer_C,Ghee 500ml,Dairy,303.72,INR
+T000950,2026-11-01,Retailer_A,Coffee 200g,Beverages,128.27,INR
+T001275,20/11/2026,Retailer_A,Chocolates Box,Festive Goods,271.18,INR
+T001683,20/11/2026,Retailer_C,Detergent 1kg,Home Care,102.79,INR
+T001034,2026-10-14,Retailer_C,Coffee 200g,Beverages,168.69,INR
+T000199,2026-11-15,Retailer_A,Sunflower Oil 1L,Cooking Oil,132.78,INR
+T000016,2026-10-16,Retailer_A,Rice 5kg,Staples,341.79,INR
+T000266,2026-10-11,Retailer_C,Sunflower Oil 1L,Cooking Oil,142.98,INR
+T000835,2026-10-19,Retailer_B,Tea 500g,Beverages,223.74,INR
+T000737,2026-10-23,Retailer_C,Wheat Flour 5kg,Staples,244.07,INR
+T000870,03/10/2026,Retailer_C,Tea 500g,Beverages,212.37,INR
+T000495,05/11/2026,Retailer_A,Toor Dal 1kg,Pulses,146.86,INR
+T000799,2026-11-03,Retailer_A,Tea 500g,Beverages,192.88,INR
+T001499,2026-10-20,Retailer_C,Dry Fruits 500g,Festive Goods,369.06,INR
+T000782,2026-10-17,Retailer_A,Tea 500g,Beverages,187.47,INR
+T000531,21/10/2026,Retailer_B,Toor Dal 1kg,Pulses,179.37,INR
+T000793,2026-10-28,Retailer_A,Tea 500g,Beverages,,INR
+T000479,2026-10-20,Retailer_A,Toor Dal 1kg,Pulses,157.68,INR
+T000200,2026-11-16,Retailer_A,Sunflower Oil 1L,Cooking Oil,134.09,INR
+T001392,15/10/2026,Retailer_A,Dry Fruits 500g,Festive Goods,387.29,INR
+T001126,2026-10-04,Retailer_B,Ghee 500ml,Dairy,319.87,INR
+T000862,2026-11-15,Retailer_B,Tea 500g,Beverages,207.64,INR
+T001056,05/11/2026,Retailer_C,Coffee 200g,Beverages,164.73,INR
+T000969,20/11/2026,Retailer_A,Coffee 200g,Beverages,247.74,INR
+T001661,2026-10-29,Retailer_C,Detergent 1kg,Home Care,121.56,INR
+T001600,2026-10-19,Retailer_B,Detergent 1kg,Home Care,140.8,INR
+T000744,30/10/2026,Retailer_C,Wheat Flour 5kg,Staples,238.76,INR
+T001574,2026-11-13,Retailer_A,Detergent 1kg,Home Care,141.39,INR
+T000678,15/10/2026,Retailer_B,Wheat Flour 5kg,Staples,254.97,INR
+T000589,2026-10-28,Retailer_C,Toor Dal 1kg,Pulses,151.79,INR
+T000989,2026-10-20,Retailer_B,Coffee 200g,Beverages,155.78,INR
+T000311,2026-10-05,Retailer_A,Sugar 1kg,Staples,43.68,INR
+T000057,06/10/2026,Retailer_B,Rice 5kg,Staples,328.08,INR
+T001537,2026-10-07,Retailer_A,Detergent 1kg,Home Care,141.34,INR
+T000486,27/10/2026,Retailer_A,Toor Dal 1kg,Pulses,155.39,INR
+T001202,2026-10-29,Retailer_C,Ghee 500ml,Dairy,280.59,INR
+T000786,21/10/2026,Retailer_A,Tea 500g,Beverages,190.64,INR
+T000608,2026-11-16,Retailer_C,Toor Dal 1kg,Pulses,137.79,INR
+T000044,2026-11-13,Retailer_A,Rice 5kg,Staples,378.52,INR
+T000101,2026-11-19,Retailer_B,Rice 5kg,Staples,338.18,INR
+T000275,2026-10-20,Retailer_C,Sunflower Oil 1L,Cooking Oil,142.84,INR
+T001299,24/10/2026,Retailer_B,Chocolates Box,Festive Goods,241.68,INR
+T000354,17/11/2026,Retailer_A,Sugar 1kg,Staples,52.44,INR
+T000102,20/11/2026,Retailer_B,Rice 5kg,Staples,334.62,INR
+T001567,2026-11-06,Retailer_A,Detergent 1kg,Home Care,144.56,INR
+T000839,2026-10-23,Retailer_B,Tea 500g,Beverages,217.24,INR
+T000108,06/10/2026,Retailer_C,Rice 5kg,Staples,320.85,INR
+T001767,02/11/2026,Retailer_B,Biscuits Family Pack,Packaged Food,99.4,INR
+T001565,2026-11-04,Retailer_A,Detergent 1kg,Home Care,143.05,INR
+T001293,18/10/2026,Retailer_B,Chocolates Box,Festive Goods,272.25,INR
+T000775,2026-10-10,Retailer_A,Tea 500g,Beverages,193.59,INR
+T001805,2026-10-20,Retailer_C,Biscuits Family Pack,Packaged Food,88.25,INR
+T001058,2026-11-07,Retailer_C,Coffee 200g,Beverages,166.02,INR
+T001143,21/10/2026,Retailer_B,Ghee 500ml,Dairy,335.18,INR
+T000427,2026-10-19,Retailer_C,Sugar 1kg,Staples,46.31,INR
+T001031,2026-10-11,Retailer_C,Coffee 200g,Beverages,163.03,INR
+T001205,2026-11-01,Retailer_C,Ghee 500ml,Dairy,277.09,INR
+T000129,27/10/2026,Retailer_C,Rice 5kg,Staples,325.92,INR
+T001672,2026-11-09,Retailer_C,Detergent 1kg,Home Care,113.8,INR
+T000558,17/11/2026,Retailer_B,Toor Dal 1kg,Pulses,168.44,INR
+T001218,14/11/2026,Retailer_C,Ghee 500ml,Dairy,250.07,INR
+T001339,2026-10-13,Retailer_C,Chocolates Box,Festive Goods,253.72,INR
+T001133,2026-10-11,Retailer_B,Ghee 500ml,Dairy,330.11,INR
+T001091,2026-10-20,Retailer_A,Ghee 500ml,Dairy,,INR
+T000553,2026-11-12,Retailer_B,Toor Dal 1kg,Pulses,172.39,INR
+T000482,2026-10-23,Retailer_A,Toor Dal 1kg,Pulses,156.29,INR
+T000498,08/11/2026,Retailer_A,Toor Dal 1kg,Pulses,144.64,INR
+T000979,2026-10-10,Retailer_B,Coffee 200g,Beverages,167.03,INR
+T000901,2026-11-03,Retailer_C,Tea 500g,Beverages,183.46,INR
+T000999,30/10/2026,Retailer_B,Coffee 200g,Beverages,157.96,INR
+T000594,02/11/2026,Retailer_C,Toor Dal 1kg,Pulses,151.73,INR
+T001733,2026-11-19,Retailer_A,Biscuits Family Pack,Packaged Food,86.71,INR
+T000904,2026-11-06,Retailer_C,Tea 500g,Beverages,158.62,INR
+T000619,2026-10-07,Retailer_A,Wheat Flour 5kg,Staples,236.85,INR
+T000651,08/11/2026,Retailer_A,Wheat Flour 5kg,Staples,245.47,INR
+T001290,15/10/2026,Retailer_B,Chocolates Box,Festive Goods,274.25,INR
+T001429,2026-10-01,Retailer_B,Dry Fruits 500g,Festive Goods,416.35,INR
+T001090,2026-10-19,Retailer_A,Ghee 500ml,Dairy,305.48,INR
+T001193,2026-10-20,Retailer_C,Ghee 500ml,Dairy,289.68,INR
+T000975,06/10/2026,Retailer_B,Coffee 200g,Beverages,165.59,INR
+T000728,2026-10-14,Retailer_C,Wheat Flour 5kg,Staples,240.05,INR
+T000406,2026-11-18,Retailer_B,Sugar 1kg,Staples,43.18,INR
+T001564,2026-11-03,Retailer_A,Detergent 1kg,Home Care,141.33,INR
+T001541,2026-10-11,Retailer_A,Detergent 1kg,Home Care,139.61,INR
+T000933,15/10/2026,Retailer_A,Coffee 200g,Beverages,149.89,INR
+T000615,03/10/2026,Retailer_A,Wheat Flour 5kg,Staples,236.28,INR
+T001302,27/10/2026,Retailer_B,Chocolates Box,Festive Goods,242.45,INR
+T000310,2026-10-04,Retailer_A,Sugar 1kg,Staples,48.25,INR
+T000227,2026-10-23,Retailer_B,Sunflower Oil 1L,Cooking Oil,149.28,INR
+T001820,2026-11-04,Retailer_C,Biscuits Family Pack,Packaged Food,84.3,INR
+T000905,2026-11-07,Retailer_C,Tea 500g,Beverages,203.18,INR
+T001425,17/11/2026,Retailer_A,Dry Fruits 500g,Festive Goods,373.7,INR
+T000986,2026-10-17,Retailer_B,Coffee 200g,Beverages,156.07,INR
+T001388,2026-10-11,Retailer_A,Dry Fruits 500g,Festive Goods,433.84,INR
+T000149,2026-11-16,Retailer_C,Rice 5kg,Staples,,INR
+T001173,20/11/2026,Retailer_B,Ghee 500ml,Dairy,332.96,INR
+T001538,2026-10-08,Retailer_A,Detergent 1kg,Home Care,141.25,INR
+T001549,2026-10-19,Retailer_A,Detergent 1kg,Home Care,142.41,INR
+T001611,30/10/2026,Retailer_B,Detergent 1kg,Home Care,150.93,INR
+T000734,2026-10-20,Retailer_C,Wheat Flour 5kg,Staples,239.84,INR
+T000614,2026-10-02,Retailer_A,Wheat Flour 5kg,Staples,236.77,INR
+T001079,2026-10-08,Retailer_A,Ghee 500ml,Dairy,306.84,INR
+T001250,2026-10-26,Retailer_A,Chocolates Box,Festive Goods,268.69,INR
+T001085,2026-10-14,Retailer_A,Ghee 500ml,Dairy,308.76,INR
+T000837,21/10/2026,Retailer_B,Tea 500g,Beverages,217.2,INR
+T000287,2026-11-01,Retailer_C,Sunflower Oil 1L,Cooking Oil,119.1,INR
+T001631,2026-11-19,Retailer_B,Detergent 1kg,Home Care,140.33,INR
+T001638,06/10/2026,Retailer_C,Detergent 1kg,Home Care,131.36,INR
+T000702,08/11/2026,Retailer_B,Wheat Flour 5kg,Staples,454.77,INR
+T001527,17/11/2026,Retailer_C,Dry Fruits 500g,Festive Goods,502.63,INR
+T001482,03/10/2026,Retailer_C,Dry Fruits 500g,Festive Goods,410.31,INR
+T000931,2026-10-13,Retailer_A,Coffee 200g,Beverages,146.81,INR
+T001147,2026-10-25,Retailer_B,Ghee 500ml,Dairy,329.84,INR
+T000708,14/11/2026,Retailer_B,Wheat Flour 5kg,Staples,435.15,INR
+T001011,11/11/2026,Retailer_B,Coffee 200g,Beverages,277.89,INR
+T000562,2026-10-01,Retailer_C,Toor Dal 1kg,Pulses,152.7,INR
+T001384,2026-10-07,Retailer_A,Dry Fruits 500g,Festive Goods,430.14,INR
+T000844,2026-10-28,Retailer_B,Tea 500g,Beverages,213.9,INR
+T000937,2026-10-19,Retailer_A,Coffee 200g,Beverages,142.89,INR
+T001465,2026-11-06,Retailer_B,Dry Fruits 500g,Festive Goods,437.72,INR
+T001320,14/11/2026,Retailer_B,Chocolates Box,Festive Goods,215.41,INR
+T000882,15/10/2026,Retailer_C,Tea 500g,Beverages,182.49,INR
+T000494,2026-11-04,Retailer_A,Toor Dal 1kg,Pulses,160.62,INR
+T001587,06/10/2026,Retailer_B,Detergent 1kg,Home Care,143.0,INR
+T000278,2026-10-23,Retailer_C,Sunflower Oil 1L,Cooking Oil,146.76,INR
+T001715,2026-11-01,Retailer_A,Biscuits Family Pack,Packaged Food,88.59,INR
+T000359,2026-10-02,Retailer_B,Sugar 1kg,Staples,49.17,INR
+T001035,15/10/2026,Retailer_C,Coffee 200g,Beverages,169.35,INR
+T000237,02/11/2026,Retailer_B,Sunflower Oil 1L,Cooking Oil,150.12,INR
+T000552,11/11/2026,Retailer_B,Toor Dal 1kg,Pulses,168.8,INR
+T001735,2026-10-01,Retailer_B,Biscuits Family Pack,Packaged Food,85.34,INR
+T000788,2026-10-23,Retailer_A,Tea 500g,Beverages,190.8,INR
+T000209,2026-10-05,Retailer_B,Sunflower Oil 1L,Cooking Oil,148.54,INR
+T001286,2026-10-11,Retailer_B,Chocolates Box,Festive Goods,265.6,INR
+T001455,27/10/2026,Retailer_B,Dry Fruits 500g,Festive Goods,403.59,INR
+T000059,2026-10-08,Retailer_B,Rice 5kg,Staples,330.28,INR
+T001782,17/11/2026,Retailer_B,Biscuits Family Pack,Packaged Food,99.85,INR
+T001472,2026-11-13,Retailer_B,Dry Fruits 500g,Festive Goods,537.72,INR
+T000364,2026-10-07,Retailer_B,Sugar 1kg,Staples,48.96,INR
+T000964,2026-11-15,Retailer_A,Coffee 200g,Beverages,272.77,INR
+T000592,2026-10-31,Retailer_C,Toor Dal 1kg,Pulses,148.96,INR
+T001504,2026-10-25,Retailer_C,Dry Fruits 500g,Festive Goods,361.49,INR
+T001495,2026-10-16,Retailer_C,Dry Fruits 500g,Festive Goods,403.29,INR
+T001135,2026-10-13,Retailer_B,Ghee 500ml,Dairy,333.76,INR
+T001576,2026-11-15,Retailer_A,Detergent 1kg,Home Care,142.42,INR
+T000858,11/11/2026,Retailer_B,Tea 500g,Beverages,217.61,INR
+T001097,2026-10-26,Retailer_A,Ghee 500ml,Dairy,,INR
+T000119,2026-10-17,Retailer_C,Rice 5kg,Staples,315.93,INR
+T001165,2026-11-12,Retailer_B,Ghee 500ml,Dairy,331.21,INR
+T001543,2026-10-13,Retailer_A,Detergent 1kg,Home Care,139.83,INR
+T000523,2026-10-13,Retailer_B,Toor Dal 1kg,Pulses,175.32,INR
+T000514,2026-10-04,Retailer_B,Toor Dal 1kg,Pulses,160.31,INR
+T000082,2026-10-31,Retailer_B,Rice 5kg,Staples,335.19,INR
+T000638,2026-10-26,Retailer_A,Wheat Flour 5kg,Staples,204.07,INR
+T000889,2026-10-22,Retailer_C,Tea 500g,Beverages,180.64,INR
+T000381,24/10/2026,Retailer_B,Sugar 1kg,Staples,47.85,INR
+T001575,14/11/2026,Retailer_A,Detergent 1kg,Home Care,140.57,INR
+T000085,2026-11-03,Retailer_B,Rice 5kg,Staples,330.12,INR
+T001565,2026-11-04,Retailer_A,Detergent 1kg,Home Care,143.05,INR
+T000330,24/10/2026,Retailer_A,Sugar 1kg,Staples,41.68,INR
+T001659,27/10/2026,Retailer_C,Detergent 1kg,Home Care,121.07,INR
+T000655,2026-11-12,Retailer_A,Wheat Flour 5kg,Staples,243.31,INR
+T001359,02/11/2026,Retailer_C,Chocolates Box,Festive Goods,258.84,INR
+T000803,2026-11-07,Retailer_A,Tea 500g,Beverages,190.6,INR
+T001476,17/11/2026,Retailer_B,Dry Fruits 500g,Festive Goods,534.41,INR
+T000452,2026-11-13,Retailer_C,Sugar 1kg,Staples,75.23,INR
+T000491,2026-11-01,Retailer_A,Toor Dal 1kg,Pulses,160.13,INR
+T001377,20/11/2026,Retailer_C,Chocolates Box,Festive Goods,365.44,INR
+T000288,02/11/2026,Retailer_C,Sunflower Oil 1L,Cooking Oil,120.88,INR
+T000800,2026-11-04,Retailer_A,Tea 500g,Beverages,193.54,INR
+T001293,18/10/2026,Retailer_B,Chocolates Box,Festive Goods,272.25,INR
+T001269,14/11/2026,Retailer_A,Chocolates Box,Festive Goods,284.94,INR
+T001477,2026-11-18,Retailer_B,Dry Fruits 500g,Festive Goods,536.7,INR
+T000621,09/10/2026,Retailer_A,Wheat Flour 5kg,Staples,244.69,INR
+T000701,2026-11-07,Retailer_B,Wheat Flour 5kg,Staples,364.89,INR
+T000772,2026-10-07,Retailer_A,Tea 500g,Beverages,189.89,INR
+T000808,2026-11-12,Retailer_A,Tea 500g,Beverages,258.74,INR
+T001006,2026-11-06,Retailer_B,Coffee 200g,Beverages,184.39,INR
+T001540,2026-10-10,Retailer_A,Detergent 1kg,Home Care,141.09,INR
+T000328,2026-10-22,Retailer_A,Sugar 1kg,Staples,41.85,INR
+T000917,2026-11-19,Retailer_C,Tea 500g,Beverages,201.54,INR
+T000680,2026-10-17,Retailer_B,Wheat Flour 5kg,Staples,245.71,INR
+T000995,2026-10-26,Retailer_B,Coffee 200g,Beverages,157.03,INR
+T000810,14/11/2026,Retailer_A,Tea 500g,Beverages,248.51,INR
+T001086,15/10/2026,Retailer_A,Ghee 500ml,Dairy,308.43,INR
+T000178,2026-10-25,Retailer_A,Sunflower Oil 1L,Cooking Oil,147.43,INR
+T001608,27/10/2026,Retailer_B,Detergent 1kg,Home Care,147.03,INR
+T000620,2026-10-08,Retailer_A,Wheat Flour 5kg,Staples,241.79,INR
+T000087,05/11/2026,Retailer_B,Rice 5kg,Staples,331.22,INR
+T001803,18/10/2026,Retailer_C,Biscuits Family Pack,Packaged Food,86.93,INR
+T001763,2026-10-29,Retailer_B,Biscuits Family Pack,Packaged Food,99.69,INR
+T000458,2026-11-19,Retailer_C,Sugar 1kg,Staples,76.06,INR
+T000055,2026-10-04,Retailer_B,Rice 5kg,Staples,326.89,INR
+T001632,20/11/2026,Retailer_B,Detergent 1kg,Home Care,140.44,INR
+T000222,18/10/2026,Retailer_B,Sunflower Oil 1L,Cooking Oil,142.23,INR
+T000114,12/10/2026,Retailer_C,Rice 5kg,Staples,321.58,INR
+T001821,05/11/2026,Retailer_C,Biscuits Family Pack,Packaged Food,85.22,INR
+T001145,2026-10-23,Retailer_B,Ghee 500ml,Dairy,327.66,INR
+T000874,2026-10-07,Retailer_C,Tea 500g,Beverages,211.39,INR
+T000175,2026-10-22,Retailer_A,Sunflower Oil 1L,Cooking Oil,146.8,INR
+T001809,24/10/2026,Retailer_C,Biscuits Family Pack,Packaged Food,84.6,INR
+T000590,2026-10-29,Retailer_C,Toor Dal 1kg,Pulses,149.38,INR
+T001454,2026-10-26,Retailer_B,Dry Fruits 500g,Festive Goods,405.77,INR
+T000019,2026-10-19,Retailer_A,Rice 5kg,Staples,341.73,INR
+T000424,2026-10-16,Retailer_C,Sugar 1kg,Staples,46.03,INR
+T001246,2026-10-22,Retailer_A,Chocolates Box,Festive Goods,261.55,INR
+T000286,2026-10-31,Retailer_C,Sunflower Oil 1L,Cooking Oil,121.22,INR
+T001478,2026-11-19,Retailer_B,Dry Fruits 500g,Festive Goods,539.84,INR
+T000429,21/10/2026,Retailer_C,Sugar 1kg,Staples,45.72,INR
+T001406,2026-10-29,Retailer_A,Dry Fruits 500g,Festive Goods,364.14,INR
+T001224,20/11/2026,Retailer_C,Ghee 500ml,Dairy,226.7,INR
+T000032,2026-11-01,Retailer_A,Rice 5kg,Staples,328.09,INR
+T001728,14/11/2026,Retailer_A,Biscuits Family Pack,Packaged Food,84.95,INR
+T001775,2026-11-10,Retailer_B,Biscuits Family Pack,Packaged Food,102.22,INR
+T000215,2026-10-11,Retailer_B,Sunflower Oil 1L,Cooking Oil,143.22,INR
+T001568,2026-11-07,Retailer_A,Detergent 1kg,Home Care,147.04,INR
+T000327,21/10/2026,Retailer_A,Sugar 1kg,Staples,41.76,INR
+T000561,20/11/2026,Retailer_B,Toor Dal 1kg,Pulses,167.61,INR
+T001037,2026-10-17,Retailer_C,Coffee 200g,Beverages,170.35,INR
+T001418,2026-11-10,Retailer_A,Dry Fruits 500g,Festive Goods,350.3,INR
+T001348,2026-10-22,Retailer_C,Chocolates Box,Festive Goods,245.37,INR
+T000342,05/11/2026,Retailer_A,Sugar 1kg,Staples,40.44,INR
+T000630,18/10/2026,Retailer_A,Wheat Flour 5kg,Staples,222.55,INR
+T000148,2026-11-15,Retailer_C,Rice 5kg,Staples,613.36,INR
+T000361,2026-10-04,Retailer_B,Sugar 1kg,Staples,48.95,INR
+T000084,02/11/2026,Retailer_B,Rice 5kg,Staples,331.93,INR
+T000049,2026-11-18,Retailer_A,Rice 5kg,Staples,363.19,INR
+T000469,2026-10-10,Retailer_A,Toor Dal 1kg,Pulses,155.33,INR
+T000156,03/10/2026,Retailer_A,Sunflower Oil 1L,Cooking Oil,146.01,INR
+T001657,2026-10-25,Retailer_C,Detergent 1kg,Home Care,124.37,INR
+T001494,15/10/2026,Retailer_C,Dry Fruits 500g,Festive Goods,407.42,INR
+T001122,20/11/2026,Retailer_A,Ghee 500ml,Dairy,271.11,INR
+T001520,2026-11-10,Retailer_C,Dry Fruits 500g,Festive Goods,495.38,INR
+T000501,11/11/2026,Retailer_A,Toor Dal 1kg,Pulses,145.78,INR
+T000180,27/10/2026,Retailer_A,Sunflower Oil 1L,Cooking Oil,146.23,INR
+T000942,24/10/2026,Retailer_A,Coffee 200g,Beverages,138.86,INR
+T000902,2026-11-04,Retailer_C,Tea 500g,Beverages,178.97,INR
+T001836,20/11/2026,Retailer_C,Biscuits Family Pack,Packaged Food,77.81,INR
+T001511,2026-11-01,Retailer_C,Dry Fruits 500g,Festive Goods,393.31,INR
+T000529,2026-10-19,Retailer_B,Toor Dal 1kg,Pulses,176.66,INR
+T000347,2026-11-10,Retailer_A,Sugar 1kg,Staples,65.9,INR
+T001287,12/10/2026,Retailer_B,Chocolates Box,Festive Goods,267.48,INR
+T001819,2026-11-03,Retailer_C,Biscuits Family Pack,Packaged Food,83.6,INR
+T000713,2026-11-19,Retailer_B,Wheat Flour 5kg,Staples,451.15,INR
+T000980,2026-10-11,Retailer_B,Coffee 200g,Beverages,165.71,INR
+T001702,2026-10-19,Retailer_A,Biscuits Family Pack,Packaged Food,86.93,INR
+T000602,2026-11-10,Retailer_C,Toor Dal 1kg,Pulses,141.9,INR
+T001357,2026-10-31,Retailer_C,Chocolates Box,Festive Goods,258.73,INR
+T000244,2026-11-09,Retailer_B,Sunflower Oil 1L,Cooking Oil,149.56,INR
+T000783,18/10/2026,Retailer_A,Tea 500g,Beverages,187.35,INR
+T001271,2026-11-16,Retailer_A,Chocolates Box,Festive Goods,,INR
+T001654,2026-10-22,Retailer_C,Detergent 1kg,Home Care,127.99,INR
+T000313,2026-10-07,Retailer_A,Sugar 1kg,Staples,42.92,INR
+T000436,2026-10-28,Retailer_C,Sugar 1kg,Staples,44.57,INR
+T001762,2026-10-28,Retailer_B,Biscuits Family Pack,Packaged Food,99.74,INR
+T000811,2026-11-15,Retailer_A,Tea 500g,Beverages,248.89,INR
+T000309,03/10/2026,Retailer_A,Sugar 1kg,Staples,48.23,INR
+T000431,2026-10-23,Retailer_C,Sugar 1kg,Staples,44.67,INR
+T000661,2026-11-18,Retailer_A,Wheat Flour 5kg,Staples,249.39,INR
+T000371,2026-10-14,Retailer_B,Sugar 1kg,Staples,46.01,INR
+T000567,06/10/2026,Retailer_C,Toor Dal 1kg,Pulses,157.61,INR
+T001415,2026-11-07,Retailer_A,Dry Fruits 500g,Festive Goods,357.12,INR
+T000182,2026-10-29,Retailer_A,Sunflower Oil 1L,Cooking Oil,147.36,INR
+T000760,2026-11-15,Retailer_C,Wheat Flour 5kg,Staples,302.29,INR
+T000622,2026-10-10,Retailer_A,Wheat Flour 5kg,Staples,247.03,INR
+T001750,2026-10-16,Retailer_B,Biscuits Family Pack,Packaged Food,85.53,INR
+T001113,11/11/2026,Retailer_A,Ghee 500ml,Dairy,299.56,INR
+T001804,2026-10-19,Retailer_C,Biscuits Family Pack,Packaged Food,88.34,INR
+T001709,2026-10-26,Retailer_A,Biscuits Family Pack,Packaged Food,87.99,INR
+T000297,11/11/2026,Retailer_C,Sunflower Oil 1L,Cooking Oil,119.44,INR
+T001371,14/11/2026,Retailer_C,Chocolates Box,Festive Goods,371.66,INR
+T000462,03/10/2026,Retailer_A,Toor Dal 1kg,Pulses,158.08,INR
+T001232,2026-10-08,Retailer_A,Chocolates Box,Festive Goods,262.77,INR
+T001282,2026-10-07,Retailer_B,Chocolates Box,Festive Goods,258.84,INR
+T000378,21/10/2026,Retailer_B,Sugar 1kg,Staples,47.56,INR
+T001028,2026-10-08,Retailer_C,Coffee 200g,Beverages,162.43,INR
+T000106,2026-10-04,Retailer_C,Rice 5kg,Staples,319.39,INR
+T000127,2026-10-25,Retailer_C,Rice 5kg,Staples,,INR
+T001055,2026-11-04,Retailer_C,Coffee 200g,Beverages,167.17,INR
+T001162,2026-11-09,Retailer_B,Ghee 500ml,Dairy,335.39,INR
+T000356,2026-11-19,Retailer_A,Sugar 1kg,Staples,52.22,INR
+T001508,2026-10-29,Retailer_C,Dry Fruits 500g,Festive Goods,385.16,INR
+T000683,2026-10-20,Retailer_B,Wheat Flour 5kg,Staples,240.11,INR
+T001507,2026-10-28,Retailer_C,Dry Fruits 500g,Festive Goods,379.12,INR
+T000765,20/11/2026,Retailer_C,Wheat Flour 5kg,Staples,298.6,INR
+T000210,06/10/2026,Retailer_B,Sunflower Oil 1L,Cooking Oil,148.7,INR
+T001209,05/11/2026,Retailer_C,Ghee 500ml,Dairy,237.66,INR
+T000141,08/11/2026,Retailer_C,Rice 5kg,Staples,631.09,INR
+T001335,09/10/2026,Retailer_C,Chocolates Box,Festive Goods,250.55,INR
+T001697,2026-10-14,Retailer_A,Biscuits Family Pack,Packaged Food,83.57,INR
+T001160,2026-11-07,Retailer_B,Ghee 500ml,Dairy,332.75,INR
+T001469,2026-11-10,Retailer_B,Dry Fruits 500g,Festive Goods,546.49,INR
+T001059,08/11/2026,Retailer_C,Coffee 200g,Beverages,234.83,INR
+T001161,08/11/2026,Retailer_B,Ghee 500ml,Dairy,332.57,INR
+T000712,2026-11-18,Retailer_B,Wheat Flour 5kg,Staples,443.34,INR
+T001178,2026-10-05,Retailer_C,Ghee 500ml,Dairy,293.21,INR
+T000758,2026-11-13,Retailer_C,Wheat Flour 5kg,Staples,306.28,INR
+T000753,08/11/2026,Retailer_C,Wheat Flour 5kg,Staples,305.99,INR
+T000011,2026-10-11,Retailer_A,Rice 5kg,Staples,326.4,INR
+T001581,20/11/2026,Retailer_A,Detergent 1kg,Home Care,132.22,INR
+T001048,2026-10-28,Retailer_C,Coffee 200g,Beverages,171.09,INR
+T000283,2026-10-28,Retailer_C,Sunflower Oil 1L,Cooking Oil,137.32,INR
+T000292,2026-11-06,Retailer_C,Sunflower Oil 1L,Cooking Oil,121.02,INR
+T000627,15/10/2026,Retailer_A,Wheat Flour 5kg,Staples,249.72,INR
+T000825,09/10/2026,Retailer_B,Tea 500g,Beverages,221.1,INR
+T000755,2026-11-10,Retailer_C,Wheat Flour 5kg,Staples,308.68,INR
+T000130,2026-10-28,Retailer_C,Rice 5kg,Staples,324.99,INR
+T001284,09/10/2026,Retailer_B,Chocolates Box,Festive Goods,264.55,INR
+T000324,18/10/2026,Retailer_A,Sugar 1kg,Staples,43.41,INR
+T001270,2026-11-15,Retailer_A,Chocolates Box,Festive Goods,287.77,INR
+T001526,2026-11-16,Retailer_C,Dry Fruits 500g,Festive Goods,499.41,INR
+T001798,2026-10-13,Retailer_C,Biscuits Family Pack,Packaged Food,86.02,INR
+T001732,2026-11-18,Retailer_A,Biscuits Family Pack,Packaged Food,86.12,INR
+T000894,27/10/2026,Retailer_C,Tea 500g,Beverages,188.16,INR
+T000766,2026-10-01,Retailer_A,Tea 500g,Beverages,218.32,INR
+T000696,02/11/2026,Retailer_B,Wheat Flour 5kg,Staples,257.4,INR
+T000333,27/10/2026,Retailer_A,Sugar 1kg,Staples,40.9,INR
+T001180,2026-10-07,Retailer_C,Ghee 500ml,Dairy,295.65,INR
+T000159,06/10/2026,Retailer_A,Sunflower Oil 1L,Cooking Oil,142.41,INR
+T000863,2026-11-16,Retailer_B,Tea 500g,Beverages,204.61,INR
+T000635,2026-10-23,Retailer_A,Wheat Flour 5kg,Staples,208.35,INR
+T000517,2026-10-07,Retailer_B,Toor Dal 1kg,Pulses,165.48,INR
+T001326,20/11/2026,Retailer_B,Chocolates Box,Festive Goods,213.75,INR
+T000598,2026-11-06,Retailer_C,Toor Dal 1kg,Pulses,144.91,INR
+T000196,2026-11-12,Retailer_A,Sunflower Oil 1L,Cooking Oil,131.03,INR
+T001533,03/10/2026,Retailer_A,Detergent 1kg,Home Care,139.71,INR
+T001080,09/10/2026,Retailer_A,Ghee 500ml,Dairy,307.7,INR
+T000411,03/10/2026,Retailer_C,Sugar 1kg,Staples,46.44,INR
+T000097,2026-11-15,Retailer_B,Rice 5kg,Staples,348.47,INR
+T000875,2026-10-08,Retailer_C,Tea 500g,Beverages,189.48,INR
+T001677,14/11/2026,Retailer_C,Detergent 1kg,Home Care,108.21,INR
+T000157,2026-10-04,Retailer_A,Sunflower Oil 1L,Cooking Oil,144.79,INR
+T000420,12/10/2026,Retailer_C,Sugar 1kg,Staples,46.22,INR
+T000951,02/11/2026,Retailer_A,Coffee 200g,Beverages,128.36,INR
+T000478,2026-10-19,Retailer_A,Toor Dal 1kg,Pulses,,INR
+T001336,2026-10-10,Retailer_C,Chocolates Box,Festive Goods,248.05,INR
+T000669,06/10/2026,Retailer_B,Wheat Flour 5kg,Staples,240.96,INR
+T001713,30/10/2026,Retailer_A,Biscuits Family Pack,Packaged Food,87.6,INR
+T001490,2026-10-11,Retailer_C,Dry Fruits 500g,Festive Goods,403.49,INR
+T001207,2026-11-03,Retailer_C,Ghee 500ml,Dairy,260.98,INR
+T000448,2026-11-09,Retailer_C,Sugar 1kg,Staples,72.94,INR
+T001139,2026-10-17,Retailer_B,Ghee 500ml,Dairy,331.7,INR
+T000179,2026-10-26,Retailer_A,Sunflower Oil 1L,Cooking Oil,148.11,INR
+T000391,2026-11-03,Retailer_B,Sugar 1kg,Staples,45.21,INR
+T000579,18/10/2026,Retailer_C,Toor Dal 1kg,Pulses,148.99,INR
+T000880,2026-10-13,Retailer_C,Tea 500g,Beverages,187.72,INR
+T001593,12/10/2026,Retailer_B,Detergent 1kg,Home Care,142.49,INR
+T001513,2026-11-03,Retailer_C,Dry Fruits 500g,Festive Goods,396.56,INR
+T001624,2026-11-12,Retailer_B,Detergent 1kg,Home Care,141.51,INR
+T000789,24/10/2026,Retailer_A,Tea 500g,Beverages,190.7,INR
+T000906,08/11/2026,Retailer_C,Tea 500g,Beverages,204.14,INR
+T001739,2026-10-05,Retailer_B,Biscuits Family Pack,Packaged Food,84.77,INR
+T001558,2026-10-28,Retailer_A,Detergent 1kg,Home Care,137.39,INR
+T000665,2026-10-02,Retailer_B,Wheat Flour 5kg,Staples,,INR
+T000143,2026-11-10,Retailer_C,Rice 5kg,Staples,630.71,INR
+T001413,05/11/2026,Retailer_A,Dry Fruits 500g,Festive Goods,352.62,INR
+T001327,2026-10-01,Retailer_C,Chocolates Box,Festive Goods,244.52,INR
+T000422,2026-10-14,Retailer_C,Sugar 1kg,Staples,46.47,INR
+T000637,2026-10-25,Retailer_A,Wheat Flour 5kg,Staples,208.0,INR
+T001305,30/10/2026,Retailer_B,Chocolates Box,Festive Goods,244.93,INR
+T000977,2026-10-08,Retailer_B,Coffee 200g,Beverages,165.4,INR
+T000616,2026-10-04,Retailer_A,Wheat Flour 5kg,Staples,239.02,INR
+T000295,2026-11-09,Retailer_C,Sunflower Oil 1L,Cooking Oil,122.48,INR
+T001014,14/11/2026,Retailer_B,Coffee 200g,Beverages,279.98,INR
+T001766,2026-11-01,Retailer_B,Biscuits Family Pack,Packaged Food,98.38,INR
+T000089,2026-11-07,Retailer_B,Rice 5kg,Staples,331.62,INR
+T000042,11/11/2026,Retailer_A,Rice 5kg,Staples,373.37,INR
+T001675,2026-11-12,Retailer_C,Detergent 1kg,Home Care,109.44,INR
+T001794,09/10/2026,Retailer_C,Biscuits Family Pack,Packaged Food,84.85,INR
+T000132,30/10/2026,Retailer_C,Rice 5kg,Staples,327.74,INR
+T001201,2026-10-28,Retailer_C,Ghee 500ml,Dairy,278.38,INR
+T001573,2026-11-12,Retailer_A,Detergent 1kg,Home Care,143.24,INR
+T001592,2026-10-11,Retailer_B,Detergent 1kg,Home Care,143.05,INR
+T001722,08/11/2026,Retailer_A,Biscuits Family Pack,Packaged Food,,INR
+T001395,18/10/2026,Retailer_A,Dry Fruits 500g,Festive Goods,380.97,INR
+T000165,12/10/2026,Retailer_A,Sunflower Oil 1L,Cooking Oil,143.27,INR
+T000725,2026-10-11,Retailer_C,Wheat Flour 5kg,Staples,236.22,INR
+T000291,05/11/2026,Retailer_C,Sunflower Oil 1L,Cooking Oil,118.19,INR
+T001233,09/10/2026,Retailer_A,Chocolates Box,Festive Goods,263.54,INR
+T001760,2026-10-26,Retailer_B,Biscuits Family Pack,Packaged Food,97.07,INR
+T000890,2026-10-23,Retailer_C,Tea 500g,Beverages,182.31,INR
+T000779,2026-10-14,Retailer_A,Tea 500g,Beverages,182.45,INR
+T000349,2026-11-12,Retailer_A,Sugar 1kg,Staples,65.67,INR
+T000572,2026-10-11,Retailer_C,Toor Dal 1kg,Pulses,148.55,INR
+T001563,02/11/2026,Retailer_A,Detergent 1kg,Home Care,140.15,INR
+T001755,21/10/2026,Retailer_B,Biscuits Family Pack,Packaged Food,89.14,INR
+T001024,2026-10-04,Retailer_C,Coffee 200g,Beverages,160.85,INR
+T001474,2026-11-15,Retailer_B,Dry Fruits 500g,Festive Goods,529.04,INR
+T001222,2026-11-18,Retailer_C,Ghee 500ml,Dairy,237.97,INR
+T001188,15/10/2026,Retailer_C,Ghee 500ml,Dairy,295.06,INR
+T000459,20/11/2026,Retailer_C,Sugar 1kg,Staples,75.01,INR
+T000376,2026-10-19,Retailer_B,Sugar 1kg,Staples,46.95,INR
+T000334,2026-10-28,Retailer_A,Sugar 1kg,Staples,39.64,INR
+T001818,02/11/2026,Retailer_C,Biscuits Family Pack,Packaged Food,83.32,INR
+T001637,2026-10-05,Retailer_C,Detergent 1kg,Home Care,131.02,INR
+T001656,24/10/2026,Retailer_C,Detergent 1kg,Home Care,123.78,INR
+T000817,2026-10-01,Retailer_B,Tea 500g,Beverages,221.18,INR
+T001689,06/10/2026,Retailer_A,Biscuits Family Pack,Packaged Food,81.87,INR
+T001525,2026-11-15,Retailer_C,Dry Fruits 500g,Festive Goods,491.94,INR
+T001724,2026-11-10,Retailer_A,Biscuits Family Pack,Packaged Food,87.17,INR
+T000850,2026-11-03,Retailer_B,Tea 500g,Beverages,210.69,INR
+T001790,2026-10-05,Retailer_C,Biscuits Family Pack,Packaged Food,87.17,INR
+T001050,30/10/2026,Retailer_C,Coffee 200g,Beverages,170.33,INR
+T000329,2026-10-23,Retailer_A,Sugar 1kg,Staples,41.69,INR
+T001369,2026-11-12,Retailer_C,Chocolates Box,Festive Goods,426.38,INR
+T000319,2026-10-13,Retailer_A,Sugar 1kg,Staples,42.8,INR
+T001426,2026-11-18,Retailer_A,Dry Fruits 500g,Festive Goods,372.3,INR
+T001260,05/11/2026,Retailer_A,Chocolates Box,Festive Goods,284.6,INR
+T001615,2026-11-03,Retailer_B,Detergent 1kg,Home Care,143.82,INR
+T000168,15/10/2026,Retailer_A,Sunflower Oil 1L,Cooking Oil,142.75,INR
+T000013,2026-10-13,Retailer_A,Rice 5kg,Staples,329.49,INR
+T000172,2026-10-19,Retailer_A,Sunflower Oil 1L,Cooking Oil,141.42,INR
+T000650,2026-11-07,Retailer_A,Wheat Flour 5kg,Staples,242.65,INR
+T000261,06/10/2026,Retailer_C,Sunflower Oil 1L,Cooking Oil,142.81,INR
+T001132,2026-10-10,Retailer_B,Ghee 500ml,Dairy,330.24,INR
+T001308,02/11/2026,Retailer_B,Chocolates Box,Festive Goods,246.18,INR
+T000673,2026-10-10,Retailer_B,Wheat Flour 5kg,Staples,,INR
+T000259,2026-10-04,Retailer_C,Sunflower Oil 1L,Cooking Oil,141.58,INR
+T000845,2026-10-29,Retailer_B,Tea 500g,Beverages,212.54,INR
+T001115,2026-11-13,Retailer_A,Ghee 500ml,Dairy,313.13,INR
+T000139,2026-11-06,Retailer_C,Rice 5kg,Staples,457.42,INR
+T001707,24/10/2026,Retailer_A,Biscuits Family Pack,Packaged Food,87.88,INR
+T000550,2026-11-09,Retailer_B,Toor Dal 1kg,Pulses,181.59,INR
+T001289,2026-10-14,Retailer_B,Chocolates Box,Festive Goods,268.96,INR
+T001423,2026-11-15,Retailer_A,Dry Fruits 500g,Festive Goods,368.49,INR
+T001152,30/10/2026,Retailer_B,Ghee 500ml,Dairy,338.27,INR
+T001351,2026-10-25,Retailer_C,Chocolates Box,Festive Goods,254.59,INR
+T000559,2026-11-18,Retailer_B,Toor Dal 1kg,Pulses,168.26,INR
+T000140,2026-11-07,Retailer_C,Rice 5kg,Staples,639.61,INR
+T001617,05/11/2026,Retailer_B,Detergent 1kg,Home Care,142.97,INR
+T000532,2026-10-22,Retailer_B,Toor Dal 1kg,Pulses,179.5,INR
+T000225,21/10/2026,Retailer_B,Sunflower Oil 1L,Cooking Oil,145.75,INR
+T000724,2026-10-10,Retailer_C,Wheat Flour 5kg,Staples,237.33,INR
+T000787,2026-10-22,Retailer_A,Tea 500g,Beverages,190.14,INR
+T001603,2026-10-22,Retailer_B,Detergent 1kg,Home Care,141.32,INR
+T001491,12/10/2026,Retailer_C,Dry Fruits 500g,Festive Goods,404.45,INR
+T000410,2026-10-02,Retailer_C,Sugar 1kg,Staples,46.86,INR
+T000326,2026-10-20,Retailer_A,Sugar 1kg,Staples,45.26,INR
+T001023,03/10/2026,Retailer_C,Coffee 200g,Beverages,159.9,INR
+T000300,14/11/2026,Retailer_C,Sunflower Oil 1L,Cooking Oil,117.21,INR
+T001174,2026-10-01,Retailer_C,Ghee 500ml,Dairy,300.07,INR
+T001064,2026-11-13,Retailer_C,Coffee 200g,Beverages,232.57,INR
+T000998,2026-10-29,Retailer_B,Coffee 200g,Beverages,157.86,INR
+T001752,18/10/2026,Retailer_B,Biscuits Family Pack,Packaged Food,87.83,INR
+T000715,2026-10-01,Retailer_C,Wheat Flour 5kg,Staples,236.43,INR
+T001095,24/10/2026,Retailer_A,Ghee 500ml,Dairy,287.48,INR
+T000194,2026-11-10,Retailer_A,Sunflower Oil 1L,Cooking Oil,130.98,INR
+T000441,02/11/2026,Retailer_C,Sugar 1kg,Staples,43.7,INR
+T000574,2026-10-13,Retailer_C,Toor Dal 1kg,Pulses,152.17,INR
+T000504,14/11/2026,Retailer_A,Toor Dal 1kg,Pulses,146.28,INR
+T000606,14/11/2026,Retailer_C,Toor Dal 1kg,Pulses,141.12,INR
+T001730,2026-11-16,Retailer_A,Biscuits Family Pack,Packaged Food,85.72,INR
+T001662,30/10/2026,Retailer_C,Detergent 1kg,Home Care,122.28,INR
+T000847,2026-10-31,Retailer_B,Tea 500g,Beverages,212.56,INR
+T000004,2026-10-04,Retailer_A,Rice 5kg,Staples,316.96,INR
+T000486,27/10/2026,Retailer_A,Toor Dal 1kg,Pulses,155.39,INR
+T001179,06/10/2026,Retailer_C,Ghee 500ml,Dairy,291.68,INR
+T000468,09/10/2026,Retailer_A,Toor Dal 1kg,Pulses,156.24,INR
+T000322,2026-10-16,Retailer_A,Sugar 1kg,Staples,43.99,INR
+T000006,06/10/2026,Retailer_A,Rice 5kg,Staples,320.24,INR
+T000223,2026-10-19,Retailer_B,Sunflower Oil 1L,Cooking Oil,144.05,INR
+T000548,2026-11-07,Retailer_B,Toor Dal 1kg,Pulses,184.57,INR
+T000229,2026-10-25,Retailer_B,Sunflower Oil 1L,Cooking Oil,151.81,INR
+T000040,2026-11-09,Retailer_A,Rice 5kg,Staples,380.96,INR
+T000543,02/11/2026,Retailer_B,Toor Dal 1kg,Pulses,185.45,INR
+T000243,08/11/2026,Retailer_B,Sunflower Oil 1L,Cooking Oil,151.1,INR
+T001510,2026-10-31,Retailer_C,Dry Fruits 500g,Festive Goods,389.66,INR
+T000137,2026-11-04,Retailer_C,Rice 5kg,Staples,331.48,INR
+T001112,2026-11-10,Retailer_A,Ghee 500ml,Dairy,295.3,INR
+T001633,2026-10-01,Retailer_C,Detergent 1kg,Home Care,134.29,INR
+T001467,08/11/2026,Retailer_B,Dry Fruits 500g,Festive Goods,543.33,INR
+T001430,2026-10-02,Retailer_B,Dry Fruits 500g,Festive Goods,423.45,INR
+T000830,2026-10-14,Retailer_B,Tea 500g,Beverages,225.11,INR
+T000446,2026-11-07,Retailer_C,Sugar 1kg,Staples,55.3,INR
+T000843,27/10/2026,Retailer_B,Tea 500g,Beverages,213.65,INR
+T001396,2026-10-19,Retailer_A,Dry Fruits 500g,Festive Goods,381.27,INR
+T001317,11/11/2026,Retailer_B,Chocolates Box,Festive Goods,213.73,INR
+T001084,2026-10-13,Retailer_A,Ghee 500ml,Dairy,312.68,INR
+T001696,2026-10-13,Retailer_A,Biscuits Family Pack,Packaged Food,83.55,INR
+T000582,21/10/2026,Retailer_C,Toor Dal 1kg,Pulses,145.2,INR
+T001641,09/10/2026,Retailer_C,Detergent 1kg,Home Care,132.66,INR
+T001828,2026-11-12,Retailer_C,Biscuits Family Pack,Packaged Food,81.33,INR
+T000662,2026-11-19,Retailer_A,Wheat Flour 5kg,Staples,252.13,INR
+T000437,2026-10-29,Retailer_C,Sugar 1kg,Staples,44.34,INR
+T001723,2026-11-09,Retailer_A,Biscuits Family Pack,Packaged Food,87.37,INR
+T000377,2026-10-20,Retailer_B,Sugar 1kg,Staples,47.37,INR
+T001471,2026-11-12,Retailer_B,Dry Fruits 500g,Festive Goods,542.68,INR
+T001129,2026-10-07,Retailer_B,Ghee 500ml,Dairy,326.76,INR
+T000315,09/10/2026,Retailer_A,Sugar 1kg,Staples,43.54,INR
+T000443,2026-11-04,Retailer_C,Sugar 1kg,Staples,42.45,INR
+T001069,2026-11-18,Retailer_C,Coffee 200g,Beverages,226.36,INR
+T000320,2026-10-14,Retailer_A,Sugar 1kg,Staples,43.85,INR
+T000282,27/10/2026,Retailer_C,Sunflower Oil 1L,Cooking Oil,142.65,INR
+T000991,2026-10-22,Retailer_B,Coffee 200g,Beverages,158.2,INR
+T001111,2026-11-09,Retailer_A,Ghee 500ml,Dairy,293.73,INR
+T001400,2026-10-23,Retailer_A,Dry Fruits 500g,Festive Goods,362.71,INR
+T000425,2026-10-17,Retailer_C,Sugar 1kg,Staples,46.08,INR
+T000554,2026-11-13,Retailer_B,Toor Dal 1kg,Pulses,171.89,INR
+T000595,2026-11-03,Retailer_C,Toor Dal 1kg,Pulses,153.34,INR
+T001822,2026-11-06,Retailer_C,Biscuits Family Pack,Packaged Food,86.64,INR
+T000369,12/10/2026,Retailer_B,Sugar 1kg,Staples,46.21,INR
+T001291,2026-10-16,Retailer_B,Chocolates Box,Festive Goods,275.21,INR
+T001164,11/11/2026,Retailer_B,Ghee 500ml,Dairy,331.94,INR
+T001345,2026-10-19,Retailer_C,Chocolates Box,Festive Goods,249.66,INR
+T001506,27/10/2026,Retailer_C,Dry Fruits 500g,Festive Goods,370.99,INR
+T001231,2026-10-07,Retailer_A,Chocolates Box,Festive Goods,259.2,INR
+T000228,24/10/2026,Retailer_B,Sunflower Oil 1L,Cooking Oil,151.21,INR
+T001042,2026-10-22,Retailer_C,Coffee 200g,Beverages,173.53,INR
+T001325,2026-11-19,Retailer_B,Chocolates Box,Festive Goods,218.29,INR
+T001234,2026-10-10,Retailer_A,Chocolates Box,Festive Goods,262.99,INR
+T001288,2026-10-13,Retailer_B,Chocolates Box,Festive Goods,,INR
+T000067,2026-10-16,Retailer_B,Rice 5kg,Staples,323.31,INR
+T000394,2026-11-06,Retailer_B,Sugar 1kg,Staples,45.93,INR
+T000580,2026-10-19,Retailer_C,Toor Dal 1kg,Pulses,146.63,INR
+T000025,2026-10-25,Retailer_A,Rice 5kg,Staples,337.85,INR
+T000212,2026-10-08,Retailer_B,Sunflower Oil 1L,Cooking Oil,146.07,INR
+T001432,2026-10-04,Retailer_B,Dry Fruits 500g,Festive Goods,426.01,INR
+T000145,2026-11-12,Retailer_C,Rice 5kg,Staples,612.4,INR
+T000537,27/10/2026,Retailer_B,Toor Dal 1kg,Pulses,175.13,INR
+T000812,2026-11-16,Retailer_A,Tea 500g,Beverages,245.6,INR
+T001044,24/10/2026,Retailer_C,Coffee 200g,Beverages,175.33,INR
+T001241,2026-10-17,Retailer_A,Chocolates Box,Festive Goods,265.57,INR
+T000086,2026-11-04,Retailer_B,Rice 5kg,Staples,325.06,INR
+T001676,2026-11-13,Retailer_C,Detergent 1kg,Home Care,108.58,INR
+T000273,18/10/2026,Retailer_C,Sunflower Oil 1L,Cooking Oil,143.45,INR
+T000953,2026-11-04,Retailer_A,Coffee 200g,Beverages,125.94,INR
+T001197,24/10/2026,Retailer_C,Ghee 500ml,Dairy,287.1,INR
+T001104,02/11/2026,Retailer_A,Ghee 500ml,Dairy,284.69,INR
+T000983,2026-10-14,Retailer_B,Coffee 200g,Beverages,164.94,INR
+T001678,2026-11-15,Retailer_C,Detergent 1kg,Home Care,110.78,INR
+T000631,2026-10-19,Retailer_A,Wheat Flour 5kg,Staples,,INR
+T001274,2026-11-19,Retailer_A,Chocolates Box,Festive Goods,273.71,INR
+T001737,03/10/2026,Retailer_B,Biscuits Family Pack,Packaged Food,85.5,INR
+T000974,2026-10-05,Retailer_B,Coffee 200g,Beverages,165.78,INR
+T001273,2026-11-18,Retailer_A,Chocolates Box,Festive Goods,273.73,INR
+T001068,17/11/2026,Retailer_C,Coffee 200g,Beverages,224.73,INR
+T000506,2026-11-16,Retailer_A,Toor Dal 1kg,Pulses,148.48,INR
+T000274,2026-10-19,Retailer_C,Sunflower Oil 1L,Cooking Oil,141.71,INR
+T000508,2026-11-18,Retailer_A,Toor Dal 1kg,Pulses,149.34,INR
+T001223,2026-11-19,Retailer_C,Ghee 500ml,Dairy,242.84,INR
+T000363,06/10/2026,Retailer_B,Sugar 1kg,Staples,48.87,INR
+T001503,24/10/2026,Retailer_C,Dry Fruits 500g,Festive Goods,360.82,INR
+T001076,2026-10-05,Retailer_A,Ghee 500ml,Dairy,318.34,INR
+T000623,2026-10-11,Retailer_A,Wheat Flour 5kg,Staples,246.88,INR
+T000003,03/10/2026,Retailer_A,Rice 5kg,Staples,316.47,INR
+T000007,2026-10-07,Retailer_A,Rice 5kg,Staples,320.49,INR
+T001531,2026-10-01,Retailer_A,Detergent 1kg,Home Care,136.35,INR
+T000312,06/10/2026,Retailer_A,Sugar 1kg,Staples,43.46,INR
+T001547,2026-10-17,Retailer_A,Detergent 1kg,Home Care,145.36,INR
+T000985,2026-10-16,Retailer_B,Coffee 200g,Beverages,156.97,INR
+T000666,03/10/2026,Retailer_B,Wheat Flour 5kg,Staples,240.53,INR
+T000365,2026-10-08,Retailer_B,Sugar 1kg,Staples,49.43,INR
+T001831,2026-11-15,Retailer_C,Biscuits Family Pack,Packaged Food,80.77,INR
+T000216,12/10/2026,Retailer_B,Sunflower Oil 1L,Cooking Oil,142.99,INR
+T001394,2026-10-17,Retailer_A,Dry Fruits 500g,Festive Goods,378.65,INR
+T000028,2026-10-28,Retailer_A,Rice 5kg,Staples,322.36,INR
+T001334,2026-10-08,Retailer_C,Chocolates Box,Festive Goods,253.14,INR
+T000526,2026-10-16,Retailer_B,Toor Dal 1kg,Pulses,173.76,INR
+T001704,21/10/2026,Retailer_A,Biscuits Family Pack,Packaged Food,86.18,INR
+T001005,05/11/2026,Retailer_B,Coffee 200g,Beverages,147.79,INR
+T000639,27/10/2026,Retailer_A,Wheat Flour 5kg,Staples,201.24,INR
+T000303,17/11/2026,Retailer_C,Sunflower Oil 1L,Cooking Oil,117.72,INR
+T000719,2026-10-05,Retailer_C,Wheat Flour 5kg,Staples,235.82,INR
+T000692,2026-10-29,Retailer_B,Wheat Flour 5kg,Staples,247.97,INR
+T001461,02/11/2026,Retailer_B,Dry Fruits 500g,Festive Goods,446.61,INR
+T001263,08/11/2026,Retailer_A,Chocolates Box,Festive Goods,288.98,INR
+T000625,2026-10-13,Retailer_A,Wheat Flour 5kg,Staples,246.31,INR
+T000008,2026-10-08,Retailer_A,Rice 5kg,Staples,322.29,INR
+T000257,2026-10-02,Retailer_C,Sunflower Oil 1L,Cooking Oil,142.17,INR
+T000804,08/11/2026,Retailer_A,Tea 500g,Beverages,254.61,INR
+T000026,2026-10-26,Retailer_A,Rice 5kg,Staples,321.17,INR
+T000337,2026-10-31,Retailer_A,Sugar 1kg,Staples,39.3,INR
+T000573,12/10/2026,Retailer_C,Toor Dal 1kg,Pulses,152.93,INR
+T000048,17/11/2026,Retailer_A,Rice 5kg,Staples,364.85,INR
+T001376,2026-11-19,Retailer_C,Chocolates Box,Festive Goods,354.82,INR
+T000107,2026-10-05,Retailer_C,Rice 5kg,Staples,321.45,INR
+T000350,2026-11-13,Retailer_A,Sugar 1kg,Staples,64.9,INR
+T000056,2026-10-05,Retailer_B,Rice 5kg,Staples,327.17,INR
+T000239,2026-11-04,Retailer_B,Sunflower Oil 1L,Cooking Oil,152.05,INR
+T000214,2026-10-10,Retailer_B,Sunflower Oil 1L,Cooking Oil,145.03,INR
+T000121,2026-10-19,Retailer_C,Rice 5kg,Staples,306.02,INR
+T001237,2026-10-13,Retailer_A,Chocolates Box,Festive Goods,257.1,INR
+T001062,11/11/2026,Retailer_C,Coffee 200g,Beverages,235.1,INR
+T000794,2026-10-29,Retailer_A,Tea 500g,Beverages,199.69,INR
+T000073,2026-10-22,Retailer_B,Rice 5kg,Staples,330.11,INR
+T000923,2026-10-05,Retailer_A,Coffee 200g,Beverages,161.16,INR
+T000813,17/11/2026,Retailer_A,Tea 500g,Beverages,250.9,INR
+T001606,2026-10-25,Retailer_B,Detergent 1kg,Home Care,143.22,INR
+T000078,27/10/2026,Retailer_B,Rice 5kg,Staples,323.76,INR
+T000945,27/10/2026,Retailer_A,Coffee 200g,Beverages,135.45,INR
+T001107,05/11/2026,Retailer_A,Ghee 500ml,Dairy,282.61,INR
+T000046,2026-11-15,Retailer_A,Rice 5kg,Staples,368.97,INR
+T001560,30/10/2026,Retailer_A,Detergent 1kg,Home Care,137.59,INR
+T000524,2026-10-14,Retailer_B,Toor Dal 1kg,Pulses,176.28,INR
+T000233,2026-10-29,Retailer_B,Sunflower Oil 1L,Cooking Oil,146.95,INR
+T000645,02/11/2026,Retailer_A,Wheat Flour 5kg,Staples,193.15,INR
+T001407,30/10/2026,Retailer_A,Dry Fruits 500g,Festive Goods,360.57,INR
+T001404,27/10/2026,Retailer_A,Dry Fruits 500g,Festive Goods,363.65,INR
+T000534,24/10/2026,Retailer_B,Toor Dal 1kg,Pulses,175.31,INR
+T001405,2026-10-28,Retailer_A,Dry Fruits 500g,Festive Goods,365.88,INR
+T000604,2026-11-12,Retailer_C,Toor Dal 1kg,Pulses,144.1,INR
+T001441,2026-10-13,Retailer_B,Dry Fruits 500g,Festive Goods,428.56,INR
+T001211,2026-11-07,Retailer_C,Ghee 500ml,Dairy,241.9,INR
+T000061,2026-10-10,Retailer_B,Rice 5kg,Staples,334.47,INR
+T001238,2026-10-14,Retailer_A,Chocolates Box,Festive Goods,,INR
+T000093,11/11/2026,Retailer_B,Rice 5kg,Staples,334.22,INR
+T000667,2026-10-04,Retailer_B,Wheat Flour 5kg,Staples,239.07,INR
+T000281,2026-10-26,Retailer_C,Sunflower Oil 1L,Cooking Oil,143.97,INR
+T001038,18/10/2026,Retailer_C,Coffee 200g,Beverages,172.92,INR
+T000360,03/10/2026,Retailer_B,Sugar 1kg,Staples,49.62,INR
+T001053,02/11/2026,Retailer_C,Coffee 200g,Beverages,170.62,INR
+T001092,21/10/2026,Retailer_A,Ghee 500ml,Dairy,280.56,INR
+T000848,2026-11-01,Retailer_B,Tea 500g,Beverages,208.88,INR
+T001329,03/10/2026,Retailer_C,Chocolates Box,Festive Goods,247.21,INR
+T000111,09/10/2026,Retailer_C,Rice 5kg,Staples,321.02,INR
+T000043,2026-11-12,Retailer_A,Rice 5kg,Staples,375.52,INR
+T000126,24/10/2026,Retailer_C,Rice 5kg,Staples,325.71,INR
+T000205,2026-10-01,Retailer_B,Sunflower Oil 1L,Cooking Oil,147.42,INR
+T000053,2026-10-02,Retailer_B,Rice 5kg,Staples,327.53,INR
+T000546,05/11/2026,Retailer_B,Toor Dal 1kg,Pulses,184.93,INR
+T000069,18/10/2026,Retailer_B,Rice 5kg,Staples,330.64,INR
+T001672,2026-11-09,Retailer_C,Detergent 1kg,Home Care,113.8,INR
+T001442,2026-10-14,Retailer_B,Dry Fruits 500g,Festive Goods,422.03,INR
+T000184,2026-10-31,Retailer_A,Sunflower Oil 1L,Cooking Oil,151.22,INR
+T000138,05/11/2026,Retailer_C,Rice 5kg,Staples,328.44,INR
+T000900,02/11/2026,Retailer_C,Tea 500g,Beverages,186.82,INR
+T000797,2026-11-01,Retailer_A,Tea 500g,Beverages,,INR
+T000133,2026-10-31,Retailer_C,Rice 5kg,Staples,,INR
+T000081,30/10/2026,Retailer_B,Rice 5kg,Staples,331.48,INR
+T001436,2026-10-08,Retailer_B,Dry Fruits 500g,Festive Goods,433.83,INR
+T000542,2026-11-01,Retailer_B,Toor Dal 1kg,Pulses,183.9,INR
+T001488,09/10/2026,Retailer_C,Dry Fruits 500g,Festive Goods,407.34,INR
+T000984,15/10/2026,Retailer_B,Coffee 200g,Beverages,162.03,INR
+T000166,2026-10-13,Retailer_A,Sunflower Oil 1L,Cooking Oil,141.18,INR
+T000249,14/11/2026,Retailer_B,Sunflower Oil 1L,Cooking Oil,140.23,INR
+T000447,08/11/2026,Retailer_C,Sugar 1kg,Staples,72.09,INR
+T001711,2026-10-28,Retailer_A,Biscuits Family Pack,Packaged Food,90.21,INR
+T000859,2026-11-12,Retailer_B,Tea 500g,Beverages,,INR
+T001379,2026-10-02,Retailer_A,Dry Fruits 500g,Festive Goods,419.86,INR
+T000098,2026-11-16,Retailer_B,Rice 5kg,Staples,349.88,INR
+T001832,2026-11-16,Retailer_C,Biscuits Family Pack,Packaged Food,79.15,INR
+T000738,24/10/2026,Retailer_C,Wheat Flour 5kg,Staples,243.45,INR
+T001169,2026-11-16,Retailer_B,Ghee 500ml,Dairy,336.96,INR
+T000103,2026-10-01,Retailer_C,Rice 5kg,Staples,318.66,INR
+T000435,27/10/2026,Retailer_C,Sugar 1kg,Staples,44.42,INR
+T000075,24/10/2026,Retailer_B,Rice 5kg,Staples,324.11,INR
+T001667,2026-11-04,Retailer_C,Detergent 1kg,Home Care,111.93,INR
+T001121,2026-11-19,Retailer_A,Ghee 500ml,Dairy,270.2,INR
+T000919,2026-10-01,Retailer_A,Coffee 200g,Beverages,165.53,INR
+T001597,2026-10-16,Retailer_B,Detergent 1kg,Home Care,135.73,INR
+T001559,2026-10-29,Retailer_A,Detergent 1kg,Home Care,136.89,INR
+T001512,02/11/2026,Retailer_C,Dry Fruits 500g,Festive Goods,392.98,INR
+T000763,2026-11-18,Retailer_C,Wheat Flour 5kg,Staples,302.26,INR
+T000990,21/10/2026,Retailer_B,Coffee 200g,Beverages,157.64,INR
+T000389,2026-11-01,Retailer_B,Sugar 1kg,Staples,45.98,INR
+T000236,2026-11-01,Retailer_B,Sunflower Oil 1L,Cooking Oil,149.01,INR
+T001403,2026-10-26,Retailer_A,Dry Fruits 500g,Festive Goods,363.66,INR
+T000268,2026-10-13,Retailer_C,Sunflower Oil 1L,Cooking Oil,144.86,INR
+T001108,2026-11-06,Retailer_A,Ghee 500ml,Dairy,286.36,INR
+T000118,2026-10-16,Retailer_C,Rice 5kg,Staples,307.76,INR
+T001498,2026-10-19,Retailer_C,Dry Fruits 500g,Festive Goods,374.72,INR
+T000674,2026-10-11,Retailer_B,Wheat Flour 5kg,Staples,253.81,INR
+T000250,2026-11-15,Retailer_B,Sunflower Oil 1L,Cooking Oil,137.71,INR
+T001584,03/10/2026,Retailer_B,Detergent 1kg,Home Care,140.22,INR
+T000095,2026-11-13,Retailer_B,Rice 5kg,Staples,345.82,INR
+T000034,2026-11-03,Retailer_A,Rice 5kg,Staples,305.17,INR
+T001361,2026-11-04,Retailer_C,Chocolates Box,Festive Goods,257.1,INR
+T001557,27/10/2026,Retailer_A,Detergent 1kg,Home Care,138.34,INR
+T000449,2026-11-10,Retailer_C,Sugar 1kg,Staples,74.2,INR
+T000717,03/10/2026,Retailer_C,Wheat Flour 5kg,Staples,236.71,INR
+T001176,03/10/2026,Retailer_C,Ghee 500ml,Dairy,302.65,INR
+T001771,2026-11-06,Retailer_B,Biscuits Family Pack,Packaged Food,98.74,INR
+T000001,2026-10-01,Retailer_A,Rice 5kg,Staples,321.17,INR
+T001754,2026-10-20,Retailer_B,Biscuits Family Pack,Packaged Food,88.66,INR
+T001102,2026-10-31,Retailer_A,Ghee 500ml,Dairy,282.12,INR
+T000083,2026-11-01,Retailer_B,Rice 5kg,Staples,334.56,INR
+T001484,2026-10-05,Retailer_C,Dry Fruits 500g,Festive Goods,411.03,INR
+T000677,2026-10-14,Retailer_B,Wheat Flour 5kg,Staples,250.54,INR
+T001349,2026-10-23,Retailer_C,Chocolates Box,Festive Goods,250.53,INR
+T001047,27/10/2026,Retailer_C,Coffee 200g,Beverages,172.63,INR
+T000771,06/10/2026,Retailer_A,Tea 500g,Beverages,195.07,INR
+T001134,12/10/2026,Retailer_B,Ghee 500ml,Dairy,330.45,INR
+T001191,18/10/2026,Retailer_C,Ghee 500ml,Dairy,288.88,INR
+T001475,2026-11-16,Retailer_B,Dry Fruits 500g,Festive Goods,530.77,INR
+T001385,2026-10-08,Retailer_A,Dry Fruits 500g,Festive Goods,424.74,INR
+T000405,17/11/2026,Retailer_B,Sugar 1kg,Staples,,INR
+T001610,2026-10-29,Retailer_B,Detergent 1kg,Home Care,149.67,INR
+T001206,02/11/2026,Retailer_C,Ghee 500ml,Dairy,270.33,INR
+T000105,03/10/2026,Retailer_C,Rice 5kg,Staples,320.65,INR
+T000689,2026-10-26,Retailer_B,Wheat Flour 5kg,Staples,245.47,INR
+T001212,08/11/2026,Retailer_C,Ghee 500ml,Dairy,242.57,INR
+T000827,2026-10-11,Retailer_B,Tea 500g,Beverages,219.2,INR
+T000063,12/10/2026,Retailer_B,Rice 5kg,Staples,337.73,INR
+T000853,2026-11-06,Retailer_B,Tea 500g,Beverages,211.33,INR
+T001652,2026-10-20,Retailer_C,Detergent 1kg,Home Care,128.33,INR
+T000224,2026-10-20,Retailer_B,Sunflower Oil 1L,Cooking Oil,145.98,INR
+T000146,2026-11-13,Retailer_C,Rice 5kg,Staples,613.7,INR
+T001089,18/10/2026,Retailer_A,Ghee 500ml,Dairy,307.77,INR
+T000374,2026-10-17,Retailer_B,Sugar 1kg,Staples,45.91,INR
+T001318,2026-11-12,Retailer_B,Chocolates Box,Festive Goods,,INR
+T001698,15/10/2026,Retailer_A,Biscuits Family Pack,Packaged Food,,INR
+T001784,2026-11-19,Retailer_B,Biscuits Family Pack,Packaged Food,99.44,INR
+T001493,2026-10-14,Retailer_C,Dry Fruits 500g,Festive Goods,405.3,INR
+T001182,09/10/2026,Retailer_C,Ghee 500ml,Dairy,300.02,INR
+T000010,2026-10-10,Retailer_A,Rice 5kg,Staples,327.13,INR
+T000450,11/11/2026,Retailer_C,Sugar 1kg,Staples,75.41,INR
+T000709,2026-11-15,Retailer_B,Wheat Flour 5kg,Staples,,INR
+T000256,2026-10-01,Retailer_C,Sunflower Oil 1L,Cooking Oil,142.32,INR
+T000883,2026-10-16,Retailer_C,Tea 500g,Beverages,182.49,INR
+T000390,02/11/2026,Retailer_B,Sugar 1kg,Staples,45.9,INR
+T000909,11/11/2026,Retailer_C,Tea 500g,Beverages,204.34,INR
+T000925,2026-10-07,Retailer_A,Coffee 200g,Beverages,160.91,INR
+T001613,2026-11-01,Retailer_B,Detergent 1kg,Home Care,151.3,INR
+T001622,2026-11-10,Retailer_B,Detergent 1kg,Home Care,144.68,INR
+T000461,2026-10-02,Retailer_A,Toor Dal 1kg,Pulses,157.15,INR
+T001738,2026-10-04,Retailer_B,Biscuits Family Pack,Packaged Food,84.65,INR
+T000959,2026-11-10,Retailer_A,Coffee 200g,Beverages,316.48,INR
+T000502,2026-11-12,Retailer_A,Toor Dal 1kg,Pulses,146.86,INR
+T000740,2026-10-26,Retailer_C,Wheat Flour 5kg,Staples,242.98,INR
+T001718,2026-11-04,Retailer_A,Biscuits Family Pack,Packaged Food,88.91,INR
+T000869,2026-10-02,Retailer_C,Tea 500g,Beverages,210.33,INR
+T000732,18/10/2026,Retailer_C,Wheat Flour 5kg,Staples,239.93,INR
+T000540,30/10/2026,Retailer_B,Toor Dal 1kg,Pulses,181.42,INR
+T000698,2026-11-04,Retailer_B,Wheat Flour 5kg,Staples,260.56,INR
+T001304,2026-10-29,Retailer_B,Chocolates Box,Festive Goods,240.41,INR
+T001796,2026-10-11,Retailer_C,Biscuits Family Pack,Packaged Food,83.41,INR
+T001146,24/10/2026,Retailer_B,Ghee 500ml,Dairy,333.84,INR
+T001032,12/10/2026,Retailer_C,Coffee 200g,Beverages,162.01,INR
+T000373,2026-10-16,Retailer_B,Sugar 1kg,Staples,46.42,INR
+T000668,2026-10-05,Retailer_B,Wheat Flour 5kg,Staples,238.34,INR
+T001422,14/11/2026,Retailer_A,Dry Fruits 500g,Festive Goods,371.36,INR
+T000358,2026-10-01,Retailer_B,Sugar 1kg,Staples,48.32,INR
+T000968,2026-11-19,Retailer_A,Coffee 200g,Beverages,247.48,INR
+T000784,2026-10-19,Retailer_A,Tea 500g,Beverages,190.19,INR
+T000736,2026-10-22,Retailer_C,Wheat Flour 5kg,Staples,240.25,INR
+T001036,2026-10-16,Retailer_C,Coffee 200g,Beverages,168.64,INR
+T000971,2026-10-02,Retailer_B,Coffee 200g,Beverages,168.66,INR
+T001421,2026-11-13,Retailer_A,Dry Fruits 500g,Festive Goods,370.36,INR
+T001642,2026-10-10,Retailer_C,Detergent 1kg,Home Care,132.25,INR
+T001420,2026-11-12,Retailer_A,Dry Fruits 500g,Festive Goods,366.35,INR
+T001387,2026-10-10,Retailer_A,Dry Fruits 500g,Festive Goods,426.52,INR
+T001658,2026-10-26,Retailer_C,Detergent 1kg,Home Care,123.31,INR
+T001601,2026-10-20,Retailer_B,Detergent 1kg,Home Care,142.61,INR
+T000886,2026-10-19,Retailer_C,Tea 500g,Beverages,180.2,INR
+T000080,2026-10-29,Retailer_B,Rice 5kg,Staples,328.18,INR
+T000815,2026-11-19,Retailer_A,Tea 500g,Beverages,248.81,INR
+T001674,11/11/2026,Retailer_C,Detergent 1kg,Home Care,111.15,INR
+T000672,09/10/2026,Retailer_B,Wheat Flour 5kg,Staples,248.45,INR
+T001428,20/11/2026,Retailer_A,Dry Fruits 500g,Festive Goods,380.96,INR
+T000058,2026-10-07,Retailer_B,Rice 5kg,Staples,334.39,INR
+T000134,2026-11-01,Retailer_C,Rice 5kg,Staples,328.56,INR
+T001141,2026-10-19,Retailer_B,Ghee 500ml,Dairy,331.91,INR
+T000934,2026-10-16,Retailer_A,Coffee 200g,Beverages,148.78,INR
+T001703,2026-10-20,Retailer_A,Biscuits Family Pack,Packaged Food,85.93,INR
+T000824,2026-10-08,Retailer_B,Tea 500g,Beverages,220.44,INR
+T000505,2026-11-15,Retailer_A,Toor Dal 1kg,Pulses,148.12,INR
+T001651,2026-10-19,Retailer_C,Detergent 1kg,Home Care,130.0,INR
+T000348,11/11/2026,Retailer_A,Sugar 1kg,Staples,65.71,INR
+T000387,30/10/2026,Retailer_B,Sugar 1kg,Staples,45.95,INR
+T001025,2026-10-05,Retailer_C,Coffee 200g,Beverages,161.23,INR
+T000895,2026-10-28,Retailer_C,Tea 500g,Beverages,188.29,INR
+T000829,2026-10-13,Retailer_B,Tea 500g,Beverages,218.87,INR
+T001757,2026-10-23,Retailer_B,Biscuits Family Pack,Packaged Food,91.18,INR
+T000476,2026-10-17,Retailer_A,Toor Dal 1kg,Pulses,157.09,INR
+T001734,20/11/2026,Retailer_A,Biscuits Family Pack,Packaged Food,85.48,INR
+T001358,2026-11-01,Retailer_C,Chocolates Box,Festive Goods,259.02,INR
+T000653,2026-11-10,Retailer_A,Wheat Flour 5kg,Staples,239.59,INR
+T000173,2026-10-20,Retailer_A,Sunflower Oil 1L,Cooking Oil,143.92,INR
+T001150,2026-10-28,Retailer_B,Ghee 500ml,Dairy,336.06,INR
+T000039,08/11/2026,Retailer_A,Rice 5kg,Staples,382.63,INR
+T000714,20/11/2026,Retailer_B,Wheat Flour 5kg,Staples,463.6,INR
+T000091,2026-11-09,Retailer_B,Rice 5kg,Staples,328.43,INR
+T001797,12/10/2026,Retailer_C,Biscuits Family Pack,Packaged Food,85.39,INR
+T000876,09/10/2026,Retailer_C,Tea 500g,Beverages,188.8,INR
+T001253,2026-10-29,Retailer_A,Chocolates Box,Festive Goods,273.72,INR
+T001094,2026-10-23,Retailer_A,Ghee 500ml,Dairy,286.34,INR
+T001156,2026-11-03,Retailer_B,Ghee 500ml,Dairy,331.49,INR
+T001264,2026-11-09,Retailer_A,Chocolates Box,Festive Goods,293.27,INR
+T001817,2026-11-01,Retailer_C,Biscuits Family Pack,Packaged Food,82.88,INR
+T000500,2026-11-10,Retailer_A,Toor Dal 1kg,Pulses,145.23,INR
+T000339,02/11/2026,Retailer_A,Sugar 1kg,Staples,39.66,INR
+T001189,2026-10-16,Retailer_C,Ghee 500ml,Dairy,297.08,INR
+T000029,2026-10-29,Retailer_A,Rice 5kg,Staples,319.89,INR
+T001229,2026-10-05,Retailer_A,Chocolates Box,Festive Goods,256.1,INR
+T001692,09/10/2026,Retailer_A,Biscuits Family Pack,Packaged Food,82.91,INR
+T000946,2026-10-28,Retailer_A,Coffee 200g,Beverages,133.38,INR
+T000170,2026-10-17,Retailer_A,Sunflower Oil 1L,Cooking Oil,143.98,INR
+T001303,2026-10-28,Retailer_B,Chocolates Box,Festive Goods,241.1,INR
+T001198,2026-10-25,Retailer_C,Ghee 500ml,Dairy,282.76,INR
+T000913,2026-11-15,Retailer_C,Tea 500g,Beverages,202.25,INR
+T000492,02/11/2026,Retailer_A,Toor Dal 1kg,Pulses,159.33,INR
+T000954,05/11/2026,Retailer_A,Coffee 200g,Beverages,127.31,INR
+T001098,27/10/2026,Retailer_A,Ghee 500ml,Dairy,283.38,INR
+T001033,2026-10-13,Retailer_C,Coffee 200g,Beverages,164.09,INR
+T000588,27/10/2026,Retailer_C,Toor Dal 1kg,Pulses,149.13,INR
+T000751,2026-11-06,Retailer_C,Wheat Flour 5kg,Staples,218.85,INR
+T000658,2026-11-15,Retailer_A,Wheat Flour 5kg,Staples,250.22,INR
+T000235,2026-10-31,Retailer_B,Sunflower Oil 1L,Cooking Oil,149.52,INR
+T000733,2026-10-19,Retailer_C,Wheat Flour 5kg,Staples,238.91,INR
+T001522,2026-11-12,Retailer_C,Dry Fruits 500g,Festive Goods,490.82,INR
+T001157,2026-11-04,Retailer_B,Ghee 500ml,Dairy,334.63,INR
+T001367,2026-11-10,Retailer_C,Chocolates Box,Festive Goods,431.2,INR
+T001518,08/11/2026,Retailer_C,Dry Fruits 500g,Festive Goods,489.9,INR
+T000935,2026-10-17,Retailer_A,Coffee 200g,Beverages,148.21,INR
+T001210,2026-11-06,Retailer_C,Ghee 500ml,Dairy,237.97,INR
+T001066,2026-11-15,Retailer_C,Coffee 200g,Beverages,227.43,INR
+T000109,2026-10-07,Retailer_C,Rice 5kg,Staples,319.99,INR
+T001437,09/10/2026,Retailer_B,Dry Fruits 500g,Festive Goods,437.76,INR
+T000569,2026-10-08,Retailer_C,Toor Dal 1kg,Pulses,152.97,INR
+T001168,2026-11-15,Retailer_B,Ghee 500ml,Dairy,334.65,INR
+T001175,2026-10-02,Retailer_C,Ghee 500ml,Dairy,304.96,INR
+T000891,24/10/2026,Retailer_C,Tea 500g,Beverages,183.72,INR
+T000948,30/10/2026,Retailer_A,Coffee 200g,Beverages,130.81,INR
+T001049,2026-10-29,Retailer_C,Coffee 200g,Beverages,169.15,INR
+T001254,30/10/2026,Retailer_A,Chocolates Box,Festive Goods,274.32,INR
+T001272,17/11/2026,Retailer_A,Chocolates Box,Festive Goods,279.97,INR
+T001344,18/10/2026,Retailer_C,Chocolates Box,Festive Goods,247.07,INR
+T000885,18/10/2026,Retailer_C,Tea 500g,Beverages,180.22,INR
+T001561,2026-10-31,Retailer_A,Detergent 1kg,Home Care,138.38,INR
+T000851,2026-11-04,Retailer_B,Tea 500g,Beverages,210.97,INR
+T000735,21/10/2026,Retailer_C,Wheat Flour 5kg,Staples,241.89,INR
+T000718,2026-10-04,Retailer_C,Wheat Flour 5kg,Staples,239.52,INR
+T000455,2026-11-16,Retailer_C,Sugar 1kg,Staples,74.72,INR
+T000265,2026-10-10,Retailer_C,Sunflower Oil 1L,Cooking Oil,144.61,INR
+T000076,2026-10-25,Retailer_B,Rice 5kg,Staples,,INR
+T000445,2026-11-06,Retailer_C,Sugar 1kg,Staples,43.31,INR
+T000396,08/11/2026,Retailer_B,Sugar 1kg,Staples,45.67,INR
+T000177,24/10/2026,Retailer_A,Sunflower Oil 1L,Cooking Oil,147.69,INR
+T001043,2026-10-23,Retailer_C,Coffee 200g,Beverages,173.8,INR
+T001618,2026-11-06,Retailer_B,Detergent 1kg,Home Care,143.25,INR
+T001300,2026-10-25,Retailer_B,Chocolates Box,Festive Goods,240.52,INR
+T001457,2026-10-29,Retailer_B,Dry Fruits 500g,Festive Goods,418.1,INR
+T000596,2026-11-04,Retailer_C,Toor Dal 1kg,Pulses,153.0,INR
+T000062,2026-10-11,Retailer_B,Rice 5kg,Staples,340.34,INR
+T000873,06/10/2026,Retailer_C,Tea 500g,Beverages,210.63,INR
+T001386,09/10/2026,Retailer_A,Dry Fruits 500g,Festive Goods,421.58,INR
+T001744,2026-10-10,Retailer_B,Biscuits Family Pack,Packaged Food,86.75,INR
+T000279,24/10/2026,Retailer_C,Sunflower Oil 1L,Cooking Oil,144.94,INR
+T000037,2026-11-06,Retailer_A,Rice 5kg,Staples,386.04,INR
+T001774,2026-11-09,Retailer_B,Biscuits Family Pack,Packaged Food,100.78,INR
+T000663,20/11/2026,Retailer_A,Wheat Flour 5kg,Staples,251.36,INR
+T001679,2026-11-16,Retailer_C,Detergent 1kg,Home Care,110.87,INR
+T001342,2026-10-16,Retailer_C,Chocolates Box,Festive Goods,249.68,INR
+T000978,09/10/2026,Retailer_B,Coffee 200g,Beverages,166.71,INR
+T001466,2026-11-07,Retailer_B,Dry Fruits 500g,Festive Goods,546.09,INR
+T000739,2026-10-25,Retailer_C,Wheat Flour 5kg,Staples,237.29,INR
+T000192,08/11/2026,Retailer_A,Sunflower Oil 1L,Cooking Oil,135.49,INR
+T000920,2026-10-02,Retailer_A,Coffee 200g,Beverages,165.93,INR
+T000457,2026-11-18,Retailer_C,Sugar 1kg,Staples,75.78,INR
+T000676,2026-10-13,Retailer_B,Wheat Flour 5kg,Staples,250.01,INR
+T000761,2026-11-16,Retailer_C,Wheat Flour 5kg,Staples,300.01,INR
+T001680,17/11/2026,Retailer_C,Detergent 1kg,Home Care,112.34,INR
+T000729,15/10/2026,Retailer_C,Wheat Flour 5kg,Staples,242.58,INR
+T000413,2026-10-05,Retailer_C,Sugar 1kg,Staples,45.31,INR
+T001099,2026-10-28,Retailer_A,Ghee 500ml,Dairy,285.0,INR
+T000826,2026-10-10,Retailer_B,Tea 500g,Beverages,223.42,INR
+T001393,2026-10-16,Retailer_A,Dry Fruits 500g,Festive Goods,383.65,INR
+T000617,2026-10-05,Retailer_A,Wheat Flour 5kg,Staples,236.73,INR
+T000115,2026-10-13,Retailer_C,Rice 5kg,Staples,322.8,INR
+T000418,2026-10-10,Retailer_C,Sugar 1kg,Staples,46.47,INR
+T001772,2026-11-07,Retailer_B,Biscuits Family Pack,Packaged Food,101.14,INR
+T000970,2026-10-01,Retailer_B,Coffee 200g,Beverages,169.74,INR
+T000605,2026-11-13,Retailer_C,Toor Dal 1kg,Pulses,143.15,INR
+T001779,14/11/2026,Retailer_B,Biscuits Family Pack,Packaged Food,100.44,INR
+T000090,08/11/2026,Retailer_B,Rice 5kg,Staples,333.33,INR
+T000849,02/11/2026,Retailer_B,Tea 500g,Beverages,211.17,INR
+T001515,05/11/2026,Retailer_C,Dry Fruits 500g,Festive Goods,391.5,INR
+T001778,2026-11-13,Retailer_B,Biscuits Family Pack,Packaged Food,102.09,INR
+T000754,2026-11-09,Retailer_C,Wheat Flour 5kg,Staples,309.07,INR
+T000499,2026-11-09,Retailer_A,Toor Dal 1kg,Pulses,144.16,INR
+T001277,2026-10-02,Retailer_B,Chocolates Box,Festive Goods,258.83,INR
+T000012,12/10/2026,Retailer_A,Rice 5kg,Staples,331.19,INR
+T000397,2026-11-09,Retailer_B,Sugar 1kg,Staples,45.6,INR
+T000285,30/10/2026,Retailer_C,Sunflower Oil 1L,Cooking Oil,122.54,INR
+T001067,2026-11-16,Retailer_C,Coffee 200g,Beverages,225.21,INR
+T001192,2026-10-19,Retailer_C,Ghee 500ml,Dairy,291.55,INR
+T001625,2026-11-13,Retailer_B,Detergent 1kg,Home Care,,INR
+T000691,2026-10-28,Retailer_B,Wheat Flour 5kg,Staples,246.05,INR
+T001628,2026-11-16,Retailer_B,Detergent 1kg,Home Care,141.49,INR
+T001741,2026-10-07,Retailer_B,Biscuits Family Pack,Packaged Food,86.3,INR
+T000690,27/10/2026,Retailer_B,Wheat Flour 5kg,Staples,,INR
+T000852,05/11/2026,Retailer_B,Tea 500g,Beverages,214.71,INR
+T000160,2026-10-07,Retailer_A,Sunflower Oil 1L,Cooking Oil,143.69,INR
+T000896,2026-10-29,Retailer_C,Tea 500g,Beverages,189.23,INR
+T001470,11/11/2026,Retailer_B,Dry Fruits 500g,Festive Goods,533.08,INR
+T000258,03/10/2026,Retailer_C,Sunflower Oil 1L,Cooking Oil,142.76,INR
+T000336,30/10/2026,Retailer_A,Sugar 1kg,Staples,39.14,INR
+T001745,2026-10-11,Retailer_B,Biscuits Family Pack,Packaged Food,86.67,INR
+T001040,2026-10-20,Retailer_C,Coffee 200g,Beverages,173.04,INR
+T000516,06/10/2026,Retailer_B,Toor Dal 1kg,Pulses,160.76,INR
+T001016,2026-11-16,Retailer_B,Coffee 200g,Beverages,285.39,INR
+T000769,2026-10-04,Retailer_A,Tea 500g,Beverages,214.0,INR
+T001627,2026-11-15,Retailer_B,Detergent 1kg,Home Care,138.68,INR
+T000762,17/11/2026,Retailer_C,Wheat Flour 5kg,Staples,302.79,INR
+T001247,2026-10-23,Retailer_A,Chocolates Box,Festive Goods,266.23,INR
+T001204,2026-10-31,Retailer_C,Ghee 500ml,Dairy,280.14,INR
+T001365,08/11/2026,Retailer_C,Chocolates Box,Festive Goods,421.04,INR
+T001223,2026-11-19,Retailer_C,Ghee 500ml,Dairy,242.84,INR
+T000522,12/10/2026,Retailer_B,Toor Dal 1kg,Pulses,175.45,INR
+T000023,2026-10-23,Retailer_A,Rice 5kg,Staples,333.88,INR
+T000357,20/11/2026,Retailer_A,Sugar 1kg,Staples,52.93,INR
+T001278,03/10/2026,Retailer_B,Chocolates Box,Festive Goods,257.12,INR
+T001313,2026-11-07,Retailer_B,Chocolates Box,Festive Goods,208.56,INR
+T001570,2026-11-09,Retailer_A,Detergent 1kg,Home Care,144.55,INR
+T000341,2026-11-04,Retailer_A,Sugar 1kg,Staples,40.65,INR
+T000432,24/10/2026,Retailer_C,Sugar 1kg,Staples,44.55,INR
+T000474,15/10/2026,Retailer_A,Toor Dal 1kg,Pulses,155.89,INR
+T000218,2026-10-14,Retailer_B,Sunflower Oil 1L,Cooking Oil,143.65,INR
+T000912,14/11/2026,Retailer_C,Tea 500g,Beverages,205.19,INR
+T001228,2026-10-04,Retailer_A,Chocolates Box,Festive Goods,250.41,INR
+T001489,2026-10-10,Retailer_C,Dry Fruits 500g,Festive Goods,405.02,INR
+T001012,2026-11-12,Retailer_B,Coffee 200g,Beverages,276.33,INR
+T001808,2026-10-23,Retailer_C,Biscuits Family Pack,Packaged Food,85.86,INR
+T000094,2026-11-12,Retailer_B,Rice 5kg,Staples,340.08,INR
+T001009,2026-11-09,Retailer_B,Coffee 200g,Beverages,274.8,INR
+T001071,20/11/2026,Retailer_C,Coffee 200g,Beverages,226.74,INR
+T001093,2026-10-22,Retailer_A,Ghee 500ml,Dairy,282.83,INR
+T001640,2026-10-08,Retailer_C,Detergent 1kg,Home Care,132.18,INR
+T001309,2026-11-03,Retailer_B,Chocolates Box,Festive Goods,241.79,INR
+T000697,2026-11-03,Retailer_B,Wheat Flour 5kg,Staples,260.47,INR
+T001668,05/11/2026,Retailer_C,Detergent 1kg,Home Care,105.81,INR
+T000997,2026-10-28,Retailer_B,Coffee 200g,Beverages,152.63,INR
+T000154,2026-10-01,Retailer_A,Sunflower Oil 1L,Cooking Oil,145.76,INR
+T001100,2026-10-29,Retailer_A,Ghee 500ml,Dairy,287.08,INR
+T001604,2026-10-23,Retailer_B,Detergent 1kg,Home Care,142.26,INR
+T001171,2026-11-18,Retailer_B,Ghee 500ml,Dairy,328.89,INR
+T000790,2026-10-25,Retailer_A,Tea 500g,Beverages,189.15,INR
+T000581,2026-10-20,Retailer_C,Toor Dal 1kg,Pulses,145.22,INR
+T000704,2026-11-10,Retailer_B,Wheat Flour 5kg,Staples,453.65,INR
+T001213,2026-11-09,Retailer_C,Ghee 500ml,Dairy,244.94,INR
+T001296,21/10/2026,Retailer_B,Chocolates Box,Festive Goods,246.92,INR
+T001555,2026-10-25,Retailer_A,Detergent 1kg,Home Care,138.83,INR
+T001261,2026-11-06,Retailer_A,Chocolates Box,Festive Goods,289.42,INR
+T000488,2026-10-29,Retailer_A,Toor Dal 1kg,Pulses,158.53,INR
+T000560,2026-11-19,Retailer_B,Toor Dal 1kg,Pulses,171.73,INR
+T001142,2026-10-20,Retailer_B,Ghee 500ml,Dairy,334.39,INR
+T001120,2026-11-18,Retailer_A,Ghee 500ml,Dairy,269.36,INR
+T000802,2026-11-06,Retailer_A,Tea 500g,Beverages,189.46,INR
+T000513,03/10/2026,Retailer_B,Toor Dal 1kg,Pulses,159.27,INR
+T000634,2026-10-22,Retailer_A,Wheat Flour 5kg,Staples,207.93,INR
+T001375,2026-11-18,Retailer_C,Chocolates Box,Festive Goods,346.81,INR
+T001663,2026-10-31,Retailer_C,Detergent 1kg,Home Care,113.83,INR
+T001151,2026-10-29,Retailer_B,Ghee 500ml,Dairy,339.24,INR
+T000791,2026-10-26,Retailer_A,Tea 500g,Beverages,195.76,INR
+T000117,15/10/2026,Retailer_C,Rice 5kg,Staples,311.73,INR
+T000741,27/10/2026,Retailer_C,Wheat Flour 5kg,Staples,243.18,INR
+T001577,2026-11-16,Retailer_A,Detergent 1kg,Home Care,143.97,INR
+T001082,2026-10-11,Retailer_A,Ghee 500ml,Dairy,310.87,INR
+T000831,15/10/2026,Retailer_B,Tea 500g,Beverages,225.66,INR
+T000120,18/10/2026,Retailer_C,Rice 5kg,Staples,312.61,INR
+T000657,14/11/2026,Retailer_A,Wheat Flour 5kg,Staples,252.64,INR
+T001769,2026-11-04,Retailer_B,Biscuits Family Pack,Packaged Food,98.25,INR
+T000636,24/10/2026,Retailer_A,Wheat Flour 5kg,Staples,207.36,INR
+T000370,2026-10-13,Retailer_B,Sugar 1kg,Staples,46.0,INR
+T000269,2026-10-14,Retailer_C,Sunflower Oil 1L,Cooking Oil,146.86,INR
+T000656,2026-11-13,Retailer_A,Wheat Flour 5kg,Staples,244.68,INR
+T000936,18/10/2026,Retailer_A,Coffee 200g,Beverages,146.26,INR
+T000823,2026-10-07,Retailer_B,Tea 500g,Beverages,218.76,INR
+T000867,20/11/2026,Retailer_B,Tea 500g,Beverages,200.79,INR
+T000047,2026-11-16,Retailer_A,Rice 5kg,Staples,363.11,INR
+T001374,17/11/2026,Retailer_C,Chocolates Box,Festive Goods,347.29,INR
+T001594,2026-10-13,Retailer_B,Detergent 1kg,Home Care,141.85,INR
+T000992,2026-10-23,Retailer_B,Coffee 200g,Beverages,159.45,INR
+T000877,2026-10-10,Retailer_C,Tea 500g,Beverages,188.06,INR
+T000774,09/10/2026,Retailer_A,Tea 500g,Beverages,193.87,INR
+T001220,2026-11-16,Retailer_C,Ghee 500ml,Dairy,237.83,INR
+T000746,2026-11-01,Retailer_C,Wheat Flour 5kg,Staples,234.24,INR
+T000005,2026-10-05,Retailer_A,Rice 5kg,Staples,316.9,INR
+T001004,2026-11-04,Retailer_B,Coffee 200g,Beverages,153.11,INR
+T001607,2026-10-26,Retailer_B,Detergent 1kg,Home Care,143.48,INR
+T000264,09/10/2026,Retailer_C,Sunflower Oil 1L,Cooking Oil,,INR
+T001464,05/11/2026,Retailer_B,Dry Fruits 500g,Festive Goods,,INR
+T001701,18/10/2026,Retailer_A,Biscuits Family Pack,Packaged Food,87.18,INR
+T000444,05/11/2026,Retailer_C,Sugar 1kg,Staples,42.5,INR
+T001003,2026-11-03,Retailer_B,Coffee 200g,Beverages,153.68,INR
+T001078,2026-10-07,Retailer_A,Ghee 500ml,Dairy,309.79,INR
+T000838,2026-10-22,Retailer_B,Tea 500g,Beverages,216.91,INR
+T001666,2026-11-03,Retailer_C,Detergent 1kg,Home Care,110.68,INR
+T000305,2026-11-19,Retailer_C,Sunflower Oil 1L,Cooking Oil,118.81,INR
+T001366,2026-11-09,Retailer_C,Chocolates Box,Festive Goods,429.76,INR
+T001781,2026-11-16,Retailer_B,Biscuits Family Pack,Packaged Food,101.65,INR
+T000314,2026-10-08,Retailer_A,Sugar 1kg,Staples,43.75,INR
+T000150,17/11/2026,Retailer_C,Rice 5kg,Staples,599.7,INR
+T001149,27/10/2026,Retailer_B,Ghee 500ml,Dairy,337.63,INR
+T001214,2026-11-10,Retailer_C,Ghee 500ml,Dairy,247.19,INR
+T000575,2026-10-14,Retailer_C,Toor Dal 1kg,Pulses,150.07,INR
+T000051,20/11/2026,Retailer_A,Rice 5kg,Staples,357.59,INR
+T001447,2026-10-19,Retailer_B,Dry Fruits 500g,Festive Goods,394.68,INR
+T000727,2026-10-13,Retailer_C,Wheat Flour 5kg,Staples,237.83,INR
+T000834,18/10/2026,Retailer_B,Tea 500g,Beverages,223.04,INR
+T001378,2026-10-01,Retailer_A,Dry Fruits 500g,Festive Goods,424.94,INR
+T001116,14/11/2026,Retailer_A,Ghee 500ml,Dairy,275.28,INR
+T001167,14/11/2026,Retailer_B,Ghee 500ml,Dairy,337.47,INR
+T000471,12/10/2026,Retailer_A,Toor Dal 1kg,Pulses,158.34,INR
+T000972,03/10/2026,Retailer_B,Coffee 200g,Beverages,167.75,INR
+T000654,11/11/2026,Retailer_A,Wheat Flour 5kg,Staples,242.11,INR
+T000400,2026-11-12,Retailer_B,Sugar 1kg,Staples,,INR
+T000512,2026-10-02,Retailer_B,Toor Dal 1kg,Pulses,,INR
+T000321,15/10/2026,Retailer_A,Sugar 1kg,Staples,43.67,INR
+T000020,2026-10-20,Retailer_A,Rice 5kg,Staples,338.35,INR
+T000685,2026-10-22,Retailer_B,Wheat Flour 5kg,Staples,245.73,INR
+T000036,05/11/2026,Retailer_A,Rice 5kg,Staples,303.59,INR
+T000903,05/11/2026,Retailer_C,Tea 500g,Beverages,159.85,INR
+T000828,12/10/2026,Retailer_B,Tea 500g,Beverages,217.8,INR
+T001671,08/11/2026,Retailer_C,Detergent 1kg,Home Care,111.29,INR
+T000408,20/11/2026,Retailer_B,Sugar 1kg,Staples,43.83,INR
+T000921,03/10/2026,Retailer_A,Coffee 200g,Beverages,167.01,INR
+T000538,2026-10-28,Retailer_B,Toor Dal 1kg,Pulses,177.71,INR
+T000759,14/11/2026,Retailer_C,Wheat Flour 5kg,Staples,303.62,INR
+T001063,2026-11-12,Retailer_C,Coffee 200g,Beverages,232.47,INR
+T001200,27/10/2026,Retailer_C,Ghee 500ml,Dairy,279.86,INR
+T000246,11/11/2026,Retailer_B,Sunflower Oil 1L,Cooking Oil,152.62,INR
+T001417,2026-11-09,Retailer_A,Dry Fruits 500g,Festive Goods,359.95,INR
+T001128,06/10/2026,Retailer_B,Ghee 500ml,Dairy,324.75,INR
+T000785,2026-10-20,Retailer_A,Tea 500g,Beverages,189.48,INR
+T001623,11/11/2026,Retailer_B,Detergent 1kg,Home Care,141.41,INR
+T000490,2026-10-31,Retailer_A,Toor Dal 1kg,Pulses,160.24,INR
+T000155,2026-10-02,Retailer_A,Sunflower Oil 1L,Cooking Oil,146.53,INR
+T000962,2026-11-13,Retailer_A,Coffee 200g,Beverages,275.45,INR
+T000854,2026-11-07,Retailer_B,Tea 500g,Beverages,209.87,INR
+T001312,2026-11-06,Retailer_B,Chocolates Box,Festive Goods,205.12,INR
+T000626,2026-10-14,Retailer_A,Wheat Flour 5kg,Staples,250.85,INR
+T000686,2026-10-23,Retailer_B,Wheat Flour 5kg,Staples,251.22,INR
+T001456,2026-10-28,Retailer_B,Dry Fruits 500g,Festive Goods,411.27,INR
+T000570,09/10/2026,Retailer_C,Toor Dal 1kg,Pulses,150.79,INR
+T001770,05/11/2026,Retailer_B,Biscuits Family Pack,Packaged Food,97.51,INR
+T000018,18/10/2026,Retailer_A,Rice 5kg,Staples,342.2,INR
+T000128,2026-10-26,Retailer_C,Rice 5kg,Staples,326.44,INR
+T001347,21/10/2026,Retailer_C,Chocolates Box,Festive Goods,247.43,INR
+T001280,2026-10-05,Retailer_B,Chocolates Box,Festive Goods,258.73,INR
+T001827,11/11/2026,Retailer_C,Biscuits Family Pack,Packaged Food,81.99,INR
+T000928,2026-10-10,Retailer_A,Coffee 200g,Beverages,160.62,INR
+T000981,12/10/2026,Retailer_B,Coffee 200g,Beverages,166.66,INR
+T001823,2026-11-07,Retailer_C,Biscuits Family Pack,Packaged Food,87.3,INR
+T000191,2026-11-07,Retailer_A,Sunflower Oil 1L,Cooking Oil,135.04,INR
+T001140,18/10/2026,Retailer_B,Ghee 500ml,Dairy,328.95,INR
+T000993,24/10/2026,Retailer_B,Coffee 200g,Beverages,157.99,INR
+T001814,2026-10-29,Retailer_C,Biscuits Family Pack,Packaged Food,82.99,INR
+T001546,2026-10-16,Retailer_A,Detergent 1kg,Home Care,144.27,INR
+T000607,2026-11-15,Retailer_C,Toor Dal 1kg,Pulses,137.25,INR
+T000181,2026-10-28,Retailer_A,Sunflower Oil 1L,Cooking Oil,148.83,INR
+T000302,2026-11-16,Retailer_C,Sunflower Oil 1L,Cooking Oil,117.09,INR
+T000497,2026-11-07,Retailer_A,Toor Dal 1kg,Pulses,146.43,INR
+T001582,2026-10-01,Retailer_B,Detergent 1kg,Home Care,138.68,INR
+T001595,2026-10-14,Retailer_B,Detergent 1kg,Home Care,139.92,INR
+T001551,21/10/2026,Retailer_A,Detergent 1kg,Home Care,141.9,INR
+T001528,2026-11-18,Retailer_C,Dry Fruits 500g,Festive Goods,501.49,INR
+T000518,2026-10-08,Retailer_B,Toor Dal 1kg,Pulses,168.4,INR
+T000066,15/10/2026,Retailer_B,Rice 5kg,Staples,320.09,INR
+T001070,2026-11-19,Retailer_C,Coffee 200g,Beverages,225.56,INR
+T000477,18/10/2026,Retailer_A,Toor Dal 1kg,Pulses,157.51,INR
+T000158,2026-10-05,Retailer_A,Sunflower Oil 1L,Cooking Oil,142.74,INR
+T001244,2026-10-20,Retailer_A,Chocolates Box,Festive Goods,260.13,INR
+T001196,2026-10-23,Retailer_C,Ghee 500ml,Dairy,293.59,INR
+T000017,2026-10-17,Retailer_A,Rice 5kg,Staples,339.69,INR
+T001073,2026-10-02,Retailer_A,Ghee 500ml,Dairy,312.01,INR
+T001830,14/11/2026,Retailer_C,Biscuits Family Pack,Packaged Food,78.14,INR
+T000547,2026-11-06,Retailer_B,Toor Dal 1kg,Pulses,184.4,INR
+T000659,2026-11-16,Retailer_A,Wheat Flour 5kg,Staples,251.54,INR
+T001834,2026-11-18,Retailer_C,Biscuits Family Pack,Packaged Food,78.19,INR
+T001020,20/11/2026,Retailer_B,Coffee 200g,Beverages,284.55,INR
+T001552,2026-10-22,Retailer_A,Detergent 1kg,Home Care,141.29,INR
+T000960,11/11/2026,Retailer_A,Coffee 200g,Beverages,311.39,INR
+T001747,2026-10-13,Retailer_B,Biscuits Family Pack,Packaged Food,84.89,INR
+T000284,2026-10-29,Retailer_C,Sunflower Oil 1L,Cooking Oil,138.22,INR
+T000798,02/11/2026,Retailer_A,Tea 500g,Beverages,192.54,INR
+T001517,2026-11-07,Retailer_C,Dry Fruits 500g,Festive Goods,497.35,INR
+T000226,2026-10-22,Retailer_B,Sunflower Oil 1L,Cooking Oil,149.16,INR
+T000027,27/10/2026,Retailer_A,Rice 5kg,Staples,323.6,INR
+T001647,15/10/2026,Retailer_C,Detergent 1kg,Home Care,129.7,INR
+T000438,30/10/2026,Retailer_C,Sugar 1kg,Staples,43.43,INR
+T001812,27/10/2026,Retailer_C,Biscuits Family Pack,Packaged Food,82.68,INR
+T001389,12/10/2026,Retailer_A,Dry Fruits 500g,Festive Goods,435.11,INR
+T000230,2026-10-26,Retailer_B,Sunflower Oil 1L,Cooking Oil,152.38,INR
+T000038,2026-11-07,Retailer_A,Rice 5kg,Staples,384.06,INR
+T000750,05/11/2026,Retailer_C,Wheat Flour 5kg,Staples,218.04,INR
+T001046,2026-10-26,Retailer_C,Coffee 200g,Beverages,174.32,INR
+T001399,2026-10-22,Retailer_A,Dry Fruits 500g,Festive Goods,368.56,INR
+T000470,2026-10-11,Retailer_A,Toor Dal 1kg,Pulses,155.33,INR
+T001579,2026-11-18,Retailer_A,Detergent 1kg,Home Care,133.86,INR
+T001826,2026-11-10,Retailer_C,Biscuits Family Pack,Packaged Food,87.9,INR
+T000688,2026-10-25,Retailer_B,Wheat Flour 5kg,Staples,246.43,INR
+T001712,2026-10-29,Retailer_A,Biscuits Family Pack,Packaged Food,89.09,INR
+T000640,2026-10-28,Retailer_A,Wheat Flour 5kg,Staples,201.37,INR
+T001664,2026-11-01,Retailer_C,Detergent 1kg,Home Care,111.07,INR
+T001219,2026-11-15,Retailer_C,Ghee 500ml,Dairy,235.23,INR
+T001159,2026-11-06,Retailer_B,Ghee 500ml,Dairy,330.1,INR
+T001416,08/11/2026,Retailer_A,Dry Fruits 500g,Festive Goods,351.98,INR
+T001545,15/10/2026,Retailer_A,Detergent 1kg,Home Care,142.79,INR
+T001301,2026-10-26,Retailer_B,Chocolates Box,Festive Goods,240.46,INR
+T001694,2026-10-11,Retailer_A,Biscuits Family Pack,Packaged Food,83.16,INR
+T000801,05/11/2026,Retailer_A,Tea 500g,Beverages,189.44,INR
+T000161,2026-10-08,Retailer_A,Sunflower Oil 1L,Cooking Oil,144.95,INR
+T000957,08/11/2026,Retailer_A,Coffee 200g,Beverages,316.98,INR
+T001187,2026-10-14,Retailer_C,Ghee 500ml,Dairy,295.52,INR
+T000822,06/10/2026,Retailer_B,Tea 500g,Beverages,215.58,INR
+T001569,08/11/2026,Retailer_A,Detergent 1kg,Home Care,144.11,INR
+T000878,2026-10-11,Retailer_C,Tea 500g,Beverages,187.73,INR
+T000914,2026-11-16,Retailer_C,Tea 500g,Beverages,,INR
+T000153,20/11/2026,Retailer_C,Rice 5kg,Staples,613.86,INR
+T001816,2026-10-31,Retailer_C,Biscuits Family Pack,Packaged Food,83.74,INR
+T001653,21/10/2026,Retailer_C,Detergent 1kg,Home Care,127.1,INR
+T000510,20/11/2026,Retailer_A,Toor Dal 1kg,Pulses,149.55,INR
+T001136,2026-10-14,Retailer_B,Ghee 500ml,Dairy,337.14,INR
+T001251,27/10/2026,Retailer_A,Chocolates Box,Festive Goods,270.11,INR
+T001553,2026-10-23,Retailer_A,Detergent 1kg,Home Care,138.88,INR
+T000104,2026-10-02,Retailer_C,Rice 5kg,Staples,318.78,INR
+T001446,18/10/2026,Retailer_B,Dry Fruits 500g,Festive Goods,394.93,INR
+T001444,2026-10-16,Retailer_B,Dry Fruits 500g,Festive Goods,423.71,INR
+T000587,2026-10-26,Retailer_C,Toor Dal 1kg,Pulses,151.36,INR
+T001645,2026-10-13,Retailer_C,Detergent 1kg,Home Care,130.87,INR
+T001144,2026-10-22,Retailer_B,Ghee 500ml,Dairy,326.39,INR
+T000054,03/10/2026,Retailer_B,Rice 5kg,Staples,329.24,INR
+T000152,2026-11-19,Retailer_C,Rice 5kg,Staples,601.36,INR
+T000404,2026-11-16,Retailer_B,Sugar 1kg,Staples,44.79,INR
+T001802,2026-10-17,Retailer_C,Biscuits Family Pack,Packaged Food,86.49,INR
+T000208,2026-10-04,Retailer_B,Sunflower Oil 1L,Cooking Oil,148.72,INR
+T001759,2026-10-25,Retailer_B,Biscuits Family Pack,Packaged Food,95.4,INR
+T001123,2026-10-01,Retailer_B,Ghee 500ml,Dairy,317.96,INR
+T001630,2026-11-18,Retailer_B,Detergent 1kg,Home Care,139.43,INR
+T000009,09/10/2026,Retailer_A,Rice 5kg,Staples,323.72,INR
+T001015,2026-11-15,Retailer_B,Coffee 200g,Beverages,282.73,INR
+T001670,2026-11-07,Retailer_C,Detergent 1kg,Home Care,110.78,INR
+T001061,2026-11-10,Retailer_C,Coffee 200g,Beverages,233.56,INR
+T000453,14/11/2026,Retailer_C,Sugar 1kg,Staples,75.08,INR
+T000254,2026-11-19,Retailer_B,Sunflower Oil 1L,Cooking Oil,136.5,INR
+T001328,2026-10-02,Retailer_C,Chocolates Box,Festive Goods,241.87,INR
+T000897,30/10/2026,Retailer_C,Tea 500g,Beverages,189.43,INR
+T001616,2026-11-04,Retailer_B,Detergent 1kg,Home Care,145.78,INR
+T000881,2026-10-14,Retailer_C,Tea 500g,Beverages,186.8,INR
+T001753,2026-10-19,Retailer_B,Biscuits Family Pack,Packaged Food,87.25,INR
+T000624,12/10/2026,Retailer_A,Wheat Flour 5kg,Staples,244.4,INR
+T000346,2026-11-09,Retailer_A,Sugar 1kg,Staples,66.06,INR
+T001589,2026-10-08,Retailer_B,Detergent 1kg,Home Care,143.86,INR
+T000263,2026-10-08,Retailer_C,Sunflower Oil 1L,Cooking Oil,141.72,INR
+T001322,2026-11-16,Retailer_B,Chocolates Box,Festive Goods,214.85,INR
+T001439,2026-10-11,Retailer_B,Dry Fruits 500g,Festive Goods,424.9,INR
+T000151,2026-11-18,Retailer_C,Rice 5kg,Staples,592.12,INR
+T000473,2026-10-14,Retailer_A,Toor Dal 1kg,Pulses,156.37,INR
+T000641,2026-10-29,Retailer_A,Wheat Flour 5kg,Staples,195.22,INR
+T000856,2026-11-09,Retailer_B,Tea 500g,Beverages,210.45,INR
+T001748,2026-10-14,Retailer_B,Biscuits Family Pack,Packaged Food,83.53,INR
+T000551,2026-11-10,Retailer_B,Toor Dal 1kg,Pulses,181.6,INR
+T000929,2026-10-11,Retailer_A,Coffee 200g,Beverages,149.04,INR
+T000489,30/10/2026,Retailer_A,Toor Dal 1kg,Pulses,159.99,INR
+T001684,2026-10-01,Retailer_A,Biscuits Family Pack,Packaged Food,85.74,INR
+T001172,2026-11-19,Retailer_B,Ghee 500ml,Dairy,326.78,INR
+T000147,14/11/2026,Retailer_C,Rice 5kg,Staples,610.96,INR
+T001806,21/10/2026,Retailer_C,Biscuits Family Pack,Packaged Food,86.85,INR
+T001789,2026-10-04,Retailer_C,Biscuits Family Pack,Packaged Food,86.75,INR
+T000403,2026-11-15,Retailer_B,Sugar 1kg,Staples,45.05,INR
+T000955,2026-11-06,Retailer_A,Coffee 200g,Beverages,177.39,INR
+T001743,09/10/2026,Retailer_B,Biscuits Family Pack,Packaged Food,85.94,INR
+T000660,17/11/2026,Retailer_A,Wheat Flour 5kg,Staples,248.42,INR
+T001373,2026-11-16,Retailer_C,Chocolates Box,Festive Goods,351.64,INR
+T000464,2026-10-05,Retailer_A,Toor Dal 1kg,Pulses,159.27,INR
+T001350,24/10/2026,Retailer_C,Chocolates Box,Festive Goods,252.84,INR
+T000187,2026-11-03,Retailer_A,Sunflower Oil 1L,Cooking Oil,153.24,INR
+T001148,2026-10-26,Retailer_B,Ghee 500ml,Dairy,,INR
+T001225,2026-10-01,Retailer_A,Chocolates Box,Festive Goods,,INR
+T000609,17/11/2026,Retailer_C,Toor Dal 1kg,Pulses,137.83,INR
+T000144,11/11/2026,Retailer_C,Rice 5kg,Staples,631.86,INR
+T000752,2026-11-07,Retailer_C,Wheat Flour 5kg,Staples,309.44,INR
+T001535,2026-10-05,Retailer_A,Detergent 1kg,Home Care,139.39,INR
+T000982,2026-10-13,Retailer_B,Coffee 200g,Beverages,165.08,INR
+T000198,14/11/2026,Retailer_A,Sunflower Oil 1L,Cooking Oil,133.07,INR
+T000884,2026-10-17,Retailer_C,Tea 500g,Beverages,184.59,INR
+T000280,2026-10-25,Retailer_C,Sunflower Oil 1L,Cooking Oil,143.39,INR
+T000294,08/11/2026,Retailer_C,Sunflower Oil 1L,Cooking Oil,122.12,INR
+T001695,12/10/2026,Retailer_A,Biscuits Family Pack,Packaged Food,83.77,INR
+T000401,2026-11-13,Retailer_B,Sugar 1kg,Staples,45.12,INR
+T000123,21/10/2026,Retailer_C,Rice 5kg,Staples,309.71,INR
+T001208,2026-11-04,Retailer_C,Ghee 500ml,Dairy,258.22,INR
+T000203,2026-11-19,Retailer_A,Sunflower Oil 1L,Cooking Oil,131.52,INR
+T001463,2026-11-04,Retailer_B,Dry Fruits 500g,Festive Goods,448.49,INR
+T000836,2026-10-20,Retailer_B,Tea 500g,Beverages,223.3,INR
+T000247,2026-11-12,Retailer_B,Sunflower Oil 1L,Cooking Oil,152.1,INR
+T001440,12/10/2026,Retailer_B,Dry Fruits 500g,Festive Goods,427.61,INR
+T001765,2026-10-31,Retailer_B,Biscuits Family Pack,Packaged Food,98.22,INR
+T001746,12/10/2026,Retailer_B,Biscuits Family Pack,Packaged Food,84.7,INR
+T001154,2026-11-01,Retailer_B,Ghee 500ml,Dairy,334.65,INR
+T001427,2026-11-19,Retailer_A,Dry Fruits 500g,Festive Goods,376.19,INR
+T000385,2026-10-28,Retailer_B,Sugar 1kg,Staples,47.41,INR
+T001636,2026-10-04,Retailer_C,Detergent 1kg,Home Care,131.11,INR
+T000855,08/11/2026,Retailer_B,Tea 500g,Beverages,212.12,INR
+T001590,09/10/2026,Retailer_B,Detergent 1kg,Home Care,144.54,INR
+T000220,2026-10-16,Retailer_B,Sunflower Oil 1L,Cooking Oil,142.2,INR
+T000642,30/10/2026,Retailer_A,Wheat Flour 5kg,Staples,196.99,INR
+T000002,2026-10-02,Retailer_A,Rice 5kg,Staples,324.06,INR
+T000113,2026-10-11,Retailer_C,Rice 5kg,Staples,327.33,INR
+T000699,05/11/2026,Retailer_B,Wheat Flour 5kg,Staples,259.91,INR
+T001776,11/11/2026,Retailer_B,Biscuits Family Pack,Packaged Food,102.06,INR
+T000952,2026-11-03,Retailer_A,Coffee 200g,Beverages,125.62,INR
+T001629,17/11/2026,Retailer_B,Detergent 1kg,Home Care,139.0,INR
+T001411,2026-11-03,Retailer_A,Dry Fruits 500g,Festive Goods,358.72,INR
+T001410,02/11/2026,Retailer_A,Dry Fruits 500g,Festive Goods,354.56,INR
+T001534,2026-10-04,Retailer_A,Detergent 1kg,Home Care,,INR
+T001292,2026-10-17,Retailer_B,Chocolates Box,Festive Goods,271.72,INR
+T001681,2026-11-18,Retailer_C,Detergent 1kg,Home Care,111.77,INR
+T000442,2026-11-03,Retailer_C,Sugar 1kg,Staples,43.25,INR
+T001521,11/11/2026,Retailer_C,Dry Fruits 500g,Festive Goods,495.13,INR
+T001137,15/10/2026,Retailer_B,Ghee 500ml,Dairy,336.37,INR
+T001257,02/11/2026,Retailer_A,Chocolates Box,Festive Goods,276.88,INR
+T001731,17/11/2026,Retailer_A,Biscuits Family Pack,Packaged Food,85.05,INR
+T001398,21/10/2026,Retailer_A,Dry Fruits 500g,Festive Goods,368.04,INR
+T000664,2026-10-01,Retailer_B,Wheat Flour 5kg,Staples,237.14,INR
+T001705,2026-10-22,Retailer_A,Biscuits Family Pack,Packaged Food,86.14,INR
+T001258,2026-11-03,Retailer_A,Chocolates Box,Festive Goods,280.1,INR
+T001650,18/10/2026,Retailer_C,Detergent 1kg,Home Care,132.46,INR
+T000318,12/10/2026,Retailer_A,Sugar 1kg,Staples,43.58,INR
+T000649,2026-11-06,Retailer_A,Wheat Flour 5kg,Staples,181.29,INR
+T001435,2026-10-07,Retailer_B,Dry Fruits 500g,Festive Goods,427.83,INR
+T001480,2026-10-01,Retailer_C,Dry Fruits 500g,Festive Goods,413.34,INR
+T000710,2026-11-16,Retailer_B,Wheat Flour 5kg,Staples,445.64,INR
+T001383,06/10/2026,Retailer_A,Dry Fruits 500g,Festive Goods,426.4,INR
+T001283,2026-10-08,Retailer_B,Chocolates Box,Festive Goods,262.38,INR
+T000973,2026-10-04,Retailer_B,Coffee 200g,Beverages,168.62,INR
+T000628,2026-10-16,Retailer_A,Wheat Flour 5kg,Staples,218.87,INR
+T000633,21/10/2026,Retailer_A,Wheat Flour 5kg,Staples,203.05,INR
+T001307,2026-11-01,Retailer_B,Chocolates Box,Festive Goods,243.27,INR
+T001401,24/10/2026,Retailer_A,Dry Fruits 500g,Festive Goods,359.09,INR
+T001409,2026-11-01,Retailer_A,Dry Fruits 500g,Festive Goods,357.4,INR
+T001249,2026-10-25,Retailer_A,Chocolates Box,Festive Goods,271.76,INR
+T001811,2026-10-26,Retailer_C,Biscuits Family Pack,Packaged Food,82.91,INR
+T001255,2026-10-31,Retailer_A,Chocolates Box,Festive Goods,275.58,INR
+T001497,18/10/2026,Retailer_C,Dry Fruits 500g,Festive Goods,408.04,INR
+T001372,2026-11-15,Retailer_C,Chocolates Box,Festive Goods,375.02,INR
+T001530,20/11/2026,Retailer_C,Dry Fruits 500g,Festive Goods,446.13,INR
+T001355,2026-10-29,Retailer_C,Chocolates Box,Festive Goods,257.5,INR
+T001786,2026-10-01,Retailer_C,Biscuits Family Pack,Packaged Food,84.45,INR
+T001764,30/10/2026,Retailer_B,Biscuits Family Pack,Packaged Food,98.77,INR
+T001644,12/10/2026,Retailer_C,Detergent 1kg,Home Care,129.9,INR
+T001717,2026-11-03,Retailer_A,Biscuits Family Pack,Packaged Food,88.21,INR
+T000796,2026-10-31,Retailer_A,Tea 500g,Beverages,194.52,INR
+T000646,2026-11-03,Retailer_A,Wheat Flour 5kg,Staples,195.01,INR
+T001013,2026-11-13,Retailer_B,Coffee 200g,Beverages,277.88,INR
+T001708,2026-10-25,Retailer_A,Biscuits Family Pack,Packaged Food,89.27,INR
+T000557,2026-11-16,Retailer_B,Toor Dal 1kg,Pulses,168.32,INR
+T000682,2026-10-19,Retailer_B,Wheat Flour 5kg,Staples,242.78,INR
+T000578,2026-10-17,Retailer_C,Toor Dal 1kg,Pulses,148.34,INR
+T001110,08/11/2026,Retailer_A,Ghee 500ml,Dairy,290.35,INR
+T001267,2026-11-12,Retailer_A,Chocolates Box,Festive Goods,284.36,INR
+T001184,2026-10-11,Retailer_C,Ghee 500ml,Dairy,304.09,INR
+T000525,15/10/2026,Retailer_B,Toor Dal 1kg,Pulses,176.12,INR
+T001060,2026-11-09,Retailer_C,Coffee 200g,Beverages,234.88,INR
+T000541,2026-10-31,Retailer_B,Toor Dal 1kg,Pulses,182.76,INR
+T001195,2026-10-22,Retailer_C,Ghee 500ml,Dairy,290.12,INR
+T000749,2026-11-04,Retailer_C,Wheat Flour 5kg,Staples,216.44,INR
+T001720,2026-11-06,Retailer_A,Biscuits Family Pack,Packaged Food,87.26,INR
+T001431,03/10/2026,Retailer_B,Dry Fruits 500g,Festive Goods,419.64,INR
+T000485,2026-10-26,Retailer_A,Toor Dal 1kg,Pulses,153.78,INR
+T000096,14/11/2026,Retailer_B,Rice 5kg,Staples,348.49,INR
+T001021,2026-10-01,Retailer_C,Coffee 200g,Beverages,161.53,INR
+T000564,03/10/2026,Retailer_C,Toor Dal 1kg,Pulses,155.45,INR
+T001265,2026-11-10,Retailer_A,Chocolates Box,Festive Goods,286.53,INR
+T000743,2026-10-29,Retailer_C,Wheat Flour 5kg,Staples,240.83,INR
+T000864,17/11/2026,Retailer_B,Tea 500g,Beverages,202.36,INR
+T001599,18/10/2026,Retailer_B,Detergent 1kg,Home Care,139.12,INR
+T001485,06/10/2026,Retailer_C,Dry Fruits 500g,Festive Goods,418.05,INR
+T000892,2026-10-25,Retailer_C,Tea 500g,Beverages,185.21,INR
+T001578,17/11/2026,Retailer_A,Detergent 1kg,Home Care,145.89,INR
+T001039,2026-10-19,Retailer_C,Coffee 200g,Beverages,172.23,INR
+T000207,03/10/2026,Retailer_B,Sunflower Oil 1L,Cooking Oil,148.84,INR
+T000393,05/11/2026,Retailer_B,Sugar 1kg,Staples,45.35,INR
+T000795,30/10/2026,Retailer_A,Tea 500g,Beverages,200.15,INR
+T000871,2026-10-04,Retailer_C,Tea 500g,Beverages,206.16,INR
+T000398,2026-11-10,Retailer_B,Sugar 1kg,Staples,45.43,INR
+T000767,2026-10-02,Retailer_A,Tea 500g,Beverages,,INR
+T001710,27/10/2026,Retailer_A,Biscuits Family Pack,Packaged Food,89.73,INR
+T001242,18/10/2026,Retailer_A,Chocolates Box,Festive Goods,267.16,INR
+T001029,09/10/2026,Retailer_C,Coffee 200g,Beverages,162.52,INR
+T000643,2026-10-31,Retailer_A,Wheat Flour 5kg,Staples,191.13,INR
+T001756,2026-10-22,Retailer_B,Biscuits Family Pack,Packaged Food,91.81,INR
+T000613,2026-10-01,Retailer_A,Wheat Flour 5kg,Staples,237.95,INR
+T000961,2026-11-12,Retailer_A,Coffee 200g,Beverages,273.84,INR
+T001571,2026-11-10,Retailer_A,Detergent 1kg,Home Care,142.96,INR
+T000726,12/10/2026,Retailer_C,Wheat Flour 5kg,Staples,237.5,INR
+T000684,21/10/2026,Retailer_B,Wheat Flour 5kg,Staples,244.37,INR
+T000099,17/11/2026,Retailer_B,Rice 5kg,Staples,350.26,INR
+T000805,2026-11-09,Retailer_A,Tea 500g,Beverages,,INR
+T001598,2026-10-17,Retailer_B,Detergent 1kg,Home Care,,INR
+T000407,2026-11-19,Retailer_B,Sugar 1kg,Staples,43.2,INR
+T000503,2026-11-13,Retailer_A,Toor Dal 1kg,Pulses,,INR
+T001072,2026-10-01,Retailer_A,Ghee 500ml,Dairy,308.38,INR
+T001057,2026-11-06,Retailer_C,Coffee 200g,Beverages,164.83,INR
+T000930,12/10/2026,Retailer_A,Coffee 200g,Beverages,,INR
+T000780,15/10/2026,Retailer_A,Tea 500g,Beverages,183.28,INR
+T000201,17/11/2026,Retailer_A,Sunflower Oil 1L,Cooking Oil,134.93,INR
+T000135,02/11/2026,Retailer_C,Rice 5kg,Staples,325.72,INR
+T001052,2026-11-01,Retailer_C,Coffee 200g,Beverages,174.19,INR
+T000041,2026-11-10,Retailer_A,Rice 5kg,Staples,375.49,INR
+T001018,2026-11-18,Retailer_B,Coffee 200g,Beverages,287.86,INR
+T000231,27/10/2026,Retailer_B,Sunflower Oil 1L,Cooking Oil,149.47,INR
+T001514,2026-11-04,Retailer_C,Dry Fruits 500g,Festive Goods,390.4,INR
+T000379,2026-10-22,Retailer_B,Sugar 1kg,Staples,47.61,INR
+T000289,2026-11-03,Retailer_C,Sunflower Oil 1L,Cooking Oil,121.41,INR
+T000419,2026-10-11,Retailer_C,Sugar 1kg,Staples,46.2,INR
+T001699,2026-10-16,Retailer_A,Biscuits Family Pack,Packaged Food,85.79,INR
+T000392,2026-11-04,Retailer_B,Sugar 1kg,Staples,45.42,INR
+T000593,2026-11-01,Retailer_C,Toor Dal 1kg,Pulses,147.69,INR
+T001523,2026-11-13,Retailer_C,Dry Fruits 500g,Festive Goods,494.76,INR
+T001163,2026-11-10,Retailer_B,Ghee 500ml,Dairy,336.63,INR
+T001087,2026-10-16,Retailer_A,Ghee 500ml,Dairy,307.3,INR
+T001496,2026-10-17,Retailer_C,Dry Fruits 500g,Festive Goods,404.3,INR
+T000648,05/11/2026,Retailer_A,Wheat Flour 5kg,Staples,184.58,INR
+T001153,2026-10-31,Retailer_B,Ghee 500ml,Dairy,344.74,INR
+T001368,11/11/2026,Retailer_C,Chocolates Box,Festive Goods,428.25,INR
+T000521,2026-10-11,Retailer_B,Toor Dal 1kg,Pulses,173.1,INR
+T000065,2026-10-14,Retailer_B,Rice 5kg,Staples,324.04,INR
+T000015,15/10/2026,Retailer_A,Rice 5kg,Staples,,INR
+T001181,2026-10-08,Retailer_C,Ghee 500ml,Dairy,293.6,INR
+T001065,14/11/2026,Retailer_C,Coffee 200g,Beverages,227.39,INR
+T000493,2026-11-03,Retailer_A,Toor Dal 1kg,Pulses,159.34,INR
+T000380,2026-10-23,Retailer_B,Sugar 1kg,Staples,46.88,INR
+T000188,2026-11-04,Retailer_A,Sunflower Oil 1L,Cooking Oil,139.65,INR
+T000764,2026-11-19,Retailer_C,Wheat Flour 5kg,Staples,302.77,INR
+T000217,2026-10-13,Retailer_B,Sunflower Oil 1L,Cooking Oil,144.58,INR
+T000792,27/10/2026,Retailer_A,Tea 500g,Beverages,196.52,INR
+T001077,06/10/2026,Retailer_A,Ghee 500ml,Dairy,312.67,INR
+T000879,12/10/2026,Retailer_C,Tea 500g,Beverages,186.73,INR
+T000338,2026-11-01,Retailer_A,Sugar 1kg,Staples,39.48,INR
+T000720,06/10/2026,Retailer_C,Wheat Flour 5kg,Staples,231.78,INR
+T001749,15/10/2026,Retailer_B,Biscuits Family Pack,Packaged Food,85.59,INR
+T000296,2026-11-10,Retailer_C,Sunflower Oil 1L,Cooking Oil,120.05,INR
+T001726,2026-11-12,Retailer_A,Biscuits Family Pack,Packaged Food,86.14,INR
+T001017,17/11/2026,Retailer_B,Coffee 200g,Beverages,282.63,INR
+T001276,2026-10-01,Retailer_B,Chocolates Box,Festive Goods,254.14,INR
+T001751,2026-10-17,Retailer_B,Biscuits Family Pack,Packaged Food,87.62,INR
+T001486,2026-10-07,Retailer_C,Dry Fruits 500g,Festive Goods,413.36,INR
+T000456,17/11/2026,Retailer_C,Sugar 1kg,Staples,74.73,INR
+T001546,2026-10-16,Retailer_A,Detergent 1kg,Home Care,144.27,INR
+T000816,20/11/2026,Retailer_A,Tea 500g,Beverages,246.72,INR
+T000270,15/10/2026,Retailer_C,Sunflower Oil 1L,Cooking Oil,145.47,INR
+T000996,27/10/2026,Retailer_B,Coffee 200g,Beverages,154.91,INR
+T000202,2026-11-18,Retailer_A,Sunflower Oil 1L,Cooking Oil,134.74,INR
+T000162,09/10/2026,Retailer_A,Sunflower Oil 1L,Cooking Oil,144.83,INR
+T001580,2026-11-19,Retailer_A,Detergent 1kg,Home Care,134.4,INR
+T000730,2026-10-16,Retailer_C,Wheat Flour 5kg,Staples,243.54,INR
+T000402,14/11/2026,Retailer_B,Sugar 1kg,Staples,44.9,INR
+T000703,2026-11-09,Retailer_B,Wheat Flour 5kg,Staples,456.06,INR
+T001501,2026-10-22,Retailer_C,Dry Fruits 500g,Festive Goods,368.0,INR
+T001130,2026-10-08,Retailer_B,Ghee 500ml,Dairy,332.52,INR
+T000566,2026-10-05,Retailer_C,Toor Dal 1kg,Pulses,156.3,INR
+T001414,2026-11-06,Retailer_A,Dry Fruits 500g,Festive Goods,356.94,INR
+T001022,2026-10-02,Retailer_C,Coffee 200g,Beverages,159.5,INR
+T001026,06/10/2026,Retailer_C,Coffee 200g,Beverages,160.73,INR
+T001412,2026-11-04,Retailer_A,Dry Fruits 500g,Festive Goods,355.01,INR
+T001586,2026-10-05,Retailer_B,Detergent 1kg,Home Care,143.58,INR
+T001105,2026-11-03,Retailer_A,Ghee 500ml,Dairy,280.32,INR
+T000206,2026-10-02,Retailer_B,Sunflower Oil 1L,Cooking Oil,146.92,INR
+T000035,2026-11-04,Retailer_A,Rice 5kg,Staples,308.31,INR
+T000776,2026-10-11,Retailer_A,Tea 500g,Beverages,188.14,INR
+T000509,2026-11-19,Retailer_A,Toor Dal 1kg,Pulses,148.34,INR
+T001452,24/10/2026,Retailer_B,Dry Fruits 500g,Festive Goods,397.15,INR
+T001479,20/11/2026,Retailer_B,Dry Fruits 500g,Festive Goods,539.22,INR
+T001829,2026-11-13,Retailer_C,Biscuits Family Pack,Packaged Food,79.78,INR
+T001391,2026-10-14,Retailer_A,Dry Fruits 500g,Festive Goods,394.24,INR
+T000092,2026-11-10,Retailer_B,Rice 5kg,Staples,334.94,INR
+T001364,2026-11-07,Retailer_C,Chocolates Box,Festive Goods,426.06,INR
+T000898,2026-10-31,Retailer_C,Tea 500g,Beverages,188.84,INR
+T000565,2026-10-04,Retailer_C,Toor Dal 1kg,Pulses,155.79,INR
+T001370,2026-11-13,Retailer_C,Chocolates Box,Festive Goods,378.3,INR
+T000777,12/10/2026,Retailer_A,Tea 500g,Beverages,185.92,INR
+T000242,2026-11-07,Retailer_B,Sunflower Oil 1L,Cooking Oil,152.53,INR
+T000014,2026-10-14,Retailer_A,Rice 5kg,Staples,331.59,INR
+T000316,2026-10-10,Retailer_A,Sugar 1kg,Staples,43.38,INR
+T000601,2026-11-09,Retailer_C,Toor Dal 1kg,Pulses,143.45,INR
+T000388,2026-10-31,Retailer_B,Sugar 1kg,Staples,46.09,INR
+T001298,2026-10-23,Retailer_B,Chocolates Box,Festive Goods,242.91,INR
+T000167,2026-10-14,Retailer_A,Sunflower Oil 1L,Cooking Oil,141.71,INR
+T000841,2026-10-25,Retailer_B,Tea 500g,Beverages,212.39,INR
+T000021,21/10/2026,Retailer_A,Rice 5kg,Staples,341.37,INR
+T000647,2026-11-04,Retailer_A,Wheat Flour 5kg,Staples,195.96,INR
+T001509,30/10/2026,Retailer_C,Dry Fruits 500g,Festive Goods,394.47,INR
+T001155,02/11/2026,Retailer_B,Ghee 500ml,Dairy,331.84,INR
+T001529,2026-11-19,Retailer_C,Dry Fruits 500g,Festive Goods,448.27,INR
+T000832,2026-10-16,Retailer_B,Tea 500g,Beverages,224.32,INR
+T001268,2026-11-13,Retailer_A,Chocolates Box,Festive Goods,288.38,INR
+T001591,2026-10-10,Retailer_B,Detergent 1kg,Home Care,144.47,INR
+T000563,2026-10-02,Retailer_C,Toor Dal 1kg,Pulses,153.57,INR
+T001810,2026-10-25,Retailer_C,Biscuits Family Pack,Packaged Food,83.69,INR
+T000687,24/10/2026,Retailer_B,Wheat Flour 5kg,Staples,250.67,INR
+T000958,2026-11-09,Retailer_A,Coffee 200g,Beverages,316.08,INR
+T000190,2026-11-06,Retailer_A,Sunflower Oil 1L,Cooking Oil,134.33,INR
+T001807,2026-10-22,Retailer_C,Biscuits Family Pack,Packaged Food,86.03,INR
+T000976,2026-10-07,Retailer_B,Coffee 200g,Beverages,167.95,INR
+T000700,2026-11-06,Retailer_B,Wheat Flour 5kg,Staples,264.28,INR
+T001500,21/10/2026,Retailer_C,Dry Fruits 500g,Festive Goods,366.99,INR
+T001706,2026-10-23,Retailer_A,Biscuits Family Pack,Packaged Food,87.26,INR
+T000511,2026-10-01,Retailer_B,Toor Dal 1kg,Pulses,160.73,INR
+T001083,12/10/2026,Retailer_A,Ghee 500ml,Dairy,306.85,INR
+T000475,2026-10-16,Retailer_A,Toor Dal 1kg,Pulses,157.62,INR
+T001585,2026-10-04,Retailer_B,Detergent 1kg,Home Care,140.8,INR
+T000857,2026-11-10,Retailer_B,Tea 500g,Beverages,213.23,INR
+T000748,2026-11-03,Retailer_C,Wheat Flour 5kg,Staples,232.39,INR
+T000253,2026-11-18,Retailer_B,Sunflower Oil 1L,Cooking Oil,135.79,INR
+T000022,2026-10-22,Retailer_A,Rice 5kg,Staples,336.57,INR
+T001338,12/10/2026,Retailer_C,Chocolates Box,Festive Goods,254.23,INR
+T000460,2026-10-01,Retailer_A,Toor Dal 1kg,Pulses,156.75,INR
+T001185,12/10/2026,Retailer_C,Ghee 500ml,Dairy,300.59,INR
+T000277,2026-10-22,Retailer_C,Sunflower Oil 1L,Cooking Oil,147.3,INR
+T000956,2026-11-07,Retailer_A,Coffee 200g,Beverages,,INR
+T001216,2026-11-12,Retailer_C,Ghee 500ml,Dairy,250.06,INR
+T000386,2026-10-29,Retailer_B,Sugar 1kg,Staples,45.46,INR
+T000806,2026-11-10,Retailer_A,Tea 500g,Beverages,256.03,INR
+T001438,2026-10-10,Retailer_B,Dry Fruits 500g,Festive Goods,436.04,INR
+T001516,2026-11-06,Retailer_C,Dry Fruits 500g,Festive Goods,399.09,INR
+T000344,2026-11-07,Retailer_A,Sugar 1kg,Staples,55.49,INR
+T000770,2026-10-05,Retailer_A,Tea 500g,Beverages,213.97,INR
+T001333,2026-10-07,Retailer_C,Chocolates Box,Festive Goods,245.89,INR
+T001686,03/10/2026,Retailer_A,Biscuits Family Pack,Packaged Food,83.91,INR
+T000131,2026-10-29,Retailer_C,Rice 5kg,Staples,325.9,INR
+T001688,2026-10-05,Retailer_A,Biscuits Family Pack,Packaged Food,83.25,INR
+T000872,2026-10-05,Retailer_C,Tea 500g,Beverages,207.86,INR
+T001124,2026-10-02,Retailer_B,Ghee 500ml,Dairy,319.36,INR
+T001397,2026-10-20,Retailer_A,Dry Fruits 500g,Festive Goods,372.84,INR
+T000088,2026-11-06,Retailer_B,Rice 5kg,Staples,330.75,INR
+T001483,2026-10-04,Retailer_C,Dry Fruits 500g,Festive Goods,408.47,INR
+T000331,2026-10-25,Retailer_A,Sugar 1kg,Staples,41.51,INR
+T001239,15/10/2026,Retailer_A,Chocolates Box,Festive Goods,260.8,INR
+T000467,2026-10-08,Retailer_A,Toor Dal 1kg,Pulses,157.59,INR
+T000122,2026-10-20,Retailer_C,Rice 5kg,Staples,313.84,INR
+T001639,2026-10-07,Retailer_C,Detergent 1kg,Home Care,132.13,INR
+T001045,2026-10-25,Retailer_C,Coffee 200g,Beverages,173.07,INR
+T001725,11/11/2026,Retailer_A,Biscuits Family Pack,Packaged Food,87.54,INR
+T001096,2026-10-25,Retailer_A,Ghee 500ml,Dairy,291.22,INR
+T001131,09/10/2026,Retailer_B,Ghee 500ml,Dairy,336.51,INR
+T001295,2026-10-20,Retailer_B,Chocolates Box,Festive Goods,247.45,INR
+T000861,14/11/2026,Retailer_B,Tea 500g,Beverages,210.29,INR
+T001460,2026-11-01,Retailer_B,Dry Fruits 500g,Festive Goods,434.46,INR
+T001127,2026-10-05,Retailer_B,Ghee 500ml,Dairy,324.7,INR

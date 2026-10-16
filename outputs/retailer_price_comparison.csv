@@ -1,0 +1,37 @@
+product,category,platform,latest_price,latest_date
+Biscuits Family Pack,Packaged Food,Retailer_C,77.81,2026-11-20
+Biscuits Family Pack,Packaged Food,Retailer_A,85.48,2026-11-20
+Biscuits Family Pack,Packaged Food,Retailer_B,99.75,2026-11-20
+Chocolates Box,Festive Goods,Retailer_B,213.75,2026-11-20
+Chocolates Box,Festive Goods,Retailer_A,271.18,2026-11-20
+Chocolates Box,Festive Goods,Retailer_C,365.44,2026-11-20
+Coffee 200g,Beverages,Retailer_C,226.74,2026-11-20
+Coffee 200g,Beverages,Retailer_A,247.74,2026-11-20
+Coffee 200g,Beverages,Retailer_B,284.55,2026-11-20
+Detergent 1kg,Home Care,Retailer_C,102.79,2026-11-20
+Detergent 1kg,Home Care,Retailer_A,132.22,2026-11-20
+Detergent 1kg,Home Care,Retailer_B,140.44,2026-11-20
+Dry Fruits 500g,Festive Goods,Retailer_A,380.96,2026-11-20
+Dry Fruits 500g,Festive Goods,Retailer_C,446.13,2026-11-20
+Dry Fruits 500g,Festive Goods,Retailer_B,539.22,2026-11-20
+Ghee 500ml,Dairy,Retailer_C,226.7,2026-11-20
+Ghee 500ml,Dairy,Retailer_A,271.11,2026-11-20
+Ghee 500ml,Dairy,Retailer_B,332.96,2026-11-20
+Rice 5kg,Staples,Retailer_B,334.62,2026-11-20
+Rice 5kg,Staples,Retailer_A,357.59,2026-11-20
+Rice 5kg,Staples,Retailer_C,613.86,2026-11-20
+Sugar 1kg,Staples,Retailer_B,43.83,2026-11-20
+Sugar 1kg,Staples,Retailer_A,52.93,2026-11-20
+Sugar 1kg,Staples,Retailer_C,75.01,2026-11-20
+Sunflower Oil 1L,Cooking Oil,Retailer_C,119.45,2026-11-20
+Sunflower Oil 1L,Cooking Oil,Retailer_A,129.18,2026-11-20
+Sunflower Oil 1L,Cooking Oil,Retailer_B,137.26,2026-11-20
+Tea 500g,Beverages,Retailer_B,200.79,2026-11-20
+Tea 500g,Beverages,Retailer_C,201.79,2026-11-20
+Tea 500g,Beverages,Retailer_A,246.72,2026-11-20
+Toor Dal 1kg,Pulses,Retailer_C,143.83,2026-11-20
+Toor Dal 1kg,Pulses,Retailer_A,149.55,2026-11-20
+Toor Dal 1kg,Pulses,Retailer_B,167.61,2026-11-20
+Wheat Flour 5kg,Staples,Retailer_A,251.36,2026-11-20
+Wheat Flour 5kg,Staples,Retailer_C,298.6,2026-11-20
+Wheat Flour 5kg,Staples,Retailer_B,463.6,2026-11-20
