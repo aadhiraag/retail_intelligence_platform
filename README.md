@@ -57,7 +57,7 @@ niq_retail_intelligence_platform/
 
 ```bash
 git clone YOUR_GITHUB_REPOSITORY_URL
-cd niq_retail_intelligence_platform
+cd retail_intelligence_platform
 ```
 
 ### 2. Create and activate a virtual environment
