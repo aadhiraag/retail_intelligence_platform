@@ -6,7 +6,6 @@ A data analytics project that processes synthetic FMCG retail price data, stores
 
 This project demonstrates a retail analytics workflow using Python, SQL, PostgreSQL, FastAPI, and Streamlit. It simulates price observations across products and retailers to explore price movements and data quality.
 
-**Note:** The dataset is synthetic and is not sourced from NIQ, NielsenIQ, or actual retailers.
 
 ## Key Features
 
